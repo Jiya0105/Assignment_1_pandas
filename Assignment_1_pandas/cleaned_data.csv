@@ -1,0 +1,2765 @@
+Education,JoiningYear,City,PaymentTier,Age,Gender,EverBenched,ExperienceInCurrentDomain,LeaveOrNot,Experience_Age_Ratio
+Bachelors,2017,Bangalore,3,34,Male,No,0,0,0.0
+Bachelors,2013,Pune,1,28,Female,No,3,1,0.10714285714285714
+Bachelors,2014,New Delhi,3,38,Female,No,2,0,0.05263157894736842
+Masters,2016,Bangalore,3,27,Male,No,5,1,0.18518518518518517
+Masters,2017,Pune,3,24,Male,Yes,2,1,0.08333333333333333
+Bachelors,2016,Bangalore,3,22,Male,No,0,0,0.0
+Bachelors,2015,New Delhi,3,38,Male,No,0,0,0.0
+Bachelors,2016,Bangalore,3,34,Female,No,2,1,0.058823529411764705
+Bachelors,2016,Pune,3,23,Male,No,1,0,0.043478260869565216
+Masters,2017,New Delhi,2,37,Male,No,2,0,0.05405405405405406
+Masters,2012,Bangalore,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2016,Pune,3,34,Male,No,3,0,0.08823529411764706
+Bachelors,2018,Pune,3,32,Male,Yes,5,1,0.15625
+Bachelors,2016,Bangalore,3,39,Male,No,2,0,0.05128205128205128
+Bachelors,2012,Bangalore,3,37,Male,No,4,0,0.10810810810810811
+Bachelors,2017,Bangalore,1,29,Male,No,3,0,0.10344827586206896
+Bachelors,2014,Bangalore,3,34,Female,No,2,0,0.058823529411764705
+Bachelors,2014,Pune,3,34,Male,No,4,0,0.11764705882352941
+Bachelors,2015,Pune,2,30,Female,No,0,1,0.0
+Bachelors,2016,New Delhi,2,22,Female,No,0,1,0.0
+Bachelors,2012,Bangalore,3,37,Male,No,0,0,0.0
+Masters,2017,New Delhi,2,28,Male,No,4,0,0.14285714285714285
+Bachelors,2017,New Delhi,2,36,Male,No,3,0,0.08333333333333333
+Bachelors,2015,Bangalore,3,27,Male,Yes,5,0,0.18518518518518517
+Bachelors,2017,Bangalore,3,29,Male,No,4,0,0.13793103448275862
+Bachelors,2013,Bangalore,3,22,Female,Yes,0,0,0.0
+Bachelors,2016,Bangalore,3,37,Male,No,2,0,0.05405405405405406
+Bachelors,2015,Bangalore,3,23,Male,No,1,0,0.043478260869565216
+Bachelors,2013,Pune,2,31,Female,No,2,1,0.06451612903225806
+Masters,2017,New Delhi,2,30,Female,No,2,0,0.06666666666666667
+PHD,2013,New Delhi,3,25,Male,No,3,0,0.12
+Bachelors,2014,Bangalore,3,23,Male,No,1,0,0.043478260869565216
+Bachelors,2018,Bangalore,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2016,Bangalore,3,40,Male,No,5,0,0.125
+Bachelors,2017,Pune,2,37,Female,No,0,1,0.0
+Bachelors,2014,Bangalore,1,30,Female,No,3,0,0.1
+Bachelors,2012,New Delhi,3,29,Male,No,3,0,0.10344827586206896
+Bachelors,2018,New Delhi,2,34,Female,No,0,1,0.0
+Bachelors,2017,Pune,2,29,Female,No,2,1,0.06896551724137931
+Bachelors,2014,Pune,3,30,Male,Yes,4,0,0.13333333333333333
+Bachelors,2015,Bangalore,3,36,Male,No,1,0,0.027777777777777776
+Masters,2017,New Delhi,2,23,Male,No,1,0,0.043478260869565216
+Bachelors,2013,Bangalore,3,30,Male,No,3,1,0.1
+Bachelors,2014,Bangalore,3,36,Male,No,0,0,0.0
+Bachelors,2015,Pune,3,39,Male,No,4,0,0.10256410256410256
+Bachelors,2014,Bangalore,3,23,Female,No,1,0,0.043478260869565216
+PHD,2012,New Delhi,3,27,Male,No,5,0,0.18518518518518517
+Masters,2013,New Delhi,3,35,Male,No,2,0,0.05714285714285714
+Masters,2017,New Delhi,2,34,Male,No,0,0,0.0
+Bachelors,2013,Bangalore,3,30,Female,No,1,0,0.03333333333333333
+PHD,2017,New Delhi,3,34,Male,No,2,0,0.058823529411764705
+Bachelors,2015,Pune,2,26,Female,No,4,1,0.15384615384615385
+Bachelors,2016,Bangalore,3,34,Female,No,0,0,0.0
+Bachelors,2014,Bangalore,3,31,Female,Yes,5,0,0.16129032258064516
+Bachelors,2017,New Delhi,3,31,Female,Yes,5,0,0.16129032258064516
+PHD,2013,New Delhi,3,28,Male,No,2,0,0.07142857142857142
+Bachelors,2016,Bangalore,3,38,Male,No,2,0,0.05263157894736842
+Masters,2014,Pune,3,39,Female,No,2,0,0.05128205128205128
+Bachelors,2013,Pune,3,32,Male,No,4,0,0.125
+Masters,2017,Pune,2,36,Male,No,2,1,0.05555555555555555
+Masters,2013,New Delhi,3,29,Male,No,3,0,0.10344827586206896
+Bachelors,2015,Bangalore,3,30,Male,No,5,0,0.16666666666666666
+PHD,2013,Bangalore,2,25,Male,No,3,1,0.12
+Bachelors,2014,Pune,1,22,Female,No,0,1,0.0
+Bachelors,2016,Bangalore,3,34,Male,No,4,0,0.11764705882352941
+Bachelors,2018,Bangalore,3,40,Male,No,1,1,0.025
+PHD,2013,Bangalore,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2014,New Delhi,3,28,Male,No,0,0,0.0
+Bachelors,2015,Bangalore,3,24,Female,No,2,0,0.08333333333333333
+Masters,2017,Bangalore,3,40,Female,No,2,1,0.05
+Bachelors,2018,Bangalore,3,23,Female,No,1,1,0.043478260869565216
+Masters,2017,Bangalore,3,31,Male,No,4,0,0.12903225806451613
+Bachelors,2014,Pune,3,25,Female,No,3,0,0.12
+Bachelors,2014,Bangalore,1,27,Male,No,5,0,0.18518518518518517
+Masters,2017,New Delhi,2,25,Female,No,3,1,0.12
+Bachelors,2015,Bangalore,3,40,Male,No,0,1,0.0
+Bachelors,2014,Bangalore,1,23,Female,No,1,0,0.043478260869565216
+Bachelors,2017,Bangalore,3,23,Female,No,1,0,0.043478260869565216
+Bachelors,2012,Bangalore,3,39,Male,No,1,0,0.02564102564102564
+PHD,2015,New Delhi,1,37,Male,No,1,0,0.02702702702702703
+Bachelors,2017,Pune,3,38,Male,No,2,0,0.05263157894736842
+Bachelors,2013,Bangalore,3,31,Female,No,0,1,0.0
+Bachelors,2016,Bangalore,3,38,Male,No,5,0,0.13157894736842105
+Bachelors,2017,Bangalore,3,25,Female,No,3,0,0.12
+Bachelors,2015,Bangalore,3,27,Female,Yes,5,1,0.18518518518518517
+Bachelors,2016,Pune,2,36,Male,No,0,1,0.0
+Bachelors,2017,Pune,2,27,Female,No,5,1,0.18518518518518517
+Masters,2015,Pune,2,32,Female,No,4,0,0.125
+Bachelors,2014,Bangalore,3,28,Male,No,4,0,0.14285714285714285
+Masters,2012,New Delhi,3,32,Male,No,2,0,0.0625
+Bachelors,2018,Bangalore,3,30,Male,No,0,1,0.0
+Bachelors,2015,New Delhi,3,22,Male,No,0,0,0.0
+Bachelors,2017,New Delhi,2,34,Female,No,5,0,0.14705882352941177
+Masters,2013,New Delhi,3,36,Male,No,2,0,0.05555555555555555
+Bachelors,2014,Bangalore,3,39,Male,No,3,1,0.07692307692307693
+PHD,2018,Bangalore,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2016,Bangalore,3,31,Female,No,0,0,0.0
+Bachelors,2014,Bangalore,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2014,Bangalore,3,29,Female,No,0,0,0.0
+Bachelors,2015,Bangalore,3,24,Female,No,2,1,0.08333333333333333
+Masters,2012,Pune,3,25,Male,No,3,1,0.12
+Bachelors,2013,Pune,3,25,Male,No,3,0,0.12
+Masters,2017,New Delhi,3,26,Female,No,4,1,0.15384615384615385
+Bachelors,2015,Pune,2,28,Female,Yes,1,1,0.03571428571428571
+Bachelors,2017,New Delhi,3,28,Male,No,2,0,0.07142857142857142
+Masters,2015,Pune,1,28,Female,No,3,1,0.10714285714285714
+Masters,2015,New Delhi,3,25,Male,No,3,0,0.12
+Bachelors,2017,Bangalore,3,28,Male,No,1,0,0.03571428571428571
+Masters,2013,Pune,3,25,Male,No,3,0,0.12
+Bachelors,2015,Bangalore,2,25,Female,No,3,1,0.12
+Bachelors,2015,Bangalore,3,27,Female,No,5,0,0.18518518518518517
+Bachelors,2013,Bangalore,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2012,Bangalore,3,25,Male,No,3,0,0.12
+Masters,2017,New Delhi,2,28,Male,No,2,0,0.07142857142857142
+Bachelors,2014,Pune,1,26,Female,No,4,1,0.15384615384615385
+Bachelors,2015,Bangalore,3,28,Male,No,2,0,0.07142857142857142
+Masters,2013,New Delhi,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2017,Bangalore,3,26,Female,No,4,0,0.15384615384615385
+Bachelors,2017,New Delhi,2,25,Male,No,3,0,0.12
+Bachelors,2012,Bangalore,1,28,Female,No,3,0,0.10714285714285714
+PHD,2015,New Delhi,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2015,New Delhi,3,25,Female,No,3,0,0.12
+Bachelors,2012,Bangalore,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2014,Bangalore,3,28,Female,No,3,0,0.10714285714285714
+Masters,2014,Pune,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2013,Bangalore,3,28,Male,No,1,0,0.03571428571428571
+Bachelors,2015,Pune,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2018,Bangalore,3,25,Male,No,3,1,0.12
+Masters,2013,Pune,1,24,Male,No,2,1,0.08333333333333333
+Bachelors,2013,Bangalore,3,28,Male,No,1,1,0.03571428571428571
+Masters,2016,New Delhi,3,27,Male,No,5,0,0.18518518518518517
+Masters,2017,Bangalore,3,26,Male,No,4,0,0.15384615384615385
+Masters,2017,New Delhi,2,24,Male,No,2,0,0.08333333333333333
+Masters,2018,New Delhi,3,26,Male,No,4,1,0.15384615384615385
+Masters,2017,New Delhi,1,25,Female,No,3,1,0.12
+Bachelors,2012,Pune,3,28,Male,No,2,0,0.07142857142857142
+Bachelors,2013,Bangalore,3,26,Male,No,4,0,0.15384615384615385
+Masters,2013,New Delhi,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2017,Pune,2,24,Female,No,2,1,0.08333333333333333
+Bachelors,2017,New Delhi,3,28,Female,No,2,0,0.07142857142857142
+Bachelors,2016,Bangalore,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2013,Bangalore,3,27,Female,No,5,0,0.18518518518518517
+Masters,2015,Pune,2,28,Female,No,3,0,0.10714285714285714
+Bachelors,2014,Bangalore,3,25,Male,No,3,0,0.12
+Bachelors,2016,Pune,3,28,Male,No,1,0,0.03571428571428571
+Masters,2013,Bangalore,1,25,Male,No,3,1,0.12
+Bachelors,2015,Pune,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2018,New Delhi,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2016,Bangalore,3,24,Male,No,2,1,0.08333333333333333
+Bachelors,2012,Pune,2,24,Female,No,2,1,0.08333333333333333
+Bachelors,2014,Bangalore,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2016,Pune,2,24,Female,No,2,1,0.08333333333333333
+Masters,2012,New Delhi,3,26,Female,No,4,0,0.15384615384615385
+Bachelors,2013,Bangalore,3,28,Female,No,3,0,0.10714285714285714
+Bachelors,2012,Bangalore,3,24,Male,No,2,1,0.08333333333333333
+Bachelors,2015,Bangalore,3,25,Male,No,3,1,0.12
+Bachelors,2016,Bangalore,3,28,Male,No,3,0,0.10714285714285714
+Bachelors,2013,Bangalore,3,26,Female,No,4,0,0.15384615384615385
+Masters,2017,New Delhi,3,24,Female,No,2,1,0.08333333333333333
+Bachelors,2016,Bangalore,3,25,Male,No,3,1,0.12
+Bachelors,2015,Bangalore,3,25,Male,No,3,0,0.12
+Bachelors,2014,Bangalore,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2012,Bangalore,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2015,Bangalore,3,28,Male,No,3,0,0.10714285714285714
+Masters,2015,New Delhi,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2014,New Delhi,3,28,Female,No,1,0,0.03571428571428571
+Bachelors,2015,Pune,3,25,Male,No,3,0,0.12
+Masters,2015,Pune,2,28,Female,No,2,0,0.07142857142857142
+Bachelors,2014,Bangalore,3,27,Female,No,5,0,0.18518518518518517
+Bachelors,2014,New Delhi,3,24,Female,No,2,0,0.08333333333333333
+Bachelors,2012,Bangalore,3,27,Male,No,5,1,0.18518518518518517
+Masters,2017,New Delhi,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2018,Bangalore,3,24,Male,No,2,1,0.08333333333333333
+Masters,2017,New Delhi,2,28,Female,No,1,1,0.03571428571428571
+Masters,2017,Pune,2,24,Male,No,2,1,0.08333333333333333
+Masters,2016,New Delhi,3,25,Female,No,3,1,0.12
+PHD,2015,New Delhi,3,28,Female,No,1,0,0.03571428571428571
+Bachelors,2017,New Delhi,2,26,Male,No,4,0,0.15384615384615385
+Bachelors,2013,Bangalore,2,27,Male,No,5,0,0.18518518518518517
+Bachelors,2015,Bangalore,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2013,New Delhi,3,25,Female,No,3,0,0.12
+Bachelors,2013,Pune,3,28,Male,No,1,0,0.03571428571428571
+Bachelors,2017,Pune,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2013,New Delhi,3,27,Female,No,5,0,0.18518518518518517
+Bachelors,2015,Bangalore,3,28,Male,Yes,2,0,0.07142857142857142
+Bachelors,2015,Pune,3,28,Male,No,3,0,0.10714285714285714
+Bachelors,2014,Pune,2,25,Female,No,3,1,0.12
+Bachelors,2017,Bangalore,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2014,Pune,2,26,Female,No,4,1,0.15384615384615385
+PHD,2013,New Delhi,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2017,Bangalore,3,25,Male,No,3,0,0.12
+Masters,2013,Pune,2,27,Male,No,5,1,0.18518518518518517
+Masters,2017,Bangalore,3,28,Male,No,2,0,0.07142857142857142
+Bachelors,2012,Bangalore,3,25,Male,No,3,1,0.12
+Masters,2017,Pune,2,27,Female,No,5,0,0.18518518518518517
+Masters,2013,Bangalore,2,28,Female,No,2,1,0.07142857142857142
+Masters,2017,Pune,3,28,Male,No,1,1,0.03571428571428571
+Bachelors,2018,Bangalore,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2014,New Delhi,3,25,Female,No,3,0,0.12
+Masters,2013,New Delhi,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2013,Pune,2,25,Female,No,3,1,0.12
+Masters,2012,New Delhi,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2013,Pune,2,26,Male,No,4,0,0.15384615384615385
+Bachelors,2018,Bangalore,3,28,Female,No,2,1,0.07142857142857142
+Bachelors,2013,Bangalore,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2015,Pune,1,24,Female,Yes,2,1,0.08333333333333333
+Bachelors,2013,Pune,3,28,Male,No,2,0,0.07142857142857142
+Bachelors,2015,Pune,2,27,Female,Yes,5,1,0.18518518518518517
+Bachelors,2014,Pune,2,27,Female,No,5,1,0.18518518518518517
+Bachelors,2013,Pune,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2014,Pune,3,24,Male,No,2,0,0.08333333333333333
+PHD,2015,New Delhi,2,25,Female,No,3,0,0.12
+Bachelors,2014,Bangalore,3,26,Male,Yes,4,0,0.15384615384615385
+Masters,2015,Pune,2,25,Female,No,3,0,0.12
+Bachelors,2015,Bangalore,3,24,Male,No,2,0,0.08333333333333333
+Masters,2017,Bangalore,2,26,Female,No,4,1,0.15384615384615385
+Bachelors,2012,New Delhi,3,28,Male,No,1,0,0.03571428571428571
+Masters,2017,Pune,2,26,Female,No,4,0,0.15384615384615385
+Bachelors,2016,Pune,3,25,Male,No,3,0,0.12
+Bachelors,2017,New Delhi,3,24,Male,No,2,1,0.08333333333333333
+Bachelors,2013,Pune,2,28,Female,No,3,1,0.10714285714285714
+Bachelors,2014,Bangalore,3,25,Female,No,3,1,0.12
+Bachelors,2014,Pune,2,24,Female,No,2,1,0.08333333333333333
+Bachelors,2015,Bangalore,3,28,Male,No,2,1,0.07142857142857142
+Bachelors,2015,Bangalore,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2016,Pune,3,26,Male,No,4,0,0.15384615384615385
+Masters,2015,New Delhi,3,26,Female,No,4,1,0.15384615384615385
+Bachelors,2016,Bangalore,1,28,Female,No,2,0,0.07142857142857142
+Bachelors,2014,Bangalore,3,25,Male,Yes,3,0,0.12
+Bachelors,2017,Bangalore,3,28,Male,No,2,0,0.07142857142857142
+Masters,2018,New Delhi,3,24,Female,Yes,2,1,0.08333333333333333
+Bachelors,2017,Pune,2,25,Male,No,3,0,0.12
+Bachelors,2018,Pune,2,24,Female,No,2,1,0.08333333333333333
+Masters,2017,New Delhi,2,28,Female,No,1,0,0.03571428571428571
+Bachelors,2013,New Delhi,1,27,Female,No,5,0,0.18518518518518517
+Bachelors,2017,New Delhi,2,27,Female,No,5,0,0.18518518518518517
+Bachelors,2016,Pune,2,27,Female,No,5,1,0.18518518518518517
+Masters,2018,Bangalore,3,24,Male,No,2,1,0.08333333333333333
+Bachelors,2012,Pune,1,26,Male,No,4,0,0.15384615384615385
+Masters,2016,New Delhi,1,27,Male,No,5,0,0.18518518518518517
+Bachelors,2015,New Delhi,3,26,Female,No,4,0,0.15384615384615385
+Bachelors,2012,Bangalore,3,27,Male,Yes,5,0,0.18518518518518517
+Bachelors,2013,Bangalore,3,24,Male,Yes,2,1,0.08333333333333333
+Bachelors,2018,Bangalore,3,26,Female,No,4,1,0.15384615384615385
+Masters,2017,Pune,2,26,Female,No,4,1,0.15384615384615385
+Masters,2017,New Delhi,2,28,Female,No,2,0,0.07142857142857142
+Masters,2013,New Delhi,3,25,Male,No,3,0,0.12
+Bachelors,2018,Bangalore,3,28,Female,Yes,1,1,0.03571428571428571
+Bachelors,2013,Pune,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2014,Bangalore,3,28,Male,No,1,0,0.03571428571428571
+Bachelors,2017,New Delhi,3,28,Female,No,3,0,0.10714285714285714
+Masters,2017,New Delhi,2,28,Male,Yes,2,0,0.07142857142857142
+Masters,2017,New Delhi,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2015,Pune,1,25,Female,No,3,1,0.12
+Masters,2013,New Delhi,3,27,Male,No,5,0,0.18518518518518517
+PHD,2014,Bangalore,3,24,Female,No,2,0,0.08333333333333333
+Masters,2017,New Delhi,2,27,Female,No,5,0,0.18518518518518517
+Bachelors,2012,Bangalore,3,26,Male,No,4,0,0.15384615384615385
+Masters,2015,Pune,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2016,Bangalore,3,24,Male,No,2,0,0.08333333333333333
+Masters,2017,New Delhi,2,25,Female,No,3,0,0.12
+Bachelors,2017,New Delhi,2,28,Male,No,1,0,0.03571428571428571
+Bachelors,2012,New Delhi,3,27,Female,No,5,0,0.18518518518518517
+Bachelors,2015,Bangalore,3,26,Female,Yes,4,1,0.15384615384615385
+Bachelors,2014,Pune,3,28,Male,No,2,0,0.07142857142857142
+Bachelors,2016,Bangalore,3,24,Female,No,2,1,0.08333333333333333
+Bachelors,2012,Bangalore,3,28,Male,No,3,0,0.10714285714285714
+Bachelors,2012,Bangalore,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2014,New Delhi,3,27,Female,Yes,5,0,0.18518518518518517
+Bachelors,2015,Pune,3,26,Female,Yes,4,1,0.15384615384615385
+Masters,2014,New Delhi,3,26,Male,No,4,1,0.15384615384615385
+PHD,2015,New Delhi,3,25,Female,No,3,0,0.12
+Bachelors,2012,Pune,3,27,Male,No,5,0,0.18518518518518517
+Masters,2017,New Delhi,2,24,Female,No,2,0,0.08333333333333333
+Masters,2015,Pune,3,28,Female,No,2,0,0.07142857142857142
+Bachelors,2017,Bangalore,3,24,Female,No,2,0,0.08333333333333333
+Bachelors,2017,Pune,3,25,Male,No,3,0,0.12
+Bachelors,2017,Bangalore,1,25,Male,No,3,0,0.12
+Bachelors,2017,Pune,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2014,Pune,3,25,Female,No,3,1,0.12
+Bachelors,2018,Pune,3,26,Female,No,4,1,0.15384615384615385
+Bachelors,2016,Bangalore,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2017,Bangalore,3,28,Female,No,2,0,0.07142857142857142
+Masters,2012,New Delhi,3,24,Female,No,2,1,0.08333333333333333
+Bachelors,2015,New Delhi,3,26,Female,Yes,4,0,0.15384615384615385
+Bachelors,2018,Pune,3,25,Male,Yes,3,1,0.12
+Masters,2017,New Delhi,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2013,Bangalore,3,28,Male,No,2,1,0.07142857142857142
+Bachelors,2017,Bangalore,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2013,Pune,2,28,Female,No,1,1,0.03571428571428571
+Bachelors,2015,New Delhi,2,27,Female,No,5,1,0.18518518518518517
+Bachelors,2018,Bangalore,3,24,Female,No,2,1,0.08333333333333333
+Bachelors,2013,Bangalore,3,24,Male,Yes,2,0,0.08333333333333333
+Bachelors,2013,Bangalore,3,24,Female,No,2,0,0.08333333333333333
+Bachelors,2012,Pune,3,24,Female,No,2,1,0.08333333333333333
+Bachelors,2016,Bangalore,3,24,Male,Yes,2,1,0.08333333333333333
+Bachelors,2017,New Delhi,2,27,Male,No,5,0,0.18518518518518517
+Bachelors,2012,Pune,2,27,Female,No,5,1,0.18518518518518517
+Masters,2017,Pune,2,27,Male,No,5,0,0.18518518518518517
+Bachelors,2017,Pune,2,24,Male,No,2,1,0.08333333333333333
+Bachelors,2016,Pune,1,26,Female,No,4,1,0.15384615384615385
+Bachelors,2015,Pune,3,26,Female,No,4,1,0.15384615384615385
+Bachelors,2012,Pune,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2017,Bangalore,3,25,Female,Yes,3,0,0.12
+Masters,2017,Pune,2,26,Male,No,4,0,0.15384615384615385
+Masters,2015,Pune,2,25,Female,No,3,1,0.12
+Bachelors,2017,New Delhi,2,26,Female,No,4,0,0.15384615384615385
+Bachelors,2017,New Delhi,3,27,Female,No,5,0,0.18518518518518517
+Bachelors,2015,New Delhi,3,24,Female,No,2,0,0.08333333333333333
+Masters,2017,Bangalore,1,26,Female,No,4,1,0.15384615384615385
+Bachelors,2017,New Delhi,1,28,Female,No,2,0,0.07142857142857142
+Bachelors,2014,Bangalore,3,25,Female,No,3,0,0.12
+Bachelors,2014,Bangalore,3,28,Male,No,2,0,0.07142857142857142
+Bachelors,2017,Bangalore,3,28,Male,No,3,0,0.10714285714285714
+Masters,2015,New Delhi,1,27,Male,No,5,0,0.18518518518518517
+Masters,2018,Bangalore,3,25,Male,Yes,3,1,0.12
+Bachelors,2016,Bangalore,3,28,Female,No,3,0,0.10714285714285714
+Bachelors,2018,New Delhi,3,26,Female,Yes,4,1,0.15384615384615385
+Bachelors,2015,Pune,2,24,Female,No,2,1,0.08333333333333333
+Bachelors,2017,Bangalore,3,27,Male,Yes,5,0,0.18518518518518517
+Bachelors,2014,Bangalore,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2016,Bangalore,3,28,Male,No,2,0,0.07142857142857142
+Bachelors,2015,Pune,2,25,Female,No,3,1,0.12
+Bachelors,2013,Pune,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2015,Pune,3,28,Male,No,2,0,0.07142857142857142
+Bachelors,2014,New Delhi,2,24,Female,No,2,1,0.08333333333333333
+Bachelors,2013,Bangalore,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2018,Bangalore,3,28,Male,Yes,3,1,0.10714285714285714
+Bachelors,2014,Pune,2,26,Male,No,4,0,0.15384615384615385
+PHD,2013,Bangalore,3,25,Male,No,3,0,0.12
+Bachelors,2017,New Delhi,2,28,Female,No,1,0,0.03571428571428571
+Bachelors,2015,Pune,1,26,Female,No,4,1,0.15384615384615385
+Masters,2017,New Delhi,3,26,Male,Yes,4,1,0.15384615384615385
+Bachelors,2012,New Delhi,3,24,Female,No,2,0,0.08333333333333333
+Bachelors,2017,New Delhi,2,24,Male,No,2,0,0.08333333333333333
+Bachelors,2012,Bangalore,3,26,Female,No,4,0,0.15384615384615385
+Masters,2014,Pune,3,25,Male,No,3,0,0.12
+Bachelors,2016,Pune,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2016,Bangalore,3,26,Female,No,4,0,0.15384615384615385
+Bachelors,2015,Pune,2,25,Female,Yes,3,1,0.12
+Masters,2013,New Delhi,2,25,Male,No,3,1,0.12
+Bachelors,2015,Pune,2,26,Female,Yes,4,1,0.15384615384615385
+Masters,2015,Bangalore,2,26,Female,No,4,1,0.15384615384615385
+Bachelors,2012,Pune,3,27,Female,No,5,0,0.18518518518518517
+Masters,2017,New Delhi,3,28,Male,Yes,2,0,0.07142857142857142
+Bachelors,2013,New Delhi,3,27,Female,Yes,5,0,0.18518518518518517
+Bachelors,2015,New Delhi,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2017,Pune,2,27,Male,No,5,0,0.18518518518518517
+PHD,2018,New Delhi,3,25,Male,No,3,1,0.12
+Bachelors,2014,Pune,3,27,Male,No,5,0,0.18518518518518517
+Masters,2017,Pune,2,24,Female,No,2,1,0.08333333333333333
+PHD,2016,New Delhi,2,28,Male,No,3,1,0.10714285714285714
+Masters,2017,New Delhi,2,27,Male,Yes,5,1,0.18518518518518517
+PHD,2013,New Delhi,3,27,Male,No,5,0,0.18518518518518517
+Masters,2014,New Delhi,3,28,Female,No,1,0,0.03571428571428571
+Bachelors,2017,Pune,3,27,Male,No,5,0,0.18518518518518517
+Masters,2014,Bangalore,3,26,Male,No,4,1,0.15384615384615385
+Masters,2012,Pune,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2017,Bangalore,3,26,Male,No,4,0,0.15384615384615385
+Masters,2017,Pune,2,27,Male,No,5,1,0.18518518518518517
+Bachelors,2016,Pune,3,27,Male,Yes,5,0,0.18518518518518517
+Bachelors,2014,Pune,3,25,Male,No,3,0,0.12
+Masters,2012,Pune,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2013,Pune,2,25,Male,No,3,1,0.12
+Bachelors,2013,Pune,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2015,New Delhi,3,25,Male,No,3,0,0.12
+PHD,2012,Pune,3,24,Male,No,2,0,0.08333333333333333
+Masters,2015,New Delhi,3,24,Female,No,2,0,0.08333333333333333
+Masters,2017,New Delhi,3,24,Male,No,2,1,0.08333333333333333
+Bachelors,2014,Bangalore,1,25,Male,Yes,3,0,0.12
+Bachelors,2018,Bangalore,3,28,Male,No,1,1,0.03571428571428571
+Bachelors,2017,Bangalore,3,28,Male,Yes,3,0,0.10714285714285714
+Masters,2013,Bangalore,3,28,Female,Yes,2,1,0.07142857142857142
+Bachelors,2013,Bangalore,3,26,Male,Yes,4,0,0.15384615384615385
+Masters,2018,New Delhi,1,24,Male,Yes,2,1,0.08333333333333333
+PHD,2013,New Delhi,2,27,Female,No,5,0,0.18518518518518517
+Masters,2018,New Delhi,3,28,Male,Yes,2,1,0.07142857142857142
+Bachelors,2014,Bangalore,3,28,Male,No,3,1,0.10714285714285714
+Bachelors,2013,New Delhi,3,24,Female,No,2,1,0.08333333333333333
+Bachelors,2015,Pune,2,28,Female,No,1,1,0.03571428571428571
+Bachelors,2017,New Delhi,2,28,Female,No,3,0,0.10714285714285714
+Masters,2012,Pune,3,27,Female,No,5,1,0.18518518518518517
+Masters,2017,Pune,3,25,Female,Yes,3,1,0.12
+Masters,2017,New Delhi,2,27,Male,No,5,1,0.18518518518518517
+Masters,2017,Pune,2,24,Male,No,2,0,0.08333333333333333
+Bachelors,2013,Pune,2,24,Male,Yes,2,1,0.08333333333333333
+PHD,2015,New Delhi,2,28,Female,No,1,0,0.03571428571428571
+Masters,2014,New Delhi,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2018,Pune,3,25,Male,No,3,1,0.12
+Bachelors,2013,Bangalore,3,26,Male,Yes,4,1,0.15384615384615385
+Bachelors,2015,New Delhi,3,25,Male,No,3,1,0.12
+Bachelors,2017,New Delhi,2,25,Female,No,3,1,0.12
+Bachelors,2012,Bangalore,3,25,Male,Yes,3,0,0.12
+Bachelors,2014,New Delhi,3,28,Female,No,2,0,0.07142857142857142
+Bachelors,2018,Pune,3,26,Male,No,4,1,0.15384615384615385
+Masters,2014,New Delhi,3,28,Male,No,2,0,0.07142857142857142
+Masters,2017,Pune,3,25,Male,No,3,1,0.12
+Bachelors,2018,Bangalore,3,28,Male,No,2,1,0.07142857142857142
+Bachelors,2012,Bangalore,3,24,Male,Yes,2,0,0.08333333333333333
+Bachelors,2015,Bangalore,3,28,Female,No,1,0,0.03571428571428571
+Bachelors,2016,New Delhi,3,24,Female,No,2,0,0.08333333333333333
+Bachelors,2012,Bangalore,3,25,Female,No,3,0,0.12
+Bachelors,2012,Pune,3,28,Male,No,3,0,0.10714285714285714
+Bachelors,2016,Bangalore,3,27,Female,No,5,0,0.18518518518518517
+Masters,2015,Pune,2,24,Female,No,2,0,0.08333333333333333
+Masters,2014,Bangalore,3,24,Female,No,2,1,0.08333333333333333
+Bachelors,2013,Bangalore,3,25,Male,No,3,0,0.12
+Bachelors,2017,New Delhi,2,28,Male,No,3,0,0.10714285714285714
+PHD,2014,New Delhi,3,24,Male,No,2,0,0.08333333333333333
+Masters,2017,New Delhi,2,26,Female,No,4,0,0.15384615384615385
+Masters,2018,New Delhi,3,25,Male,No,3,1,0.12
+Bachelors,2014,Bangalore,3,25,Male,No,3,1,0.12
+Bachelors,2018,New Delhi,3,28,Female,No,3,1,0.10714285714285714
+Masters,2017,New Delhi,2,25,Male,Yes,3,1,0.12
+Masters,2013,New Delhi,3,28,Male,No,2,0,0.07142857142857142
+Masters,2013,New Delhi,3,25,Female,No,3,0,0.12
+Bachelors,2016,Bangalore,3,25,Male,No,3,0,0.12
+Masters,2017,New Delhi,2,26,Male,Yes,4,1,0.15384615384615385
+Bachelors,2013,Bangalore,3,28,Male,No,2,0,0.07142857142857142
+Masters,2015,Pune,3,28,Female,Yes,2,0,0.07142857142857142
+Masters,2014,Pune,2,27,Female,No,5,0,0.18518518518518517
+Masters,2015,Pune,1,27,Female,No,5,0,0.18518518518518517
+Bachelors,2013,Bangalore,1,28,Male,No,3,1,0.10714285714285714
+Bachelors,2012,Pune,2,26,Female,No,4,1,0.15384615384615385
+Masters,2017,New Delhi,2,25,Male,No,3,0,0.12
+Bachelors,2017,New Delhi,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2014,Bangalore,3,28,Female,No,1,1,0.03571428571428571
+Bachelors,2015,Pune,2,28,Female,No,3,1,0.10714285714285714
+Bachelors,2016,Bangalore,3,27,Female,No,5,1,0.18518518518518517
+Masters,2018,Pune,3,25,Male,No,3,1,0.12
+Bachelors,2014,Pune,3,26,Male,No,4,0,0.15384615384615385
+PHD,2017,New Delhi,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2013,Bangalore,3,28,Male,Yes,3,0,0.10714285714285714
+Bachelors,2018,Bangalore,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2017,Pune,2,25,Female,No,3,1,0.12
+Bachelors,2017,Pune,2,26,Female,No,4,1,0.15384615384615385
+Masters,2017,Pune,2,26,Male,No,4,1,0.15384615384615385
+Masters,2015,New Delhi,3,28,Female,Yes,2,0,0.07142857142857142
+Bachelors,2012,New Delhi,2,25,Male,No,3,1,0.12
+Bachelors,2016,Bangalore,3,25,Female,No,3,0,0.12
+Masters,2012,Pune,2,26,Female,No,4,0,0.15384615384615385
+Masters,2016,New Delhi,3,27,Male,No,5,1,0.18518518518518517
+PHD,2017,Bangalore,3,28,Male,No,1,0,0.03571428571428571
+Bachelors,2018,Bangalore,1,27,Male,No,5,0,0.18518518518518517
+Bachelors,2018,Bangalore,3,28,Female,No,3,1,0.10714285714285714
+Bachelors,2016,Bangalore,3,27,Male,Yes,5,0,0.18518518518518517
+Masters,2015,New Delhi,3,24,Female,No,2,1,0.08333333333333333
+Bachelors,2017,New Delhi,3,24,Male,No,2,0,0.08333333333333333
+Masters,2013,Pune,3,28,Male,No,2,1,0.07142857142857142
+Bachelors,2017,Pune,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2016,Bangalore,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2014,New Delhi,3,28,Female,No,3,0,0.10714285714285714
+Bachelors,2016,Pune,3,28,Male,No,3,0,0.10714285714285714
+Masters,2017,Bangalore,3,27,Male,No,5,1,0.18518518518518517
+Masters,2017,Pune,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2013,Bangalore,3,25,Male,Yes,3,0,0.12
+Bachelors,2015,Pune,2,28,Female,No,2,1,0.07142857142857142
+PHD,2013,Bangalore,1,26,Male,No,4,0,0.15384615384615385
+Masters,2012,Pune,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2016,Bangalore,1,28,Male,No,2,0,0.07142857142857142
+Masters,2017,New Delhi,2,24,Female,Yes,2,1,0.08333333333333333
+Bachelors,2015,Bangalore,1,25,Female,Yes,3,0,0.12
+Bachelors,2015,Pune,3,25,Female,No,3,1,0.12
+Bachelors,2015,Pune,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2018,Bangalore,1,25,Male,Yes,3,0,0.12
+Masters,2017,Pune,2,28,Female,No,1,0,0.03571428571428571
+Bachelors,2014,Bangalore,3,28,Female,No,2,0,0.07142857142857142
+Bachelors,2017,New Delhi,2,24,Female,No,2,0,0.08333333333333333
+PHD,2013,New Delhi,2,25,Male,No,3,1,0.12
+Bachelors,2015,Bangalore,1,25,Male,No,3,0,0.12
+PHD,2014,New Delhi,3,28,Male,No,2,1,0.07142857142857142
+Masters,2018,New Delhi,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2016,New Delhi,3,27,Female,No,5,0,0.18518518518518517
+Masters,2017,New Delhi,2,25,Male,No,3,1,0.12
+Bachelors,2016,New Delhi,3,27,Female,Yes,5,0,0.18518518518518517
+Bachelors,2018,Pune,3,28,Female,No,1,1,0.03571428571428571
+Bachelors,2018,Pune,3,28,Male,No,1,1,0.03571428571428571
+Bachelors,2017,Bangalore,1,26,Female,No,4,0,0.15384615384615385
+Bachelors,2013,Bangalore,3,24,Male,No,2,1,0.08333333333333333
+Bachelors,2012,New Delhi,3,26,Female,No,4,0,0.15384615384615385
+Bachelors,2012,Pune,3,25,Male,No,3,0,0.12
+Masters,2013,New Delhi,2,24,Male,No,2,1,0.08333333333333333
+Bachelors,2016,New Delhi,3,28,Female,No,2,0,0.07142857142857142
+Masters,2014,New Delhi,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2015,Bangalore,3,25,Female,No,3,1,0.12
+Bachelors,2015,Pune,2,27,Female,No,5,1,0.18518518518518517
+Bachelors,2017,New Delhi,3,27,Female,Yes,5,0,0.18518518518518517
+Masters,2017,Pune,1,24,Male,No,2,0,0.08333333333333333
+Bachelors,2015,Bangalore,3,28,Male,Yes,1,1,0.03571428571428571
+Masters,2013,Bangalore,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2015,New Delhi,2,28,Female,Yes,2,1,0.07142857142857142
+Bachelors,2017,Bangalore,3,27,Female,No,5,0,0.18518518518518517
+Bachelors,2015,Pune,2,27,Male,No,5,0,0.18518518518518517
+Bachelors,2018,Bangalore,3,27,Male,Yes,5,1,0.18518518518518517
+Bachelors,2013,New Delhi,2,24,Female,No,2,1,0.08333333333333333
+Bachelors,2015,Pune,2,28,Female,Yes,2,1,0.07142857142857142
+Bachelors,2016,Bangalore,3,24,Female,No,2,0,0.08333333333333333
+Masters,2017,Pune,3,24,Male,No,2,1,0.08333333333333333
+Masters,2016,Pune,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2013,Bangalore,3,28,Male,Yes,1,1,0.03571428571428571
+Bachelors,2015,Bangalore,1,28,Female,No,1,0,0.03571428571428571
+PHD,2018,Bangalore,3,24,Female,No,2,1,0.08333333333333333
+Bachelors,2016,Bangalore,3,26,Male,Yes,4,0,0.15384615384615385
+Bachelors,2013,Bangalore,3,25,Male,No,3,1,0.12
+Masters,2016,New Delhi,3,24,Male,No,2,1,0.08333333333333333
+Bachelors,2017,New Delhi,1,25,Female,No,3,0,0.12
+Bachelors,2013,Bangalore,3,28,Male,No,3,0,0.10714285714285714
+Masters,2014,New Delhi,3,24,Male,No,2,1,0.08333333333333333
+PHD,2012,New Delhi,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2014,Pune,3,25,Male,No,3,1,0.12
+Bachelors,2012,Pune,2,26,Male,No,4,0,0.15384615384615385
+Masters,2017,Bangalore,3,28,Female,No,3,1,0.10714285714285714
+Bachelors,2012,Bangalore,3,28,Female,No,2,0,0.07142857142857142
+Bachelors,2012,Bangalore,3,27,Female,No,5,0,0.18518518518518517
+Masters,2016,New Delhi,3,28,Male,No,1,0,0.03571428571428571
+Bachelors,2016,New Delhi,3,25,Female,Yes,3,0,0.12
+Masters,2015,New Delhi,3,28,Female,No,3,0,0.10714285714285714
+Bachelors,2013,New Delhi,1,24,Female,No,2,1,0.08333333333333333
+Bachelors,2015,New Delhi,3,25,Female,No,3,1,0.12
+Bachelors,2016,Pune,1,25,Female,No,3,1,0.12
+Masters,2013,New Delhi,3,25,Male,Yes,3,1,0.12
+Masters,2013,New Delhi,3,25,Female,No,3,1,0.12
+Bachelors,2013,Bangalore,1,28,Female,No,2,0,0.07142857142857142
+Masters,2014,Bangalore,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2017,New Delhi,3,25,Male,No,3,0,0.12
+Bachelors,2013,Pune,2,27,Male,Yes,5,0,0.18518518518518517
+Bachelors,2016,Bangalore,3,25,Male,Yes,3,0,0.12
+Bachelors,2017,Bangalore,3,25,Male,No,3,1,0.12
+Masters,2015,Pune,3,28,Female,No,3,0,0.10714285714285714
+Bachelors,2013,Pune,2,26,Female,No,4,1,0.15384615384615385
+Bachelors,2013,New Delhi,3,28,Female,Yes,3,0,0.10714285714285714
+Bachelors,2012,Pune,2,25,Male,No,3,1,0.12
+Bachelors,2017,Bangalore,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2015,Pune,2,24,Female,Yes,2,1,0.08333333333333333
+Bachelors,2017,Bangalore,3,24,Female,Yes,2,0,0.08333333333333333
+Bachelors,2017,New Delhi,2,25,Female,No,3,0,0.12
+Bachelors,2016,New Delhi,3,28,Female,Yes,3,0,0.10714285714285714
+Masters,2017,Pune,2,25,Male,No,3,1,0.12
+Masters,2017,Bangalore,2,25,Female,Yes,3,1,0.12
+Bachelors,2017,Bangalore,3,24,Female,No,2,1,0.08333333333333333
+Bachelors,2018,Bangalore,3,24,Male,Yes,2,1,0.08333333333333333
+Bachelors,2016,New Delhi,3,28,Male,No,1,0,0.03571428571428571
+Masters,2017,New Delhi,2,24,Male,No,2,1,0.08333333333333333
+Bachelors,2017,Bangalore,3,24,Male,No,2,1,0.08333333333333333
+Masters,2014,New Delhi,3,25,Female,No,3,1,0.12
+Bachelors,2017,Bangalore,3,28,Male,No,2,1,0.07142857142857142
+Bachelors,2012,Bangalore,3,28,Male,Yes,3,1,0.10714285714285714
+Bachelors,2012,Pune,3,28,Female,No,2,0,0.07142857142857142
+PHD,2016,New Delhi,3,24,Female,No,2,0,0.08333333333333333
+Masters,2017,New Delhi,2,27,Female,No,5,1,0.18518518518518517
+Masters,2013,New Delhi,2,27,Female,No,5,1,0.18518518518518517
+Bachelors,2015,Bangalore,3,26,Female,No,4,0,0.15384615384615385
+Masters,2015,New Delhi,3,28,Female,No,1,1,0.03571428571428571
+Bachelors,2015,Bangalore,3,26,Female,No,4,1,0.15384615384615385
+Bachelors,2012,Pune,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2013,New Delhi,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2013,Pune,2,27,Female,No,5,1,0.18518518518518517
+Masters,2017,New Delhi,2,26,Male,No,4,1,0.15384615384615385
+Bachelors,2013,Pune,2,25,Male,Yes,3,1,0.12
+Bachelors,2013,Pune,3,26,Female,Yes,4,0,0.15384615384615385
+Bachelors,2015,Bangalore,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2015,Bangalore,3,24,Male,No,2,1,0.08333333333333333
+Bachelors,2012,New Delhi,3,26,Female,Yes,4,0,0.15384615384615385
+Masters,2014,Bangalore,3,27,Male,No,5,1,0.18518518518518517
+Masters,2017,New Delhi,2,26,Male,No,4,0,0.15384615384615385
+Masters,2014,New Delhi,3,25,Male,No,3,0,0.12
+Bachelors,2017,Bangalore,2,27,Male,No,5,0,0.18518518518518517
+Bachelors,2014,Bangalore,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2017,Bangalore,1,27,Male,No,5,0,0.18518518518518517
+Bachelors,2017,Pune,3,28,Male,No,3,0,0.10714285714285714
+Bachelors,2017,New Delhi,3,27,Male,No,5,0,0.18518518518518517
+Masters,2017,New Delhi,2,26,Female,No,4,1,0.15384615384615385
+Bachelors,2014,Bangalore,3,28,Male,No,3,0,0.10714285714285714
+Masters,2017,Bangalore,3,28,Male,No,1,1,0.03571428571428571
+Bachelors,2017,Bangalore,3,28,Male,Yes,1,0,0.03571428571428571
+Bachelors,2013,Pune,3,24,Female,No,2,0,0.08333333333333333
+Bachelors,2018,New Delhi,3,25,Female,No,3,1,0.12
+Bachelors,2014,Bangalore,3,24,Female,No,2,0,0.08333333333333333
+Masters,2013,New Delhi,1,24,Female,No,2,0,0.08333333333333333
+Masters,2013,New Delhi,1,24,Male,Yes,2,1,0.08333333333333333
+PHD,2018,New Delhi,3,24,Female,No,2,1,0.08333333333333333
+Bachelors,2015,Pune,3,28,Male,No,1,0,0.03571428571428571
+PHD,2015,Pune,2,28,Female,No,1,0,0.03571428571428571
+Bachelors,2018,Bangalore,3,25,Male,Yes,3,1,0.12
+Bachelors,2015,Bangalore,3,27,Female,No,5,1,0.18518518518518517
+Masters,2012,New Delhi,3,28,Male,No,2,0,0.07142857142857142
+Bachelors,2012,New Delhi,2,27,Female,No,5,1,0.18518518518518517
+Bachelors,2018,Bangalore,3,25,Female,No,3,1,0.12
+Masters,2018,Pune,3,27,Male,No,5,1,0.18518518518518517
+Masters,2017,Bangalore,2,28,Male,Yes,2,1,0.07142857142857142
+Bachelors,2017,Pune,3,28,Female,No,1,0,0.03571428571428571
+Bachelors,2014,New Delhi,3,26,Female,No,4,0,0.15384615384615385
+Bachelors,2017,New Delhi,3,26,Female,No,4,0,0.15384615384615385
+Bachelors,2012,Bangalore,3,25,Female,Yes,3,0,0.12
+Bachelors,2017,Bangalore,3,25,Male,Yes,3,0,0.12
+Bachelors,2013,Bangalore,3,28,Female,No,1,1,0.03571428571428571
+Bachelors,2013,Pune,3,24,Female,No,2,1,0.08333333333333333
+Masters,2017,New Delhi,3,25,Male,No,3,1,0.12
+Masters,2017,Pune,2,28,Male,No,3,0,0.10714285714285714
+Masters,2017,Pune,2,24,Female,No,2,0,0.08333333333333333
+Masters,2015,Pune,1,26,Female,No,4,0,0.15384615384615385
+Masters,2013,Pune,3,26,Male,No,4,0,0.15384615384615385
+PHD,2016,Bangalore,3,27,Male,No,5,0,0.18518518518518517
+Masters,2018,New Delhi,3,25,Female,No,3,1,0.12
+PHD,2013,New Delhi,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2015,New Delhi,3,28,Female,No,3,0,0.10714285714285714
+Masters,2018,New Delhi,1,26,Female,No,4,1,0.15384615384615385
+Bachelors,2013,Pune,2,24,Female,No,2,1,0.08333333333333333
+PHD,2016,Pune,1,25,Female,No,3,1,0.12
+Bachelors,2014,Pune,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2013,Pune,3,28,Female,No,2,1,0.07142857142857142
+Bachelors,2016,Bangalore,1,27,Female,No,5,0,0.18518518518518517
+Bachelors,2014,New Delhi,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2015,Bangalore,3,25,Female,No,3,0,0.12
+Masters,2016,Bangalore,3,26,Female,No,4,1,0.15384615384615385
+Bachelors,2013,Pune,3,26,Male,Yes,4,0,0.15384615384615385
+Bachelors,2016,New Delhi,3,28,Female,No,5,0,0.17857142857142858
+Bachelors,2015,Bangalore,3,28,Male,No,5,0,0.17857142857142858
+Bachelors,2013,New Delhi,3,26,Female,No,4,0,0.15384615384615385
+Masters,2017,New Delhi,3,28,Female,No,3,0,0.10714285714285714
+Bachelors,2012,New Delhi,3,24,Female,No,2,1,0.08333333333333333
+Masters,2015,Pune,1,24,Male,No,2,0,0.08333333333333333
+Bachelors,2017,New Delhi,3,24,Female,No,2,1,0.08333333333333333
+Bachelors,2014,Bangalore,3,28,Male,No,1,1,0.03571428571428571
+Masters,2015,New Delhi,3,24,Male,No,2,1,0.08333333333333333
+Bachelors,2017,Bangalore,1,24,Male,No,2,0,0.08333333333333333
+Bachelors,2014,New Delhi,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2013,Pune,1,27,Female,No,5,1,0.18518518518518517
+Bachelors,2014,Bangalore,3,28,Female,No,1,0,0.03571428571428571
+Bachelors,2015,Bangalore,3,24,Male,Yes,2,1,0.08333333333333333
+Masters,2017,Pune,2,25,Female,No,3,1,0.12
+Bachelors,2016,Bangalore,3,28,Male,No,3,1,0.10714285714285714
+Bachelors,2015,Bangalore,3,28,Male,No,4,0,0.14285714285714285
+Masters,2014,Pune,3,26,Male,No,4,1,0.15384615384615385
+Masters,2013,New Delhi,1,24,Female,No,2,1,0.08333333333333333
+Bachelors,2016,Pune,2,28,Female,No,4,1,0.14285714285714285
+Bachelors,2012,Bangalore,3,28,Male,No,1,0,0.03571428571428571
+Bachelors,2017,New Delhi,3,25,Female,No,3,0,0.12
+Bachelors,2012,Pune,1,27,Female,No,5,1,0.18518518518518517
+Bachelors,2013,Bangalore,3,25,Female,No,3,1,0.12
+Bachelors,2016,Bangalore,3,28,Male,Yes,4,0,0.14285714285714285
+Bachelors,2014,Bangalore,3,26,Female,No,4,0,0.15384615384615385
+Bachelors,2016,New Delhi,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2014,Bangalore,3,27,Female,Yes,5,1,0.18518518518518517
+PHD,2015,New Delhi,2,24,Female,No,2,0,0.08333333333333333
+PHD,2015,Pune,1,25,Female,No,3,1,0.12
+Bachelors,2013,Bangalore,3,25,Female,No,3,0,0.12
+Bachelors,2014,Bangalore,3,24,Male,Yes,2,0,0.08333333333333333
+Masters,2018,New Delhi,3,26,Male,Yes,4,1,0.15384615384615385
+Masters,2012,New Delhi,3,28,Male,Yes,2,0,0.07142857142857142
+PHD,2018,New Delhi,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2012,Bangalore,3,28,Male,No,5,0,0.17857142857142858
+Masters,2018,Pune,3,24,Male,No,2,1,0.08333333333333333
+Bachelors,2018,Pune,2,27,Female,No,5,1,0.18518518518518517
+Masters,2014,New Delhi,3,28,Female,No,4,0,0.14285714285714285
+Masters,2017,New Delhi,3,25,Female,No,3,0,0.12
+Masters,2017,Bangalore,3,26,Female,No,4,0,0.15384615384615385
+Masters,2017,New Delhi,1,26,Female,No,4,0,0.15384615384615385
+Bachelors,2012,New Delhi,3,28,Male,No,3,0,0.10714285714285714
+Bachelors,2013,Bangalore,3,28,Female,No,4,1,0.14285714285714285
+Masters,2012,New Delhi,3,27,Male,Yes,5,1,0.18518518518518517
+Bachelors,2017,Pune,2,24,Male,No,2,0,0.08333333333333333
+Masters,2017,New Delhi,3,25,Female,No,3,1,0.12
+Bachelors,2018,Bangalore,3,25,Female,Yes,3,1,0.12
+Masters,2017,New Delhi,3,28,Male,No,2,0,0.07142857142857142
+Bachelors,2014,Pune,3,24,Female,No,2,1,0.08333333333333333
+Bachelors,2015,Bangalore,3,28,Female,No,3,0,0.10714285714285714
+Bachelors,2013,Bangalore,3,28,Male,No,3,1,0.10714285714285714
+Bachelors,2015,New Delhi,2,25,Female,No,3,1,0.12
+Bachelors,2012,New Delhi,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2013,Bangalore,3,28,Male,No,0,0,0.0
+Bachelors,2012,Pune,3,28,Male,No,5,0,0.17857142857142858
+Bachelors,2016,Bangalore,1,26,Male,No,4,0,0.15384615384615385
+Masters,2017,New Delhi,2,28,Female,Yes,2,1,0.07142857142857142
+Bachelors,2014,Pune,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2016,Pune,2,26,Female,No,4,1,0.15384615384615385
+Bachelors,2018,Bangalore,3,27,Female,Yes,5,1,0.18518518518518517
+Bachelors,2012,Pune,3,28,Male,No,4,0,0.14285714285714285
+Bachelors,2012,New Delhi,1,27,Female,No,5,0,0.18518518518518517
+Masters,2012,New Delhi,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2013,New Delhi,2,25,Female,No,3,1,0.12
+Masters,2013,Pune,3,25,Male,Yes,3,1,0.12
+Bachelors,2015,Pune,3,24,Female,No,2,1,0.08333333333333333
+Masters,2012,New Delhi,3,26,Female,No,4,1,0.15384615384615385
+Bachelors,2016,Pune,2,28,Female,No,0,1,0.0
+Bachelors,2012,New Delhi,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2015,New Delhi,3,28,Male,No,1,0,0.03571428571428571
+Masters,2017,Pune,2,28,Female,No,4,0,0.14285714285714285
+Bachelors,2016,Bangalore,3,28,Female,No,5,0,0.17857142857142858
+Bachelors,2015,Bangalore,3,28,Female,No,5,0,0.17857142857142858
+Bachelors,2015,Bangalore,1,24,Male,No,2,0,0.08333333333333333
+Bachelors,2015,Pune,3,28,Female,No,4,1,0.14285714285714285
+Masters,2017,Bangalore,2,24,Female,Yes,2,1,0.08333333333333333
+Bachelors,2014,New Delhi,3,26,Female,No,4,1,0.15384615384615385
+Masters,2013,Pune,2,28,Male,No,5,1,0.17857142857142858
+Bachelors,2013,New Delhi,1,28,Female,No,5,1,0.17857142857142858
+Masters,2015,New Delhi,3,28,Male,No,2,0,0.07142857142857142
+Bachelors,2014,Pune,3,27,Female,No,5,1,0.18518518518518517
+Masters,2018,New Delhi,3,24,Male,No,2,1,0.08333333333333333
+Bachelors,2018,Bangalore,3,26,Male,Yes,4,1,0.15384615384615385
+Masters,2017,New Delhi,3,24,Female,No,2,0,0.08333333333333333
+Bachelors,2017,Pune,3,25,Male,Yes,3,1,0.12
+Bachelors,2013,Pune,3,27,Male,Yes,5,1,0.18518518518518517
+Bachelors,2016,Bangalore,3,26,Female,No,4,1,0.15384615384615385
+Masters,2017,Bangalore,2,28,Male,No,2,0,0.07142857142857142
+Masters,2017,New Delhi,2,28,Male,No,3,0,0.10714285714285714
+Bachelors,2015,Bangalore,3,26,Female,Yes,4,0,0.15384615384615385
+Masters,2018,Pune,3,28,Male,No,2,1,0.07142857142857142
+PHD,2016,New Delhi,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2015,New Delhi,3,28,Female,No,2,0,0.07142857142857142
+PHD,2015,Pune,3,28,Male,No,0,0,0.0
+Bachelors,2016,Bangalore,3,28,Male,No,5,0,0.17857142857142858
+Bachelors,2014,New Delhi,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2016,Pune,3,24,Male,Yes,2,0,0.08333333333333333
+Bachelors,2013,Pune,2,28,Female,No,2,1,0.07142857142857142
+Masters,2017,Bangalore,2,24,Male,No,2,1,0.08333333333333333
+Masters,2015,Pune,2,24,Female,No,2,1,0.08333333333333333
+Bachelors,2016,Bangalore,1,25,Female,No,3,0,0.12
+PHD,2014,Bangalore,1,25,Female,No,3,0,0.12
+Bachelors,2014,New Delhi,3,28,Male,No,5,0,0.17857142857142858
+Masters,2013,New Delhi,3,28,Male,No,2,1,0.07142857142857142
+Masters,2015,New Delhi,2,26,Female,No,4,0,0.15384615384615385
+Bachelors,2016,New Delhi,3,27,Male,No,5,0,0.18518518518518517
+Masters,2017,Pune,3,24,Female,No,2,0,0.08333333333333333
+Bachelors,2015,Pune,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2017,New Delhi,2,28,Male,No,0,0,0.0
+Bachelors,2012,Pune,3,24,Male,No,2,1,0.08333333333333333
+Masters,2016,New Delhi,3,25,Male,No,3,1,0.12
+Bachelors,2014,New Delhi,3,25,Male,No,3,0,0.12
+Bachelors,2014,Bangalore,1,26,Male,No,4,0,0.15384615384615385
+Bachelors,2017,Pune,2,26,Male,No,4,0,0.15384615384615385
+Bachelors,2015,Bangalore,3,28,Male,No,0,0,0.0
+Bachelors,2013,Pune,3,28,Female,Yes,3,1,0.10714285714285714
+Bachelors,2012,New Delhi,3,28,Female,No,4,0,0.14285714285714285
+Bachelors,2017,Pune,3,25,Female,No,3,1,0.12
+Bachelors,2014,New Delhi,3,28,Female,Yes,2,0,0.07142857142857142
+Bachelors,2012,Bangalore,3,27,Female,Yes,5,0,0.18518518518518517
+Bachelors,2016,Bangalore,2,25,Male,No,3,1,0.12
+Bachelors,2016,Bangalore,3,28,Female,No,4,0,0.14285714285714285
+Bachelors,2012,New Delhi,3,25,Female,No,3,0,0.12
+PHD,2017,New Delhi,3,27,Female,No,5,0,0.18518518518518517
+Bachelors,2012,New Delhi,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2012,Pune,3,25,Female,No,3,1,0.12
+Masters,2015,New Delhi,3,27,Female,No,5,0,0.18518518518518517
+Bachelors,2018,New Delhi,3,26,Female,No,4,1,0.15384615384615385
+PHD,2012,New Delhi,3,28,Female,No,1,0,0.03571428571428571
+Bachelors,2013,Bangalore,3,28,Female,No,0,1,0.0
+Bachelors,2015,Bangalore,1,24,Female,No,2,1,0.08333333333333333
+Masters,2014,Pune,3,27,Male,No,5,0,0.18518518518518517
+Masters,2017,New Delhi,1,25,Female,No,3,0,0.12
+Masters,2012,Pune,3,28,Male,No,0,1,0.0
+Masters,2012,New Delhi,3,28,Male,No,2,1,0.07142857142857142
+Masters,2017,New Delhi,3,28,Male,No,5,0,0.17857142857142858
+Masters,2015,Bangalore,3,28,Male,No,1,1,0.03571428571428571
+Bachelors,2018,New Delhi,3,28,Female,No,0,1,0.0
+PHD,2012,Pune,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2018,Bangalore,3,26,Female,Yes,4,1,0.15384615384615385
+PHD,2018,Bangalore,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2015,New Delhi,1,26,Female,No,4,1,0.15384615384615385
+Bachelors,2014,Bangalore,3,26,Female,No,4,1,0.15384615384615385
+Bachelors,2017,Pune,2,28,Male,No,1,1,0.03571428571428571
+Bachelors,2013,New Delhi,3,25,Female,Yes,3,1,0.12
+Bachelors,2017,Bangalore,1,28,Female,No,3,0,0.10714285714285714
+Bachelors,2015,New Delhi,3,27,Male,No,5,0,0.18518518518518517
+Masters,2013,Pune,2,28,Male,No,2,1,0.07142857142857142
+Masters,2016,New Delhi,3,25,Male,No,3,0,0.12
+Bachelors,2017,Bangalore,3,28,Female,Yes,5,0,0.17857142857142858
+Bachelors,2012,Bangalore,1,27,Male,No,5,1,0.18518518518518517
+Bachelors,2015,Pune,3,28,Female,Yes,5,1,0.17857142857142858
+Bachelors,2015,Bangalore,3,26,Male,No,4,1,0.15384615384615385
+Masters,2015,Pune,2,26,Female,Yes,4,1,0.15384615384615385
+Masters,2015,Pune,3,25,Male,No,3,1,0.12
+Bachelors,2016,Pune,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2018,Pune,3,26,Male,Yes,4,1,0.15384615384615385
+Bachelors,2017,Bangalore,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2018,New Delhi,3,28,Female,No,5,1,0.17857142857142858
+Bachelors,2015,Bangalore,3,28,Male,No,0,1,0.0
+Bachelors,2016,New Delhi,3,28,Female,No,3,0,0.10714285714285714
+Masters,2018,New Delhi,3,28,Male,No,2,1,0.07142857142857142
+Bachelors,2017,New Delhi,2,28,Female,No,0,0,0.0
+Bachelors,2012,Bangalore,3,28,Male,No,2,0,0.07142857142857142
+Bachelors,2016,Bangalore,1,24,Male,No,2,0,0.08333333333333333
+Bachelors,2016,Pune,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2018,Pune,3,25,Female,No,3,1,0.12
+Bachelors,2015,Pune,3,24,Male,Yes,2,0,0.08333333333333333
+Bachelors,2013,Bangalore,3,24,Female,No,2,1,0.08333333333333333
+Bachelors,2013,Pune,2,28,Male,Yes,0,1,0.0
+Masters,2018,Bangalore,3,28,Male,No,2,1,0.07142857142857142
+Bachelors,2016,New Delhi,3,28,Male,No,0,0,0.0
+Bachelors,2012,Bangalore,1,27,Male,No,5,0,0.18518518518518517
+Bachelors,2017,Bangalore,3,28,Female,No,5,0,0.17857142857142858
+Bachelors,2017,Pune,2,28,Male,No,0,1,0.0
+Bachelors,2015,Bangalore,2,28,Female,No,3,1,0.10714285714285714
+Bachelors,2013,Bangalore,3,25,Male,Yes,3,1,0.12
+Masters,2017,Pune,2,25,Female,No,3,0,0.12
+Bachelors,2014,Bangalore,3,27,Male,Yes,5,0,0.18518518518518517
+Bachelors,2018,Pune,3,24,Male,No,2,1,0.08333333333333333
+Bachelors,2015,New Delhi,2,27,Female,Yes,5,1,0.18518518518518517
+Masters,2017,New Delhi,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2018,Pune,3,27,Female,No,5,1,0.18518518518518517
+PHD,2013,New Delhi,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2014,Pune,3,27,Male,Yes,5,0,0.18518518518518517
+Masters,2013,Bangalore,3,26,Female,No,4,1,0.15384615384615385
+Bachelors,2017,New Delhi,3,28,Female,No,0,0,0.0
+PHD,2016,New Delhi,3,27,Female,No,5,0,0.18518518518518517
+Masters,2014,Bangalore,3,28,Female,No,4,1,0.14285714285714285
+Masters,2015,New Delhi,3,28,Male,No,0,0,0.0
+Bachelors,2013,Pune,1,26,Female,No,4,1,0.15384615384615385
+Masters,2017,New Delhi,3,28,Male,No,0,0,0.0
+Bachelors,2012,Bangalore,3,28,Female,No,1,0,0.03571428571428571
+Bachelors,2018,New Delhi,3,24,Female,No,2,1,0.08333333333333333
+Bachelors,2018,Pune,3,24,Male,Yes,2,1,0.08333333333333333
+Bachelors,2018,Pune,2,28,Female,No,5,1,0.17857142857142858
+Bachelors,2013,Bangalore,1,24,Male,No,2,0,0.08333333333333333
+Bachelors,2012,Bangalore,1,28,Male,No,3,0,0.10714285714285714
+Bachelors,2016,Pune,2,28,Female,No,3,1,0.10714285714285714
+Bachelors,2017,Pune,2,28,Male,No,3,0,0.10714285714285714
+Bachelors,2017,Bangalore,3,25,Female,No,3,1,0.12
+Masters,2013,New Delhi,3,25,Male,No,3,1,0.12
+Bachelors,2017,Bangalore,3,28,Male,No,1,1,0.03571428571428571
+Bachelors,2015,Pune,1,24,Female,No,2,1,0.08333333333333333
+Masters,2013,New Delhi,3,24,Female,Yes,2,1,0.08333333333333333
+Bachelors,2014,Pune,2,28,Female,No,3,1,0.10714285714285714
+Bachelors,2015,Pune,2,28,Female,No,5,1,0.17857142857142858
+Bachelors,2016,New Delhi,3,26,Female,No,4,0,0.15384615384615385
+Bachelors,2015,Bangalore,1,27,Male,No,5,0,0.18518518518518517
+PHD,2018,Pune,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2014,Bangalore,3,28,Male,No,0,0,0.0
+Masters,2015,Pune,3,26,Female,No,4,0,0.15384615384615385
+Bachelors,2016,Bangalore,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2016,New Delhi,3,28,Female,No,4,0,0.14285714285714285
+Masters,2015,Bangalore,2,27,Female,No,5,1,0.18518518518518517
+Masters,2017,Pune,1,28,Male,No,0,0,0.0
+Masters,2015,New Delhi,3,28,Female,No,2,0,0.07142857142857142
+Bachelors,2017,Bangalore,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2017,Pune,3,28,Female,No,4,1,0.14285714285714285
+Masters,2015,Pune,2,27,Female,No,5,0,0.18518518518518517
+Bachelors,2013,Bangalore,3,28,Female,No,1,0,0.03571428571428571
+Bachelors,2012,Bangalore,3,28,Female,No,2,1,0.07142857142857142
+PHD,2018,New Delhi,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2018,Pune,3,28,Male,No,2,1,0.07142857142857142
+Bachelors,2013,New Delhi,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2013,Bangalore,3,28,Male,Yes,1,0,0.03571428571428571
+PHD,2016,New Delhi,1,26,Male,No,4,0,0.15384615384615385
+Bachelors,2017,Bangalore,2,28,Female,No,1,0,0.03571428571428571
+Masters,2014,New Delhi,3,25,Female,No,3,0,0.12
+Bachelors,2014,Bangalore,3,28,Male,No,5,0,0.17857142857142858
+Bachelors,2016,Bangalore,3,28,Male,Yes,0,0,0.0
+PHD,2017,Pune,3,27,Male,No,5,0,0.18518518518518517
+Masters,2017,Bangalore,3,25,Male,No,3,0,0.12
+Masters,2017,Bangalore,1,26,Male,No,4,0,0.15384615384615385
+Masters,2012,Pune,3,26,Male,No,4,1,0.15384615384615385
+PHD,2016,Bangalore,3,25,Male,No,3,0,0.12
+Bachelors,2017,New Delhi,2,25,Male,No,3,1,0.12
+Bachelors,2015,New Delhi,3,27,Female,No,5,0,0.18518518518518517
+Masters,2017,Pune,2,25,Male,No,3,0,0.12
+Masters,2014,Bangalore,3,24,Female,No,2,0,0.08333333333333333
+Bachelors,2014,Pune,3,28,Female,No,2,1,0.07142857142857142
+Bachelors,2014,Pune,2,28,Female,No,0,1,0.0
+Bachelors,2017,New Delhi,3,25,Female,Yes,3,0,0.12
+Masters,2017,Bangalore,2,26,Male,No,4,1,0.15384615384615385
+Bachelors,2014,New Delhi,3,27,Female,No,5,0,0.18518518518518517
+Bachelors,2017,Bangalore,3,28,Male,No,5,0,0.17857142857142858
+Bachelors,2015,Bangalore,1,24,Female,No,2,0,0.08333333333333333
+Bachelors,2016,Pune,3,28,Female,No,4,1,0.14285714285714285
+Bachelors,2015,Pune,3,27,Female,Yes,5,1,0.18518518518518517
+Masters,2016,New Delhi,3,25,Female,No,3,0,0.12
+Bachelors,2012,Pune,3,24,Male,Yes,2,0,0.08333333333333333
+Bachelors,2013,Bangalore,1,24,Female,No,2,1,0.08333333333333333
+PHD,2017,Pune,3,28,Male,No,1,0,0.03571428571428571
+Bachelors,2016,New Delhi,3,28,Male,No,4,0,0.14285714285714285
+Bachelors,2013,New Delhi,3,24,Female,No,2,0,0.08333333333333333
+Masters,2017,New Delhi,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2014,Pune,2,27,Male,No,5,0,0.18518518518518517
+Masters,2013,Bangalore,3,25,Male,No,3,1,0.12
+Masters,2012,New Delhi,3,27,Female,No,5,1,0.18518518518518517
+Masters,2017,Bangalore,2,25,Male,No,3,0,0.12
+Bachelors,2012,New Delhi,3,28,Male,No,5,0,0.17857142857142858
+Bachelors,2017,New Delhi,3,28,Female,No,4,0,0.14285714285714285
+Bachelors,2016,Pune,3,27,Male,No,5,1,0.18518518518518517
+PHD,2014,Bangalore,3,28,Female,No,0,0,0.0
+Bachelors,2013,Bangalore,2,24,Female,No,2,1,0.08333333333333333
+Bachelors,2013,New Delhi,1,25,Female,No,3,1,0.12
+Masters,2017,New Delhi,3,28,Male,No,1,1,0.03571428571428571
+Bachelors,2017,Bangalore,3,27,Female,Yes,5,0,0.18518518518518517
+Masters,2017,New Delhi,1,26,Female,No,4,1,0.15384615384615385
+Masters,2017,Bangalore,2,26,Female,No,4,0,0.15384615384615385
+Masters,2014,New Delhi,1,25,Female,No,3,0,0.12
+Masters,2012,New Delhi,3,25,Male,No,3,1,0.12
+Bachelors,2014,Bangalore,1,25,Male,No,3,0,0.12
+Bachelors,2013,Pune,3,28,Male,No,0,0,0.0
+Bachelors,2014,Pune,1,28,Female,No,3,1,0.10714285714285714
+Masters,2013,New Delhi,3,28,Female,No,2,0,0.07142857142857142
+Masters,2017,Bangalore,2,27,Female,No,5,1,0.18518518518518517
+Masters,2017,New Delhi,2,28,Female,No,3,0,0.10714285714285714
+Masters,2015,Bangalore,3,27,Female,No,5,0,0.18518518518518517
+Masters,2017,Pune,3,27,Female,No,5,1,0.18518518518518517
+Masters,2014,Bangalore,3,28,Female,No,3,1,0.10714285714285714
+Bachelors,2015,Pune,2,28,Female,No,4,1,0.14285714285714285
+Bachelors,2017,Bangalore,3,28,Female,No,3,1,0.10714285714285714
+Bachelors,2016,Bangalore,3,25,Male,Yes,3,1,0.12
+Masters,2017,Bangalore,2,24,Female,No,2,0,0.08333333333333333
+Masters,2017,New Delhi,1,24,Female,No,2,0,0.08333333333333333
+Bachelors,2014,Pune,3,28,Male,No,0,0,0.0
+Masters,2013,New Delhi,3,28,Male,No,1,0,0.03571428571428571
+Bachelors,2017,Pune,3,28,Male,No,1,0,0.03571428571428571
+PHD,2018,Bangalore,3,27,Male,No,5,1,0.18518518518518517
+Masters,2017,Pune,3,25,Male,No,3,0,0.12
+Bachelors,2017,New Delhi,3,24,Female,No,2,0,0.08333333333333333
+PHD,2014,Pune,3,24,Male,No,2,0,0.08333333333333333
+PHD,2017,Bangalore,3,24,Female,No,2,0,0.08333333333333333
+Masters,2017,New Delhi,2,25,Female,Yes,3,1,0.12
+Bachelors,2016,Pune,3,28,Female,No,2,1,0.07142857142857142
+Masters,2017,New Delhi,1,26,Male,No,4,0,0.15384615384615385
+Bachelors,2013,Pune,2,26,Male,Yes,4,0,0.15384615384615385
+Bachelors,2018,Pune,1,26,Male,Yes,4,0,0.15384615384615385
+PHD,2017,New Delhi,3,28,Male,No,3,0,0.10714285714285714
+Bachelors,2017,New Delhi,2,24,Female,No,2,1,0.08333333333333333
+Masters,2015,Pune,2,28,Female,No,0,0,0.0
+Bachelors,2017,Pune,3,26,Male,Yes,4,0,0.15384615384615385
+Masters,2017,Pune,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2013,Bangalore,1,27,Female,No,5,0,0.18518518518518517
+Bachelors,2017,Pune,3,28,Male,No,2,0,0.07142857142857142
+Bachelors,2014,New Delhi,3,28,Male,No,1,0,0.03571428571428571
+Bachelors,2017,New Delhi,2,28,Female,No,2,0,0.07142857142857142
+PHD,2014,New Delhi,3,25,Male,No,3,0,0.12
+Masters,2017,New Delhi,2,24,Male,Yes,2,1,0.08333333333333333
+Bachelors,2014,Bangalore,2,26,Female,No,4,1,0.15384615384615385
+Bachelors,2016,Pune,3,27,Female,No,5,0,0.18518518518518517
+Bachelors,2014,Pune,2,28,Female,No,1,1,0.03571428571428571
+Bachelors,2017,Bangalore,2,28,Female,No,2,1,0.07142857142857142
+Bachelors,2017,New Delhi,2,26,Female,No,4,1,0.15384615384615385
+Bachelors,2012,Bangalore,3,24,Female,No,2,0,0.08333333333333333
+Bachelors,2015,New Delhi,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2013,New Delhi,3,28,Female,Yes,2,0,0.07142857142857142
+Bachelors,2017,Bangalore,3,26,Male,Yes,4,0,0.15384615384615385
+Bachelors,2012,Bangalore,3,26,Male,Yes,4,0,0.15384615384615385
+Masters,2017,Bangalore,2,27,Male,No,5,0,0.18518518518518517
+Masters,2015,Bangalore,3,26,Female,No,4,1,0.15384615384615385
+Bachelors,2015,New Delhi,2,24,Female,No,2,1,0.08333333333333333
+Masters,2015,New Delhi,2,27,Female,No,5,1,0.18518518518518517
+PHD,2017,New Delhi,3,24,Male,No,2,0,0.08333333333333333
+Masters,2015,Bangalore,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2015,New Delhi,2,28,Female,No,1,1,0.03571428571428571
+Bachelors,2014,Bangalore,3,28,Male,No,2,1,0.07142857142857142
+Masters,2017,New Delhi,1,27,Male,No,5,0,0.18518518518518517
+Bachelors,2012,Bangalore,3,28,Female,No,1,1,0.03571428571428571
+Masters,2012,New Delhi,3,27,Female,No,5,0,0.18518518518518517
+Masters,2014,New Delhi,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2016,New Delhi,3,24,Male,Yes,2,0,0.08333333333333333
+Masters,2017,Bangalore,3,28,Female,No,0,1,0.0
+Bachelors,2017,Pune,3,27,Male,Yes,5,0,0.18518518518518517
+Bachelors,2015,New Delhi,2,29,Female,No,1,1,0.034482758620689655
+Bachelors,2012,Bangalore,3,29,Male,No,1,0,0.034482758620689655
+Bachelors,2015,Pune,3,28,Female,No,2,1,0.07142857142857142
+Masters,2017,New Delhi,3,26,Female,No,4,0,0.15384615384615385
+Bachelors,2015,Pune,3,28,Female,Yes,2,1,0.07142857142857142
+Bachelors,2017,New Delhi,3,28,Female,No,1,0,0.03571428571428571
+Bachelors,2018,Pune,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2014,Bangalore,3,29,Male,Yes,2,0,0.06896551724137931
+Bachelors,2017,Pune,3,26,Female,No,4,1,0.15384615384615385
+Bachelors,2014,Pune,3,30,Male,No,2,0,0.06666666666666667
+Masters,2017,New Delhi,3,29,Male,No,2,1,0.06896551724137931
+Bachelors,2016,Bangalore,3,30,Female,No,2,1,0.06666666666666667
+Bachelors,2012,Bangalore,3,26,Female,No,4,1,0.15384615384615385
+Bachelors,2014,Bangalore,3,29,Male,No,1,0,0.034482758620689655
+PHD,2018,New Delhi,2,29,Female,No,1,1,0.034482758620689655
+Masters,2015,Pune,3,30,Female,No,2,0,0.06666666666666667
+Masters,2013,New Delhi,2,29,Female,No,2,1,0.06896551724137931
+Bachelors,2016,Bangalore,3,29,Male,No,2,0,0.06896551724137931
+Masters,2017,Pune,2,30,Female,No,2,0,0.06666666666666667
+Bachelors,2015,Pune,2,30,Female,Yes,1,1,0.03333333333333333
+Masters,2017,New Delhi,2,29,Female,No,2,1,0.06896551724137931
+Bachelors,2015,Bangalore,3,30,Male,No,2,0,0.06666666666666667
+Bachelors,2014,Bangalore,3,30,Male,No,2,0,0.06666666666666667
+Bachelors,2013,New Delhi,3,29,Female,No,1,1,0.034482758620689655
+Masters,2015,Bangalore,2,27,Female,Yes,5,1,0.18518518518518517
+Masters,2017,New Delhi,2,29,Female,No,2,0,0.06896551724137931
+Bachelors,2012,Bangalore,3,29,Male,No,1,1,0.034482758620689655
+Bachelors,2012,Bangalore,2,27,Female,No,5,1,0.18518518518518517
+PHD,2016,Bangalore,3,29,Female,No,1,0,0.034482758620689655
+Masters,2018,Bangalore,3,30,Female,No,2,1,0.06666666666666667
+Masters,2017,New Delhi,2,30,Male,No,2,0,0.06666666666666667
+Bachelors,2012,Bangalore,3,30,Male,No,1,0,0.03333333333333333
+Masters,2013,New Delhi,3,26,Female,No,4,0,0.15384615384615385
+PHD,2015,New Delhi,1,29,Male,No,2,0,0.06896551724137931
+Bachelors,2016,Pune,3,30,Male,No,1,0,0.03333333333333333
+Bachelors,2014,Pune,2,29,Female,No,2,1,0.06896551724137931
+Bachelors,2016,Bangalore,3,30,Male,No,2,0,0.06666666666666667
+PHD,2015,New Delhi,2,29,Female,Yes,1,0,0.034482758620689655
+Bachelors,2018,Bangalore,3,30,Male,No,2,1,0.06666666666666667
+Masters,2017,Pune,2,29,Female,No,2,0,0.06896551724137931
+Masters,2016,Bangalore,3,29,Female,No,2,0,0.06896551724137931
+Bachelors,2012,New Delhi,3,29,Male,No,1,0,0.034482758620689655
+Bachelors,2013,Pune,2,29,Female,No,1,1,0.034482758620689655
+Bachelors,2016,Bangalore,3,30,Male,No,1,0,0.03333333333333333
+Bachelors,2013,New Delhi,3,30,Female,No,1,0,0.03333333333333333
+Masters,2017,Pune,2,29,Male,No,2,0,0.06896551724137931
+Bachelors,2016,New Delhi,3,29,Female,No,1,0,0.034482758620689655
+Bachelors,2015,New Delhi,3,28,Female,Yes,1,0,0.03571428571428571
+Bachelors,2016,Bangalore,3,27,Female,Yes,5,0,0.18518518518518517
+Bachelors,2014,New Delhi,3,30,Male,No,2,1,0.06666666666666667
+Bachelors,2015,Pune,2,30,Male,No,2,1,0.06666666666666667
+Bachelors,2014,New Delhi,3,30,Male,No,1,0,0.03333333333333333
+Bachelors,2015,New Delhi,3,30,Female,No,2,0,0.06666666666666667
+Bachelors,2014,Bangalore,1,30,Male,Yes,2,1,0.06666666666666667
+Masters,2017,Pune,2,30,Male,No,2,0,0.06666666666666667
+Bachelors,2012,Bangalore,3,30,Male,No,2,0,0.06666666666666667
+Bachelors,2013,Bangalore,3,29,Female,No,1,1,0.034482758620689655
+Bachelors,2015,Pune,3,29,Female,No,2,1,0.06896551724137931
+Masters,2016,Bangalore,3,29,Male,No,1,0,0.034482758620689655
+Masters,2016,New Delhi,3,26,Female,No,4,0,0.15384615384615385
+Masters,2015,New Delhi,1,27,Male,Yes,5,1,0.18518518518518517
+Bachelors,2012,Bangalore,3,28,Male,No,1,1,0.03571428571428571
+Masters,2015,Pune,2,29,Female,No,2,0,0.06896551724137931
+Bachelors,2012,Pune,2,28,Male,No,2,1,0.07142857142857142
+Masters,2017,Pune,2,29,Female,No,1,0,0.034482758620689655
+Masters,2012,New Delhi,1,29,Female,No,1,0,0.034482758620689655
+Bachelors,2015,Bangalore,3,30,Female,No,2,0,0.06666666666666667
+Masters,2017,Bangalore,2,26,Male,Yes,4,1,0.15384615384615385
+Bachelors,2013,Bangalore,1,30,Male,No,1,0,0.03333333333333333
+Masters,2017,New Delhi,3,30,Male,Yes,2,0,0.06666666666666667
+Bachelors,2016,Bangalore,3,28,Male,No,2,1,0.07142857142857142
+PHD,2013,New Delhi,3,27,Female,Yes,5,0,0.18518518518518517
+Bachelors,2013,New Delhi,3,29,Female,No,1,0,0.034482758620689655
+Masters,2017,Pune,3,29,Male,No,2,0,0.06896551724137931
+Bachelors,2016,Pune,3,28,Male,No,2,0,0.07142857142857142
+Bachelors,2013,Bangalore,3,29,Male,No,1,0,0.034482758620689655
+Bachelors,2016,Pune,3,29,Male,No,2,0,0.06896551724137931
+Masters,2016,New Delhi,3,26,Male,No,4,0,0.15384615384615385
+Bachelors,2015,Bangalore,3,30,Female,No,1,1,0.03333333333333333
+Bachelors,2016,Bangalore,3,29,Male,No,1,0,0.034482758620689655
+Masters,2014,New Delhi,3,29,Male,No,1,0,0.034482758620689655
+Bachelors,2012,Bangalore,1,27,Female,No,5,0,0.18518518518518517
+Bachelors,2015,Pune,1,28,Female,No,2,1,0.07142857142857142
+Bachelors,2018,Pune,2,28,Female,No,2,1,0.07142857142857142
+Bachelors,2015,Pune,3,28,Female,Yes,1,1,0.03571428571428571
+Bachelors,2015,Pune,3,29,Male,No,2,0,0.06896551724137931
+Bachelors,2016,Bangalore,3,30,Male,Yes,1,0,0.03333333333333333
+PHD,2015,New Delhi,3,28,Male,No,2,1,0.07142857142857142
+Bachelors,2014,Pune,3,29,Male,No,2,0,0.06896551724137931
+Bachelors,2015,Bangalore,3,29,Male,No,1,0,0.034482758620689655
+Bachelors,2013,Pune,3,30,Male,No,2,0,0.06666666666666667
+Bachelors,2015,Pune,2,29,Female,No,2,1,0.06896551724137931
+Bachelors,2017,Bangalore,3,30,Male,No,1,0,0.03333333333333333
+Masters,2017,New Delhi,2,27,Male,No,5,0,0.18518518518518517
+Bachelors,2018,Bangalore,3,29,Male,No,1,1,0.034482758620689655
+Masters,2012,New Delhi,1,30,Female,No,2,1,0.06666666666666667
+Masters,2016,New Delhi,3,28,Female,No,2,0,0.07142857142857142
+Bachelors,2014,Bangalore,3,29,Female,No,2,0,0.06896551724137931
+PHD,2017,Bangalore,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2017,Bangalore,3,29,Male,No,2,0,0.06896551724137931
+Masters,2018,Bangalore,3,28,Female,No,2,1,0.07142857142857142
+Bachelors,2017,Bangalore,3,28,Female,No,1,0,0.03571428571428571
+Bachelors,2015,Bangalore,3,28,Male,No,1,0,0.03571428571428571
+Bachelors,2014,New Delhi,3,29,Female,No,1,0,0.034482758620689655
+Masters,2017,New Delhi,3,29,Male,No,1,0,0.034482758620689655
+Bachelors,2014,Pune,2,29,Male,No,2,1,0.06896551724137931
+Bachelors,2014,Bangalore,3,30,Male,No,1,0,0.03333333333333333
+Bachelors,2014,Bangalore,1,29,Male,No,2,0,0.06896551724137931
+Masters,2016,Pune,3,29,Male,No,2,0,0.06896551724137931
+PHD,2016,Pune,1,28,Male,No,2,0,0.07142857142857142
+PHD,2015,Bangalore,3,29,Male,No,2,0,0.06896551724137931
+Bachelors,2015,Pune,3,28,Male,Yes,2,0,0.07142857142857142
+Bachelors,2014,Bangalore,3,29,Male,No,1,1,0.034482758620689655
+Bachelors,2013,Bangalore,2,30,Female,No,1,1,0.03333333333333333
+Bachelors,2015,Bangalore,3,29,Male,Yes,1,0,0.034482758620689655
+PHD,2017,New Delhi,3,29,Male,No,1,0,0.034482758620689655
+Masters,2017,New Delhi,3,29,Male,No,2,0,0.06896551724137931
+Bachelors,2013,Pune,3,30,Male,No,1,0,0.03333333333333333
+Bachelors,2012,Bangalore,3,30,Female,No,1,1,0.03333333333333333
+Bachelors,2016,Bangalore,3,28,Female,No,1,0,0.03571428571428571
+Masters,2018,New Delhi,3,30,Female,No,2,1,0.06666666666666667
+Bachelors,2018,Pune,3,29,Male,Yes,1,1,0.034482758620689655
+Bachelors,2016,Bangalore,3,30,Female,Yes,2,0,0.06666666666666667
+Masters,2017,Pune,2,27,Male,Yes,5,1,0.18518518518518517
+Bachelors,2017,Pune,2,30,Female,No,2,1,0.06666666666666667
+PHD,2015,Bangalore,3,29,Female,No,1,0,0.034482758620689655
+Bachelors,2017,Pune,3,30,Male,No,2,0,0.06666666666666667
+Bachelors,2014,Pune,1,28,Male,No,1,0,0.03571428571428571
+Bachelors,2015,Bangalore,3,30,Male,No,1,0,0.03333333333333333
+Bachelors,2013,New Delhi,3,27,Male,No,5,0,0.18518518518518517
+Masters,2017,New Delhi,2,28,Male,No,1,1,0.03571428571428571
+PHD,2014,New Delhi,2,27,Female,No,5,0,0.18518518518518517
+Bachelors,2015,Bangalore,3,29,Male,No,2,0,0.06896551724137931
+Bachelors,2017,Bangalore,3,30,Male,No,2,0,0.06666666666666667
+Bachelors,2014,Bangalore,1,27,Female,No,5,0,0.18518518518518517
+Bachelors,2014,Pune,1,26,Male,No,4,0,0.15384615384615385
+Bachelors,2012,Bangalore,3,29,Male,Yes,2,0,0.06896551724137931
+Bachelors,2012,New Delhi,3,30,Male,No,1,0,0.03333333333333333
+Masters,2018,New Delhi,3,29,Male,No,2,1,0.06896551724137931
+Masters,2016,New Delhi,3,27,Male,Yes,5,1,0.18518518518518517
+PHD,2013,New Delhi,3,30,Male,No,1,0,0.03333333333333333
+Masters,2018,Bangalore,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2018,Bangalore,3,29,Female,Yes,2,1,0.06896551724137931
+Bachelors,2016,Bangalore,3,28,Male,No,1,0,0.03571428571428571
+Masters,2012,Pune,3,30,Male,No,1,0,0.03333333333333333
+Bachelors,2014,Bangalore,3,30,Female,No,2,0,0.06666666666666667
+Bachelors,2014,Bangalore,3,29,Female,No,1,0,0.034482758620689655
+Bachelors,2012,Bangalore,1,30,Female,No,2,0,0.06666666666666667
+Bachelors,2012,Bangalore,3,30,Female,Yes,2,0,0.06666666666666667
+Masters,2017,New Delhi,2,30,Male,No,1,0,0.03333333333333333
+Masters,2014,New Delhi,3,29,Male,No,2,0,0.06896551724137931
+Bachelors,2014,Pune,2,28,Female,No,2,1,0.07142857142857142
+Bachelors,2016,Pune,3,29,Male,No,1,0,0.034482758620689655
+Masters,2013,New Delhi,3,26,Female,No,4,1,0.15384615384615385
+Bachelors,2017,Bangalore,3,29,Male,No,1,0,0.034482758620689655
+Masters,2013,New Delhi,3,27,Female,No,5,0,0.18518518518518517
+Bachelors,2012,Pune,2,30,Female,No,2,1,0.06666666666666667
+Bachelors,2015,Pune,2,29,Female,Yes,2,1,0.06896551724137931
+Masters,2014,Bangalore,3,28,Male,No,1,1,0.03571428571428571
+Bachelors,2015,Bangalore,3,28,Female,No,2,0,0.07142857142857142
+Masters,2017,Bangalore,1,27,Male,No,5,0,0.18518518518518517
+Masters,2017,Pune,2,30,Male,No,1,0,0.03333333333333333
+Bachelors,2013,Pune,3,29,Male,No,2,0,0.06896551724137931
+Bachelors,2012,Pune,3,27,Male,Yes,5,0,0.18518518518518517
+Bachelors,2015,Pune,3,30,Female,No,1,1,0.03333333333333333
+Masters,2018,Pune,3,26,Male,No,4,1,0.15384615384615385
+Masters,2013,Bangalore,2,29,Female,No,2,1,0.06896551724137931
+Bachelors,2014,Bangalore,1,28,Male,No,2,1,0.07142857142857142
+Bachelors,2014,Bangalore,3,28,Female,Yes,1,0,0.03571428571428571
+Masters,2015,New Delhi,3,27,Male,No,5,0,0.18518518518518517
+Masters,2017,New Delhi,2,30,Male,Yes,2,0,0.06666666666666667
+Bachelors,2013,Bangalore,3,27,Male,Yes,5,0,0.18518518518518517
+Bachelors,2012,New Delhi,3,30,Male,No,1,1,0.03333333333333333
+Masters,2016,Pune,3,30,Male,No,1,0,0.03333333333333333
+Bachelors,2014,Pune,3,30,Male,No,1,0,0.03333333333333333
+Masters,2017,Bangalore,3,26,Male,No,4,1,0.15384615384615385
+PHD,2014,Bangalore,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2013,Bangalore,3,30,Female,No,1,1,0.03333333333333333
+Bachelors,2012,Bangalore,3,30,Female,No,2,0,0.06666666666666667
+Bachelors,2013,Bangalore,1,28,Female,No,1,0,0.03571428571428571
+Masters,2017,Pune,2,30,Female,No,2,1,0.06666666666666667
+Bachelors,2015,Pune,2,29,Female,No,1,1,0.034482758620689655
+Masters,2017,New Delhi,2,26,Female,Yes,4,1,0.15384615384615385
+Masters,2017,New Delhi,2,30,Female,No,1,0,0.03333333333333333
+Bachelors,2017,Pune,2,29,Male,No,1,0,0.034482758620689655
+Masters,2014,New Delhi,1,29,Male,No,1,0,0.034482758620689655
+Bachelors,2015,Pune,2,30,Female,No,2,1,0.06666666666666667
+Bachelors,2014,Bangalore,3,30,Male,No,2,1,0.06666666666666667
+Masters,2018,New Delhi,1,30,Female,No,2,0,0.06666666666666667
+Bachelors,2014,Bangalore,1,28,Female,No,2,0,0.07142857142857142
+Bachelors,2016,Bangalore,3,30,Female,No,1,0,0.03333333333333333
+PHD,2015,Pune,3,27,Male,No,5,0,0.18518518518518517
+Masters,2017,New Delhi,2,30,Female,Yes,2,0,0.06666666666666667
+PHD,2013,New Delhi,3,30,Female,No,2,0,0.06666666666666667
+Bachelors,2015,Bangalore,3,29,Male,No,2,1,0.06896551724137931
+Masters,2014,Pune,3,30,Male,No,2,0,0.06666666666666667
+Masters,2017,Pune,2,30,Male,Yes,2,0,0.06666666666666667
+Bachelors,2015,Pune,2,29,Female,Yes,1,1,0.034482758620689655
+Bachelors,2017,Pune,2,29,Female,No,1,1,0.034482758620689655
+Bachelors,2014,Bangalore,3,29,Female,No,1,1,0.034482758620689655
+Masters,2015,Pune,2,30,Female,No,2,1,0.06666666666666667
+Masters,2015,Pune,2,29,Female,No,1,0,0.034482758620689655
+Masters,2015,Bangalore,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2017,Bangalore,3,29,Female,No,1,0,0.034482758620689655
+Bachelors,2014,New Delhi,3,29,Female,No,2,0,0.06896551724137931
+Masters,2017,Pune,2,28,Female,No,2,0,0.07142857142857142
+Masters,2013,New Delhi,3,27,Female,No,5,1,0.18518518518518517
+Masters,2017,New Delhi,3,27,Male,Yes,5,1,0.18518518518518517
+Bachelors,2013,Bangalore,3,30,Male,No,2,0,0.06666666666666667
+Bachelors,2015,Bangalore,2,27,Female,No,5,1,0.18518518518518517
+Bachelors,2015,Bangalore,3,30,Male,No,2,1,0.06666666666666667
+Bachelors,2017,Bangalore,3,30,Male,No,2,1,0.06666666666666667
+Bachelors,2016,Pune,2,30,Female,No,2,1,0.06666666666666667
+Masters,2016,Pune,1,27,Female,No,5,0,0.18518518518518517
+Bachelors,2013,Pune,2,27,Male,No,5,1,0.18518518518518517
+Masters,2014,New Delhi,3,28,Male,No,1,1,0.03571428571428571
+Bachelors,2016,New Delhi,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2016,New Delhi,3,29,Female,Yes,2,0,0.06896551724137931
+Bachelors,2016,Bangalore,3,29,Female,No,1,0,0.034482758620689655
+Bachelors,2012,Bangalore,3,29,Female,No,1,0,0.034482758620689655
+Bachelors,2018,Bangalore,3,29,Male,Yes,2,1,0.06896551724137931
+Bachelors,2012,Pune,3,30,Male,No,1,0,0.03333333333333333
+Bachelors,2013,Bangalore,3,30,Male,Yes,1,1,0.03333333333333333
+Bachelors,2015,New Delhi,3,29,Female,Yes,1,0,0.034482758620689655
+Bachelors,2014,Bangalore,3,30,Female,No,1,0,0.03333333333333333
+Bachelors,2014,Pune,1,28,Male,No,2,0,0.07142857142857142
+Bachelors,2015,Pune,3,27,Female,No,5,0,0.18518518518518517
+Bachelors,2016,Bangalore,3,30,Male,No,1,1,0.03333333333333333
+Bachelors,2016,Pune,3,26,Female,No,4,1,0.15384615384615385
+Bachelors,2018,New Delhi,3,27,Female,Yes,5,1,0.18518518518518517
+Bachelors,2012,Pune,1,27,Male,No,5,0,0.18518518518518517
+PHD,2017,Bangalore,3,28,Female,No,1,0,0.03571428571428571
+Bachelors,2015,Pune,3,29,Female,No,1,1,0.034482758620689655
+Masters,2014,New Delhi,3,30,Male,Yes,2,0,0.06666666666666667
+Masters,2012,New Delhi,3,30,Male,No,2,0,0.06666666666666667
+Bachelors,2018,Bangalore,3,30,Male,Yes,1,1,0.03333333333333333
+Masters,2017,New Delhi,3,29,Female,No,2,0,0.06896551724137931
+Bachelors,2014,Bangalore,3,29,Male,No,2,0,0.06896551724137931
+Bachelors,2017,New Delhi,3,28,Male,No,1,0,0.03571428571428571
+Bachelors,2014,Bangalore,1,28,Male,No,1,0,0.03571428571428571
+PHD,2012,New Delhi,1,29,Female,No,2,0,0.06896551724137931
+Bachelors,2013,Bangalore,3,30,Female,No,2,1,0.06666666666666667
+Bachelors,2014,Pune,3,28,Male,No,1,0,0.03571428571428571
+Masters,2013,New Delhi,2,26,Male,No,4,1,0.15384615384615385
+Bachelors,2013,Pune,3,27,Female,No,5,0,0.18518518518518517
+PHD,2015,New Delhi,3,28,Male,No,2,0,0.07142857142857142
+Masters,2017,Pune,2,28,Male,No,2,0,0.07142857142857142
+Bachelors,2014,Pune,3,28,Male,No,4,0,0.14285714285714285
+Bachelors,2016,Bangalore,3,29,Female,No,1,1,0.034482758620689655
+Bachelors,2017,Bangalore,3,26,Female,No,4,1,0.15384615384615385
+Bachelors,2015,Bangalore,3,30,Male,No,0,0,0.0
+Bachelors,2012,Bangalore,1,30,Female,No,0,0,0.0
+Bachelors,2015,Pune,3,29,Female,No,3,1,0.10344827586206896
+Masters,2017,Pune,2,30,Male,No,0,1,0.0
+Masters,2014,Pune,3,30,Male,No,0,1,0.0
+Bachelors,2013,Pune,3,29,Male,Yes,2,0,0.06896551724137931
+Masters,2018,New Delhi,3,27,Male,Yes,5,1,0.18518518518518517
+Bachelors,2012,Bangalore,3,30,Female,No,0,1,0.0
+Bachelors,2012,Bangalore,3,29,Female,No,4,0,0.13793103448275862
+Bachelors,2015,Bangalore,3,28,Male,Yes,4,0,0.14285714285714285
+Bachelors,2016,Pune,3,29,Male,No,5,0,0.1724137931034483
+Bachelors,2014,Bangalore,3,29,Male,No,0,0,0.0
+Masters,2013,Bangalore,3,30,Male,No,5,1,0.16666666666666666
+Bachelors,2017,New Delhi,3,30,Female,Yes,3,0,0.1
+PHD,2015,Pune,2,30,Female,No,4,0,0.13333333333333333
+Masters,2014,Bangalore,3,30,Male,No,4,1,0.13333333333333333
+Bachelors,2013,Pune,3,30,Male,No,0,0,0.0
+Masters,2017,Pune,2,30,Male,No,0,0,0.0
+Masters,2017,New Delhi,2,29,Male,No,2,0,0.06896551724137931
+Bachelors,2014,Bangalore,1,27,Male,No,5,1,0.18518518518518517
+Masters,2018,New Delhi,3,30,Female,No,4,1,0.13333333333333333
+Bachelors,2015,Bangalore,3,29,Female,No,1,0,0.034482758620689655
+Bachelors,2014,Pune,3,26,Female,No,4,1,0.15384615384615385
+Masters,2016,Pune,3,28,Male,No,2,0,0.07142857142857142
+Bachelors,2015,New Delhi,3,28,Female,No,4,0,0.14285714285714285
+Bachelors,2017,Bangalore,3,28,Male,No,4,0,0.14285714285714285
+Bachelors,2015,Bangalore,3,28,Female,No,0,0,0.0
+Masters,2013,Pune,3,27,Female,Yes,5,1,0.18518518518518517
+Bachelors,2012,Pune,3,29,Male,No,1,0,0.034482758620689655
+Bachelors,2015,Pune,2,28,Female,No,0,1,0.0
+Bachelors,2018,Pune,3,30,Male,Yes,3,1,0.1
+Bachelors,2016,Bangalore,3,29,Male,No,5,0,0.1724137931034483
+Bachelors,2016,Bangalore,3,30,Male,No,2,1,0.06666666666666667
+Bachelors,2017,New Delhi,2,29,Male,No,3,1,0.10344827586206896
+Bachelors,2013,Bangalore,3,29,Male,Yes,4,0,0.13793103448275862
+Bachelors,2013,Bangalore,3,30,Male,No,5,0,0.16666666666666666
+Bachelors,2012,Bangalore,3,29,Male,Yes,2,1,0.06896551724137931
+Masters,2015,Bangalore,3,28,Male,No,0,1,0.0
+Masters,2015,Pune,3,29,Female,No,4,0,0.13793103448275862
+Bachelors,2017,Bangalore,3,30,Male,No,1,1,0.03333333333333333
+Bachelors,2017,Bangalore,1,28,Female,No,0,1,0.0
+Bachelors,2013,Bangalore,3,28,Male,No,5,0,0.17857142857142858
+Masters,2013,New Delhi,3,30,Male,No,2,1,0.06666666666666667
+Masters,2013,New Delhi,1,29,Female,No,2,1,0.06896551724137931
+Bachelors,2013,Bangalore,3,29,Male,No,2,0,0.06896551724137931
+PHD,2013,New Delhi,3,27,Female,No,5,0,0.18518518518518517
+Bachelors,2016,Bangalore,3,28,Female,No,1,1,0.03571428571428571
+Bachelors,2015,Pune,3,29,Male,No,1,0,0.034482758620689655
+Bachelors,2015,Pune,3,30,Female,No,0,1,0.0
+Bachelors,2017,Bangalore,3,30,Male,No,3,0,0.1
+PHD,2012,New Delhi,3,29,Male,No,5,0,0.1724137931034483
+Bachelors,2014,Bangalore,3,26,Female,Yes,4,0,0.15384615384615385
+PHD,2014,New Delhi,3,28,Female,No,0,0,0.0
+Bachelors,2018,Bangalore,3,29,Male,No,0,1,0.0
+Bachelors,2016,Bangalore,3,29,Male,No,3,0,0.10344827586206896
+Bachelors,2018,Pune,3,30,Female,No,2,1,0.06666666666666667
+Bachelors,2014,Pune,3,29,Male,No,3,0,0.10344827586206896
+Bachelors,2013,Pune,3,30,Male,No,4,0,0.13333333333333333
+Masters,2015,New Delhi,3,29,Male,No,2,0,0.06896551724137931
+Bachelors,2016,Bangalore,3,30,Male,No,0,0,0.0
+Bachelors,2014,Pune,2,29,Female,No,1,1,0.034482758620689655
+Bachelors,2016,Bangalore,3,28,Male,Yes,3,0,0.10714285714285714
+Bachelors,2016,Pune,3,28,Male,No,5,0,0.17857142857142858
+Bachelors,2017,Pune,2,28,Female,No,1,1,0.03571428571428571
+Bachelors,2015,Bangalore,3,30,Male,No,4,0,0.13333333333333333
+Masters,2012,New Delhi,3,27,Male,No,5,0,0.18518518518518517
+Masters,2017,New Delhi,3,29,Female,Yes,2,0,0.06896551724137931
+Bachelors,2018,New Delhi,3,29,Female,No,2,1,0.06896551724137931
+Bachelors,2012,Bangalore,3,28,Female,No,0,0,0.0
+Bachelors,2018,Pune,3,28,Female,No,5,1,0.17857142857142858
+Bachelors,2014,Bangalore,1,26,Male,No,4,1,0.15384615384615385
+Bachelors,2014,New Delhi,2,29,Female,No,3,1,0.10344827586206896
+Bachelors,2013,Pune,3,30,Male,No,4,1,0.13333333333333333
+Bachelors,2015,Bangalore,3,30,Male,No,3,0,0.1
+Bachelors,2012,Bangalore,3,29,Male,No,2,1,0.06896551724137931
+Masters,2017,New Delhi,2,30,Female,No,2,1,0.06666666666666667
+Bachelors,2012,Pune,3,29,Male,No,0,0,0.0
+Bachelors,2015,Pune,1,30,Female,No,0,1,0.0
+Bachelors,2017,Pune,2,30,Female,No,4,1,0.13333333333333333
+Bachelors,2017,Pune,2,28,Male,No,5,0,0.17857142857142858
+Bachelors,2013,Bangalore,3,29,Female,No,5,0,0.1724137931034483
+Bachelors,2012,Bangalore,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2017,Pune,2,28,Female,No,3,1,0.10714285714285714
+Bachelors,2015,Bangalore,1,29,Male,No,4,0,0.13793103448275862
+Bachelors,2013,Bangalore,2,30,Male,No,0,1,0.0
+PHD,2018,Bangalore,3,28,Male,No,2,1,0.07142857142857142
+Bachelors,2015,Pune,3,28,Female,No,3,1,0.10714285714285714
+Bachelors,2015,Bangalore,3,30,Female,No,3,1,0.1
+Bachelors,2012,Bangalore,3,29,Male,No,5,0,0.1724137931034483
+Bachelors,2014,Pune,3,29,Male,No,1,0,0.034482758620689655
+Bachelors,2017,Pune,3,30,Male,No,5,0,0.16666666666666666
+Bachelors,2012,New Delhi,3,30,Female,Yes,3,0,0.1
+Bachelors,2013,Pune,2,30,Male,No,1,1,0.03333333333333333
+PHD,2015,New Delhi,3,27,Female,No,5,0,0.18518518518518517
+Masters,2017,New Delhi,2,29,Male,No,1,0,0.034482758620689655
+Bachelors,2013,New Delhi,3,28,Female,No,3,0,0.10714285714285714
+Masters,2012,Pune,3,29,Male,No,4,1,0.13793103448275862
+Bachelors,2014,New Delhi,3,29,Male,No,4,0,0.13793103448275862
+Bachelors,2013,New Delhi,3,29,Female,No,2,0,0.06896551724137931
+Bachelors,2016,Bangalore,2,30,Female,No,4,1,0.13333333333333333
+Bachelors,2017,New Delhi,3,29,Female,No,0,0,0.0
+Bachelors,2018,Bangalore,3,28,Male,No,3,1,0.10714285714285714
+Bachelors,2014,Bangalore,3,29,Male,No,4,0,0.13793103448275862
+Bachelors,2013,Bangalore,2,27,Female,No,5,1,0.18518518518518517
+Masters,2017,Bangalore,2,30,Male,No,3,0,0.1
+Masters,2017,New Delhi,2,29,Male,No,4,0,0.13793103448275862
+Bachelors,2016,Pune,3,30,Male,No,0,0,0.0
+Bachelors,2015,Bangalore,3,29,Female,No,0,0,0.0
+Bachelors,2015,New Delhi,3,29,Male,No,1,0,0.034482758620689655
+Bachelors,2017,Bangalore,3,30,Male,No,4,0,0.13333333333333333
+PHD,2013,Bangalore,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2018,Bangalore,3,28,Male,Yes,1,1,0.03571428571428571
+Masters,2017,Pune,2,29,Female,Yes,2,1,0.06896551724137931
+Bachelors,2012,New Delhi,1,27,Female,No,5,1,0.18518518518518517
+Bachelors,2015,Pune,1,28,Female,No,0,1,0.0
+Bachelors,2014,Bangalore,3,29,Male,No,4,1,0.13793103448275862
+Bachelors,2017,New Delhi,3,29,Female,No,3,0,0.10344827586206896
+PHD,2015,Pune,2,26,Female,No,4,0,0.15384615384615385
+Bachelors,2017,Bangalore,3,30,Female,No,5,0,0.16666666666666666
+Masters,2013,Pune,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2012,Pune,2,29,Female,No,2,1,0.06896551724137931
+Bachelors,2018,Bangalore,3,30,Male,Yes,2,1,0.06666666666666667
+Bachelors,2018,Bangalore,2,28,Female,No,3,1,0.10714285714285714
+Bachelors,2012,Bangalore,3,28,Male,No,0,1,0.0
+Bachelors,2012,Bangalore,3,28,Female,Yes,0,0,0.0
+Bachelors,2016,Bangalore,3,28,Male,Yes,2,0,0.07142857142857142
+Bachelors,2018,Pune,3,29,Male,Yes,3,1,0.10344827586206896
+Bachelors,2014,New Delhi,3,29,Male,Yes,4,0,0.13793103448275862
+Masters,2018,Bangalore,3,27,Male,Yes,5,1,0.18518518518518517
+Bachelors,2017,Pune,3,29,Female,No,0,1,0.0
+Bachelors,2018,Bangalore,3,29,Male,No,2,1,0.06896551724137931
+Masters,2013,Bangalore,3,30,Male,No,2,1,0.06666666666666667
+Bachelors,2017,Bangalore,1,30,Male,No,1,0,0.03333333333333333
+Bachelors,2015,New Delhi,3,30,Female,Yes,1,0,0.03333333333333333
+Bachelors,2017,Pune,3,30,Female,No,1,1,0.03333333333333333
+PHD,2018,New Delhi,3,30,Male,No,2,1,0.06666666666666667
+Bachelors,2018,Bangalore,3,29,Male,Yes,1,1,0.034482758620689655
+Bachelors,2013,Bangalore,3,30,Male,Yes,0,0,0.0
+Bachelors,2013,Pune,3,28,Male,No,5,0,0.17857142857142858
+Bachelors,2015,Pune,2,30,Female,No,1,1,0.03333333333333333
+Masters,2012,Pune,3,27,Male,Yes,5,1,0.18518518518518517
+Bachelors,2013,Bangalore,3,30,Male,No,1,0,0.03333333333333333
+Bachelors,2014,New Delhi,3,27,Male,No,5,0,0.18518518518518517
+Masters,2013,Bangalore,3,30,Male,No,1,1,0.03333333333333333
+Bachelors,2016,Bangalore,3,29,Male,No,2,1,0.06896551724137931
+Masters,2018,New Delhi,3,30,Male,No,2,1,0.06666666666666667
+Masters,2014,Pune,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2017,Pune,3,29,Male,No,0,0,0.0
+Masters,2016,New Delhi,3,30,Male,No,2,0,0.06666666666666667
+Masters,2017,New Delhi,3,30,Male,No,3,1,0.1
+Bachelors,2013,Pune,2,30,Female,No,1,1,0.03333333333333333
+Masters,2014,New Delhi,3,28,Female,No,3,0,0.10714285714285714
+Bachelors,2017,Bangalore,1,30,Male,No,2,0,0.06666666666666667
+Bachelors,2013,Pune,1,30,Female,Yes,1,1,0.03333333333333333
+Bachelors,2013,Bangalore,3,30,Female,No,5,0,0.16666666666666666
+PHD,2018,New Delhi,2,30,Female,No,4,1,0.13333333333333333
+Bachelors,2017,Bangalore,3,29,Male,No,3,0,0.10344827586206896
+Bachelors,2012,Bangalore,3,28,Male,Yes,2,0,0.07142857142857142
+Masters,2017,New Delhi,1,30,Male,No,2,0,0.06666666666666667
+Masters,2013,Bangalore,1,29,Female,No,2,1,0.06896551724137931
+Bachelors,2012,Pune,3,29,Male,No,5,0,0.1724137931034483
+Bachelors,2015,Bangalore,3,29,Male,No,4,0,0.13793103448275862
+Bachelors,2014,Bangalore,3,29,Male,No,3,1,0.10344827586206896
+Bachelors,2018,Bangalore,3,28,Male,No,0,1,0.0
+Bachelors,2017,Bangalore,3,29,Male,No,0,0,0.0
+Bachelors,2015,Pune,2,29,Female,No,4,1,0.13793103448275862
+Bachelors,2014,Pune,3,29,Female,No,1,1,0.034482758620689655
+Bachelors,2012,Bangalore,3,28,Female,No,4,0,0.14285714285714285
+Bachelors,2017,Bangalore,3,29,Female,No,5,0,0.1724137931034483
+Bachelors,2015,Bangalore,3,30,Male,Yes,3,0,0.1
+Bachelors,2018,Bangalore,3,28,Male,No,5,1,0.17857142857142858
+Bachelors,2017,New Delhi,3,30,Male,No,5,0,0.16666666666666666
+Bachelors,2014,Bangalore,3,30,Male,No,0,0,0.0
+Bachelors,2014,New Delhi,3,30,Female,No,2,0,0.06666666666666667
+Bachelors,2012,New Delhi,3,29,Female,No,5,0,0.1724137931034483
+Bachelors,2017,Pune,2,29,Female,No,4,1,0.13793103448275862
+Masters,2016,Pune,3,29,Male,No,4,1,0.13793103448275862
+Masters,2012,New Delhi,3,29,Male,No,2,0,0.06896551724137931
+Bachelors,2017,Bangalore,3,28,Female,No,2,1,0.07142857142857142
+Bachelors,2013,New Delhi,3,30,Female,No,3,1,0.1
+Masters,2013,New Delhi,3,30,Male,No,0,1,0.0
+Masters,2018,New Delhi,3,26,Female,No,4,1,0.15384615384615385
+Masters,2015,New Delhi,3,30,Male,No,2,0,0.06666666666666667
+Bachelors,2012,Bangalore,3,29,Male,No,4,0,0.13793103448275862
+Masters,2017,Pune,2,28,Male,No,5,0,0.17857142857142858
+Bachelors,2016,Pune,2,29,Male,No,3,1,0.10344827586206896
+Bachelors,2018,Pune,3,28,Male,No,5,1,0.17857142857142858
+Bachelors,2014,Pune,3,29,Female,No,4,1,0.13793103448275862
+Masters,2016,New Delhi,3,30,Male,No,3,0,0.1
+Bachelors,2017,Pune,3,30,Male,No,0,0,0.0
+Bachelors,2017,New Delhi,2,30,Male,No,4,0,0.13333333333333333
+Bachelors,2017,New Delhi,2,28,Female,No,4,0,0.14285714285714285
+PHD,2016,Bangalore,3,30,Female,No,5,0,0.16666666666666666
+Bachelors,2017,Pune,2,29,Male,No,3,0,0.10344827586206896
+Bachelors,2017,New Delhi,2,30,Male,No,1,1,0.03333333333333333
+Bachelors,2016,Pune,2,30,Female,No,1,1,0.03333333333333333
+Masters,2014,New Delhi,3,28,Male,No,0,0,0.0
+Masters,2015,Pune,2,30,Female,No,1,0,0.03333333333333333
+Bachelors,2012,Bangalore,3,30,Female,No,1,0,0.03333333333333333
+Bachelors,2018,Bangalore,3,29,Male,No,3,1,0.10344827586206896
+Masters,2018,Pune,3,29,Male,No,2,1,0.06896551724137931
+Bachelors,2017,New Delhi,2,28,Male,No,2,0,0.07142857142857142
+Bachelors,2016,Bangalore,3,29,Female,No,0,1,0.0
+Bachelors,2016,New Delhi,1,29,Female,No,1,0,0.034482758620689655
+Bachelors,2018,Bangalore,3,29,Female,No,3,1,0.10344827586206896
+Masters,2016,New Delhi,3,29,Female,No,1,1,0.034482758620689655
+Bachelors,2015,Pune,3,28,Male,No,5,0,0.17857142857142858
+Bachelors,2017,New Delhi,2,29,Female,No,5,0,0.1724137931034483
+Bachelors,2017,Bangalore,3,30,Male,No,0,0,0.0
+Bachelors,2013,New Delhi,3,28,Female,No,1,0,0.03571428571428571
+Bachelors,2012,New Delhi,3,28,Female,No,0,0,0.0
+Bachelors,2013,Pune,2,29,Female,No,0,1,0.0
+Bachelors,2013,Pune,2,28,Female,No,4,1,0.14285714285714285
+Bachelors,2013,Bangalore,3,29,Female,No,3,0,0.10344827586206896
+Bachelors,2015,Bangalore,3,29,Male,No,5,0,0.1724137931034483
+Bachelors,2017,New Delhi,3,30,Female,No,3,0,0.1
+Bachelors,2015,Pune,3,29,Male,No,0,0,0.0
+Bachelors,2013,Bangalore,3,27,Female,Yes,5,0,0.18518518518518517
+Bachelors,2017,Bangalore,1,29,Female,No,5,0,0.1724137931034483
+Masters,2017,Bangalore,2,27,Male,No,5,1,0.18518518518518517
+Masters,2014,New Delhi,3,28,Female,No,2,0,0.07142857142857142
+Bachelors,2012,New Delhi,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2012,Bangalore,3,28,Male,No,0,0,0.0
+Bachelors,2013,New Delhi,3,27,Female,No,5,1,0.18518518518518517
+Bachelors,2013,Bangalore,2,26,Female,No,4,1,0.15384615384615385
+Bachelors,2012,Bangalore,3,28,Female,No,3,0,0.10714285714285714
+Masters,2017,New Delhi,3,27,Male,No,5,0,0.18518518518518517
+Bachelors,2013,Pune,2,30,Female,No,5,1,0.16666666666666666
+Masters,2015,Pune,3,26,Male,No,4,1,0.15384615384615385
+Bachelors,2016,Bangalore,3,30,Female,No,3,0,0.1
+Bachelors,2017,Bangalore,3,30,Male,No,0,1,0.0
+PHD,2015,New Delhi,3,29,Male,No,4,0,0.13793103448275862
+Bachelors,2014,Bangalore,1,28,Female,No,5,0,0.17857142857142858
+Bachelors,2014,Pune,3,30,Male,No,0,0,0.0
+Masters,2012,Bangalore,3,26,Female,No,4,1,0.15384615384615385
+Bachelors,2013,New Delhi,2,26,Female,No,4,1,0.15384615384615385
+Bachelors,2016,New Delhi,3,29,Female,No,0,0,0.0
+Masters,2018,New Delhi,3,28,Female,No,2,1,0.07142857142857142
+PHD,2015,New Delhi,2,27,Female,No,5,0,0.18518518518518517
+Masters,2013,Pune,1,30,Male,No,1,0,0.03333333333333333
+Bachelors,2018,New Delhi,3,30,Female,Yes,3,1,0.1
+PHD,2013,New Delhi,3,30,Male,No,5,0,0.16666666666666666
+Masters,2014,New Delhi,3,26,Male,Yes,4,1,0.15384615384615385
+Bachelors,2018,Bangalore,3,36,Male,No,2,1,0.05555555555555555
+Bachelors,2018,Bangalore,3,37,Male,No,4,1,0.10810810810810811
+Bachelors,2015,Pune,3,35,Female,No,0,1,0.0
+Bachelors,2013,Pune,2,32,Female,No,4,1,0.125
+Bachelors,2013,Pune,1,39,Female,No,0,1,0.0
+Bachelors,2018,Pune,3,32,Male,No,1,1,0.03125
+PHD,2012,New Delhi,3,37,Female,No,5,0,0.13513513513513514
+Bachelors,2012,Pune,3,31,Male,No,4,0,0.12903225806451613
+Bachelors,2018,Pune,3,31,Male,No,1,1,0.03225806451612903
+Bachelors,2017,Bangalore,3,33,Male,No,2,0,0.06060606060606061
+Masters,2017,Pune,2,37,Male,No,2,0,0.05405405405405406
+Bachelors,2014,Pune,3,31,Male,Yes,1,0,0.03225806451612903
+Masters,2017,Bangalore,3,40,Female,No,4,0,0.1
+Bachelors,2017,New Delhi,2,32,Male,No,0,0,0.0
+Bachelors,2016,Bangalore,3,41,Male,No,0,0,0.0
+Bachelors,2018,Bangalore,3,35,Female,Yes,5,1,0.14285714285714285
+Bachelors,2014,Pune,3,34,Male,No,3,0,0.08823529411764706
+Bachelors,2017,Bangalore,3,31,Male,No,0,0,0.0
+Masters,2017,Bangalore,3,41,Female,No,2,1,0.04878048780487805
+Bachelors,2015,Pune,3,41,Male,No,5,0,0.12195121951219512
+Bachelors,2016,Bangalore,3,37,Female,No,0,0,0.0
+Bachelors,2018,Bangalore,3,32,Female,No,3,1,0.09375
+Bachelors,2015,Bangalore,3,37,Male,Yes,3,0,0.08108108108108109
+Bachelors,2016,Bangalore,3,32,Male,No,1,0,0.03125
+Masters,2017,New Delhi,3,36,Female,No,5,0,0.1388888888888889
+Bachelors,2014,Bangalore,3,36,Male,No,3,0,0.08333333333333333
+Bachelors,2015,Bangalore,3,36,Male,No,5,0,0.1388888888888889
+Bachelors,2017,Bangalore,3,41,Male,Yes,3,0,0.07317073170731707
+Bachelors,2015,Pune,3,39,Male,No,3,0,0.07692307692307693
+Bachelors,2013,Pune,3,37,Male,No,0,0,0.0
+Bachelors,2013,Bangalore,3,32,Male,No,1,0,0.03125
+Bachelors,2012,Bangalore,3,36,Male,No,2,0,0.05555555555555555
+Bachelors,2013,Bangalore,3,36,Male,No,4,0,0.1111111111111111
+Bachelors,2014,Bangalore,3,36,Male,No,1,0,0.027777777777777776
+Bachelors,2018,Bangalore,3,32,Female,Yes,2,1,0.0625
+Bachelors,2018,Bangalore,3,34,Male,No,3,1,0.08823529411764706
+Bachelors,2018,Bangalore,3,37,Male,Yes,5,1,0.13513513513513514
+Bachelors,2018,Pune,3,40,Male,Yes,3,1,0.075
+Bachelors,2014,Pune,2,36,Female,No,3,1,0.08333333333333333
+Bachelors,2017,Pune,2,38,Female,No,0,0,0.0
+Masters,2017,New Delhi,2,31,Female,No,0,1,0.0
+Bachelors,2013,New Delhi,3,41,Female,No,4,0,0.0975609756097561
+Masters,2012,Bangalore,2,32,Male,No,3,1,0.09375
+Bachelors,2017,New Delhi,2,41,Female,No,3,0,0.07317073170731707
+Bachelors,2013,Pune,3,40,Male,No,5,0,0.125
+Bachelors,2014,Bangalore,3,38,Female,No,2,1,0.05263157894736842
+Masters,2017,New Delhi,2,36,Male,No,5,0,0.1388888888888889
+Bachelors,2013,New Delhi,3,33,Female,No,1,0,0.030303030303030304
+Bachelors,2014,Bangalore,3,39,Male,Yes,0,0,0.0
+Bachelors,2013,Bangalore,3,39,Male,No,0,0,0.0
+Bachelors,2014,Bangalore,3,33,Male,No,4,0,0.12121212121212122
+Bachelors,2017,Pune,3,32,Male,No,5,0,0.15625
+Bachelors,2014,Bangalore,3,35,Female,No,2,1,0.05714285714285714
+Bachelors,2014,Bangalore,3,36,Male,No,5,0,0.1388888888888889
+Bachelors,2018,Pune,2,39,Female,No,0,1,0.0
+Bachelors,2013,Bangalore,3,37,Female,No,5,0,0.13513513513513514
+Masters,2017,New Delhi,2,35,Female,No,2,1,0.05714285714285714
+Bachelors,2017,Bangalore,3,36,Male,No,5,0,0.1388888888888889
+Masters,2013,New Delhi,3,41,Male,No,0,0,0.0
+Bachelors,2018,Bangalore,3,38,Male,No,2,1,0.05263157894736842
+Bachelors,2015,Bangalore,3,34,Male,No,5,0,0.14705882352941177
+Bachelors,2012,Bangalore,3,34,Male,No,1,0,0.029411764705882353
+Bachelors,2015,Pune,3,35,Male,Yes,5,0,0.14285714285714285
+Bachelors,2012,Bangalore,3,39,Female,No,2,0,0.05128205128205128
+Bachelors,2012,Bangalore,3,41,Male,No,3,0,0.07317073170731707
+Bachelors,2018,Bangalore,3,34,Male,Yes,2,1,0.058823529411764705
+Masters,2015,Pune,2,35,Female,No,1,0,0.02857142857142857
+Bachelors,2012,Bangalore,3,33,Male,No,2,0,0.06060606060606061
+Bachelors,2015,Bangalore,3,39,Male,No,3,0,0.07692307692307693
+Masters,2017,New Delhi,2,35,Male,Yes,2,0,0.05714285714285714
+Bachelors,2017,New Delhi,2,31,Female,No,0,0,0.0
+Bachelors,2016,Bangalore,3,34,Male,Yes,4,0,0.11764705882352941
+Bachelors,2013,Bangalore,3,40,Female,Yes,5,0,0.125
+Bachelors,2016,New Delhi,3,31,Female,No,4,0,0.12903225806451613
+Bachelors,2016,Pune,3,33,Male,No,3,0,0.09090909090909091
+Bachelors,2013,Bangalore,3,32,Male,No,5,0,0.15625
+Masters,2017,New Delhi,2,31,Male,No,4,1,0.12903225806451613
+Bachelors,2014,Bangalore,3,39,Male,No,2,0,0.05128205128205128
+Bachelors,2016,Bangalore,3,33,Male,No,1,1,0.030303030303030304
+Bachelors,2014,Bangalore,3,40,Female,No,4,0,0.1
+Bachelors,2016,Bangalore,3,39,Male,No,0,1,0.0
+Bachelors,2017,Bangalore,3,35,Male,Yes,2,0,0.05714285714285714
+Bachelors,2017,Bangalore,3,32,Male,No,1,0,0.03125
+Bachelors,2015,Pune,2,34,Female,No,5,1,0.14705882352941177
+Bachelors,2017,Bangalore,3,40,Female,No,4,0,0.1
+Masters,2017,Pune,3,33,Male,No,4,1,0.12121212121212122
+Bachelors,2015,Pune,2,36,Female,No,0,1,0.0
+Masters,2018,Bangalore,3,39,Male,No,3,1,0.07692307692307693
+Bachelors,2012,Bangalore,3,37,Female,No,5,1,0.13513513513513514
+Bachelors,2018,Bangalore,3,36,Male,No,1,1,0.027777777777777776
+Bachelors,2017,New Delhi,2,39,Male,No,2,0,0.05128205128205128
+Bachelors,2015,Pune,2,35,Female,Yes,4,1,0.11428571428571428
+Masters,2018,New Delhi,3,41,Male,No,2,1,0.04878048780487805
+Bachelors,2012,Pune,3,31,Male,No,5,0,0.16129032258064516
+Bachelors,2015,Pune,2,36,Female,Yes,0,1,0.0
+Bachelors,2017,Bangalore,3,37,Male,No,2,1,0.05405405405405406
+Bachelors,2015,Pune,2,39,Female,No,4,1,0.10256410256410256
+Bachelors,2012,Pune,3,34,Male,No,2,0,0.058823529411764705
+Bachelors,2012,Bangalore,3,35,Female,No,1,0,0.02857142857142857
+Bachelors,2015,Bangalore,3,40,Female,No,2,0,0.05
+Bachelors,2016,Bangalore,3,39,Female,No,1,0,0.02564102564102564
+Bachelors,2017,Bangalore,3,39,Female,No,1,0,0.02564102564102564
+Bachelors,2015,Pune,3,41,Female,No,3,1,0.07317073170731707
+Bachelors,2012,Pune,3,40,Male,No,2,0,0.05
+Bachelors,2012,Bangalore,1,36,Male,No,3,0,0.08333333333333333
+Bachelors,2017,New Delhi,2,33,Female,No,2,0,0.06060606060606061
+Masters,2014,New Delhi,3,33,Male,No,2,0,0.06060606060606061
+Masters,2018,New Delhi,3,40,Male,No,2,1,0.05
+Bachelors,2015,Pune,2,34,Female,No,2,1,0.058823529411764705
+Bachelors,2014,Bangalore,3,33,Female,No,1,0,0.030303030303030304
+Masters,2015,New Delhi,1,34,Male,No,5,1,0.14705882352941177
+Masters,2017,New Delhi,1,40,Male,No,5,0,0.125
+Bachelors,2014,Bangalore,3,32,Male,No,4,0,0.125
+Bachelors,2017,New Delhi,3,38,Male,No,2,0,0.05263157894736842
+Bachelors,2015,Bangalore,3,38,Male,No,4,0,0.10526315789473684
+Bachelors,2015,Bangalore,3,32,Male,No,2,0,0.0625
+Bachelors,2013,Bangalore,3,31,Female,Yes,3,1,0.0967741935483871
+Bachelors,2015,Bangalore,3,39,Female,No,0,0,0.0
+Masters,2017,Pune,2,41,Male,Yes,2,0,0.04878048780487805
+Bachelors,2015,Pune,2,35,Female,Yes,2,1,0.05714285714285714
+Bachelors,2016,Pune,3,39,Male,No,5,0,0.1282051282051282
+Bachelors,2014,Bangalore,3,40,Female,No,0,0,0.0
+Bachelors,2016,Bangalore,3,41,Male,No,1,0,0.024390243902439025
+Masters,2015,Pune,2,34,Female,No,1,0,0.029411764705882353
+Bachelors,2016,Pune,2,37,Female,No,5,1,0.13513513513513514
+Bachelors,2017,New Delhi,2,36,Male,No,2,0,0.05555555555555555
+Bachelors,2015,Pune,3,37,Male,No,1,0,0.02702702702702703
+Masters,2015,Pune,1,40,Female,No,1,0,0.025
+Bachelors,2018,New Delhi,3,39,Female,Yes,0,1,0.0
+Bachelors,2017,New Delhi,2,36,Female,No,5,0,0.1388888888888889
+Bachelors,2015,Bangalore,2,32,Female,No,2,1,0.0625
+PHD,2015,Pune,3,31,Female,No,1,0,0.03225806451612903
+Bachelors,2012,Bangalore,3,31,Male,No,4,0,0.12903225806451613
+Bachelors,2013,New Delhi,3,36,Female,No,5,0,0.1388888888888889
+Bachelors,2014,Bangalore,3,35,Male,No,3,0,0.08571428571428572
+Masters,2013,New Delhi,2,33,Female,No,2,1,0.06060606060606061
+Bachelors,2014,Bangalore,3,39,Male,Yes,1,0,0.02564102564102564
+Bachelors,2015,Pune,3,35,Female,No,1,1,0.02857142857142857
+Bachelors,2013,Bangalore,3,38,Female,No,4,0,0.10526315789473684
+Masters,2017,Bangalore,3,39,Female,No,4,1,0.10256410256410256
+Bachelors,2014,Pune,2,35,Male,No,2,1,0.05714285714285714
+Bachelors,2016,Pune,3,31,Male,No,1,0,0.03225806451612903
+Bachelors,2017,New Delhi,2,32,Female,No,4,1,0.125
+Bachelors,2016,New Delhi,3,34,Male,No,1,0,0.029411764705882353
+Bachelors,2014,Bangalore,3,34,Male,Yes,3,0,0.08823529411764706
+Masters,2014,New Delhi,3,36,Male,No,1,1,0.027777777777777776
+Masters,2017,Bangalore,2,41,Male,No,4,0,0.0975609756097561
+Masters,2017,Pune,2,39,Female,No,3,0,0.07692307692307693
+Masters,2017,New Delhi,2,38,Male,No,5,0,0.13157894736842105
+Bachelors,2015,Bangalore,3,38,Male,No,3,1,0.07894736842105263
+Bachelors,2014,Bangalore,3,37,Male,No,4,0,0.10810810810810811
+Bachelors,2017,Bangalore,3,34,Male,No,5,0,0.14705882352941177
+Bachelors,2014,Bangalore,1,39,Male,No,5,0,0.1282051282051282
+Masters,2017,New Delhi,2,38,Female,No,2,1,0.05263157894736842
+Masters,2017,New Delhi,3,33,Male,No,5,0,0.15151515151515152
+Bachelors,2012,Bangalore,3,33,Female,No,5,0,0.15151515151515152
+Bachelors,2012,Bangalore,3,34,Male,No,4,0,0.11764705882352941
+Bachelors,2016,Pune,2,32,Female,No,0,1,0.0
+Bachelors,2012,Bangalore,3,33,Female,Yes,0,0,0.0
+Masters,2013,Pune,3,37,Male,No,2,0,0.05405405405405406
+Masters,2015,New Delhi,3,37,Male,No,2,1,0.05405405405405406
+Bachelors,2013,New Delhi,3,37,Male,No,2,0,0.05405405405405406
+Bachelors,2017,Bangalore,3,40,Male,Yes,1,0,0.025
+Masters,2016,New Delhi,3,32,Male,No,1,0,0.03125
+Bachelors,2016,Bangalore,3,36,Female,No,5,1,0.1388888888888889
+Bachelors,2014,Bangalore,3,36,Male,No,4,0,0.1111111111111111
+Bachelors,2014,Bangalore,3,36,Female,No,1,1,0.027777777777777776
+Masters,2017,New Delhi,3,31,Male,No,1,1,0.03225806451612903
+Bachelors,2015,Bangalore,3,38,Male,Yes,4,0,0.10526315789473684
+Masters,2017,New Delhi,3,38,Male,No,2,0,0.05263157894736842
+Bachelors,2012,Pune,3,39,Male,No,2,0,0.05128205128205128
+Bachelors,2014,Bangalore,1,37,Male,No,5,0,0.13513513513513514
+Bachelors,2015,Pune,2,36,Female,No,1,1,0.027777777777777776
+Bachelors,2013,Bangalore,3,35,Male,No,2,1,0.05714285714285714
+Bachelors,2013,Pune,3,40,Female,No,5,1,0.125
+Bachelors,2014,Pune,3,40,Male,No,5,0,0.125
+Bachelors,2017,Bangalore,3,35,Female,No,3,0,0.08571428571428572
+Bachelors,2012,Bangalore,3,41,Female,No,5,0,0.12195121951219512
+Bachelors,2015,Bangalore,3,32,Male,No,4,0,0.125
+Bachelors,2013,Bangalore,3,41,Male,No,2,0,0.04878048780487805
+Bachelors,2016,New Delhi,3,40,Female,No,1,1,0.025
+Bachelors,2017,Pune,3,40,Male,No,3,0,0.075
+Bachelors,2017,Bangalore,3,34,Male,No,3,1,0.08823529411764706
+Masters,2017,New Delhi,2,36,Male,Yes,2,0,0.05555555555555555
+Bachelors,2017,New Delhi,3,33,Female,No,2,0,0.06060606060606061
+Bachelors,2014,Pune,3,41,Male,No,2,0,0.04878048780487805
+Bachelors,2014,Bangalore,3,40,Female,No,3,0,0.075
+Bachelors,2016,Bangalore,3,31,Male,No,1,1,0.03225806451612903
+Masters,2015,Bangalore,3,32,Female,No,2,1,0.0625
+Bachelors,2017,Pune,3,34,Female,No,1,1,0.029411764705882353
+Bachelors,2016,New Delhi,3,32,Male,No,4,0,0.125
+Bachelors,2013,Bangalore,3,32,Female,No,4,0,0.125
+Bachelors,2014,Bangalore,3,38,Male,No,2,0,0.05263157894736842
+Masters,2017,New Delhi,3,32,Male,No,1,1,0.03125
+Bachelors,2015,New Delhi,3,40,Male,No,2,0,0.05
+Bachelors,2017,New Delhi,1,38,Female,No,1,1,0.02631578947368421
+Bachelors,2017,Pune,3,37,Male,No,0,0,0.0
+PHD,2014,Bangalore,3,31,Male,No,1,0,0.03225806451612903
+Bachelors,2014,Pune,3,34,Male,No,0,0,0.0
+Masters,2017,New Delhi,2,34,Female,No,2,1,0.058823529411764705
+Bachelors,2013,Pune,2,37,Female,No,0,1,0.0
+Masters,2017,New Delhi,2,31,Male,No,1,0,0.03225806451612903
+Bachelors,2017,Bangalore,3,35,Male,No,5,0,0.14285714285714285
+PHD,2015,New Delhi,3,34,Female,No,4,0,0.11764705882352941
+Bachelors,2012,Bangalore,1,32,Male,No,1,1,0.03125
+Bachelors,2017,Pune,3,31,Male,Yes,0,0,0.0
+Bachelors,2015,Bangalore,3,36,Female,No,5,0,0.1388888888888889
+Masters,2017,New Delhi,3,38,Female,No,2,0,0.05263157894736842
+Bachelors,2015,Pune,3,34,Male,No,4,0,0.11764705882352941
+Bachelors,2013,Bangalore,1,39,Female,No,1,1,0.02564102564102564
+PHD,2013,Pune,3,35,Male,No,0,0,0.0
+Masters,2015,Pune,2,33,Male,No,4,1,0.12121212121212122
+Masters,2014,Bangalore,3,35,Female,No,2,1,0.05714285714285714
+Masters,2015,New Delhi,3,40,Male,No,2,0,0.05
+Bachelors,2015,Pune,2,32,Female,No,0,1,0.0
+Bachelors,2013,Bangalore,3,38,Male,No,1,0,0.02631578947368421
+Bachelors,2012,Bangalore,3,32,Female,No,1,1,0.03125
+Bachelors,2018,Bangalore,3,36,Male,No,3,1,0.08333333333333333
+Bachelors,2012,Bangalore,3,35,Male,No,1,0,0.02857142857142857
+Bachelors,2013,New Delhi,3,37,Female,No,0,0,0.0
+Bachelors,2015,Pune,2,35,Male,No,3,1,0.08571428571428572
+Masters,2017,Pune,2,37,Female,No,1,0,0.02702702702702703
+Masters,2017,Pune,2,39,Male,No,4,0,0.10256410256410256
+Masters,2014,Pune,3,40,Male,No,4,1,0.1
+Bachelors,2012,Pune,2,41,Female,No,1,1,0.024390243902439025
+Bachelors,2018,Pune,3,41,Male,Yes,0,1,0.0
+Masters,2017,Pune,2,39,Female,No,2,0,0.05128205128205128
+Bachelors,2012,Bangalore,3,38,Female,No,5,0,0.13157894736842105
+Bachelors,2013,Bangalore,3,33,Male,No,3,0,0.09090909090909091
+Bachelors,2014,Bangalore,3,36,Female,No,3,0,0.08333333333333333
+Bachelors,2017,Bangalore,3,41,Male,No,5,0,0.12195121951219512
+PHD,2012,New Delhi,3,40,Female,No,5,0,0.125
+Bachelors,2013,Bangalore,3,31,Female,No,4,1,0.12903225806451613
+Bachelors,2012,Bangalore,3,33,Female,No,1,0,0.030303030303030304
+Bachelors,2015,Bangalore,3,39,Male,Yes,2,0,0.05128205128205128
+Masters,2014,Pune,2,33,Female,No,5,0,0.15151515151515152
+Bachelors,2015,Bangalore,3,35,Male,No,0,0,0.0
+Masters,2012,New Delhi,3,38,Male,No,2,0,0.05263157894736842
+Bachelors,2016,Bangalore,3,36,Female,No,0,0,0.0
+Bachelors,2014,Pune,2,36,Female,No,2,1,0.05555555555555555
+Bachelors,2015,Bangalore,1,35,Male,No,5,0,0.14285714285714285
+Bachelors,2017,Pune,2,34,Female,No,5,1,0.14705882352941177
+Bachelors,2015,Pune,2,41,Female,No,3,1,0.07317073170731707
+Bachelors,2016,Pune,3,32,Female,No,3,1,0.09375
+Bachelors,2017,Pune,2,41,Female,No,2,1,0.04878048780487805
+Bachelors,2016,Bangalore,3,36,Male,No,0,0,0.0
+Bachelors,2017,Pune,2,39,Male,No,3,0,0.07692307692307693
+Bachelors,2015,Bangalore,3,38,Male,Yes,2,0,0.05263157894736842
+Bachelors,2014,Bangalore,3,34,Male,No,3,1,0.08823529411764706
+Bachelors,2012,Bangalore,3,39,Female,No,5,0,0.1282051282051282
+Bachelors,2017,Pune,3,36,Male,No,1,0,0.027777777777777776
+Bachelors,2014,Bangalore,3,35,Male,No,1,0,0.02857142857142857
+Masters,2018,Bangalore,3,31,Male,No,2,1,0.06451612903225806
+Bachelors,2012,Bangalore,3,41,Female,No,4,0,0.0975609756097561
+Bachelors,2017,Bangalore,3,35,Female,No,4,0,0.11428571428571428
+Bachelors,2015,Bangalore,1,40,Male,No,2,0,0.05
+Bachelors,2018,Bangalore,3,33,Female,No,4,1,0.12121212121212122
+PHD,2018,Bangalore,3,36,Female,No,3,1,0.08333333333333333
+Bachelors,2012,Bangalore,3,40,Male,No,0,0,0.0
+Bachelors,2017,New Delhi,2,36,Male,No,0,0,0.0
+Masters,2015,New Delhi,3,38,Female,No,0,0,0.0
+Bachelors,2014,New Delhi,2,31,Female,No,4,1,0.12903225806451613
+Bachelors,2016,Pune,3,40,Male,No,4,0,0.1
+Bachelors,2017,Bangalore,3,37,Female,No,4,0,0.10810810810810811
+Bachelors,2015,New Delhi,3,38,Female,No,0,0,0.0
+Masters,2017,New Delhi,2,35,Female,No,2,0,0.05714285714285714
+PHD,2018,New Delhi,3,35,Female,No,0,1,0.0
+Bachelors,2012,Bangalore,3,38,Female,No,3,0,0.07894736842105263
+Bachelors,2012,Pune,3,31,Female,No,5,0,0.16129032258064516
+Masters,2016,New Delhi,3,33,Female,No,1,0,0.030303030303030304
+Bachelors,2013,Pune,2,32,Female,No,1,1,0.03125
+Bachelors,2017,Bangalore,1,39,Male,No,0,0,0.0
+Bachelors,2018,New Delhi,3,35,Female,No,2,1,0.05714285714285714
+Bachelors,2014,New Delhi,3,38,Female,No,5,0,0.13157894736842105
+Bachelors,2015,Bangalore,3,32,Male,No,0,0,0.0
+Bachelors,2017,Bangalore,3,34,Female,No,2,0,0.058823529411764705
+Bachelors,2017,Bangalore,3,41,Male,No,1,0,0.024390243902439025
+Masters,2012,Bangalore,3,40,Female,No,5,0,0.125
+Bachelors,2012,Pune,2,32,Male,No,1,1,0.03125
+Bachelors,2013,Bangalore,3,35,Male,No,0,0,0.0
+PHD,2013,New Delhi,1,36,Female,No,3,0,0.08333333333333333
+Bachelors,2013,Bangalore,3,40,Female,No,4,0,0.1
+Bachelors,2018,Pune,2,35,Female,No,2,1,0.05714285714285714
+Masters,2017,New Delhi,2,37,Female,No,4,0,0.10810810810810811
+Bachelors,2017,Bangalore,3,34,Male,No,3,0,0.08823529411764706
+Bachelors,2012,Pune,3,36,Male,No,1,0,0.027777777777777776
+Bachelors,2015,New Delhi,3,37,Male,No,4,0,0.10810810810810811
+Bachelors,2014,Bangalore,3,39,Male,No,5,0,0.1282051282051282
+Bachelors,2017,New Delhi,2,39,Female,No,0,0,0.0
+Masters,2018,New Delhi,3,38,Male,No,2,1,0.05263157894736842
+Bachelors,2013,New Delhi,3,37,Female,No,1,0,0.02702702702702703
+Bachelors,2012,New Delhi,2,33,Female,No,0,1,0.0
+PHD,2014,Bangalore,3,38,Female,No,3,0,0.07894736842105263
+Masters,2017,New Delhi,2,40,Female,No,2,1,0.05
+Bachelors,2012,Bangalore,3,41,Male,No,5,0,0.12195121951219512
+Bachelors,2013,Bangalore,2,38,Female,No,1,1,0.02631578947368421
+Bachelors,2014,Bangalore,3,39,Male,No,5,1,0.1282051282051282
+Bachelors,2018,Bangalore,3,35,Male,No,1,1,0.02857142857142857
+Masters,2017,New Delhi,3,39,Female,No,5,1,0.1282051282051282
+Bachelors,2015,Pune,2,31,Female,No,1,1,0.03225806451612903
+Bachelors,2012,Pune,3,33,Male,No,2,0,0.06060606060606061
+Bachelors,2017,Pune,3,33,Male,No,2,0,0.06060606060606061
+Bachelors,2013,Pune,3,32,Male,No,2,0,0.0625
+Bachelors,2015,Pune,2,40,Female,No,4,1,0.1
+Bachelors,2013,New Delhi,3,38,Female,No,4,0,0.10526315789473684
+Bachelors,2016,Bangalore,3,34,Male,Yes,2,0,0.058823529411764705
+Bachelors,2016,Bangalore,1,39,Male,No,2,0,0.05128205128205128
+Bachelors,2012,Bangalore,3,38,Male,No,2,0,0.05263157894736842
+Masters,2017,New Delhi,2,31,Female,No,2,1,0.06451612903225806
+Bachelors,2017,Bangalore,3,35,Female,No,5,0,0.14285714285714285
+Bachelors,2013,Bangalore,3,31,Male,No,2,0,0.06451612903225806
+Bachelors,2012,Pune,3,33,Male,No,1,0,0.030303030303030304
+Bachelors,2015,Pune,2,37,Female,No,3,1,0.08108108108108109
+Masters,2018,New Delhi,3,40,Female,No,2,1,0.05
+Bachelors,2014,Bangalore,3,38,Male,No,0,0,0.0
+Bachelors,2012,Bangalore,3,31,Male,Yes,5,0,0.16129032258064516
+PHD,2014,Bangalore,3,39,Male,No,1,0,0.02564102564102564
+Bachelors,2016,New Delhi,3,40,Male,No,0,0,0.0
+Bachelors,2017,Pune,3,36,Female,No,0,1,0.0
+Bachelors,2015,Bangalore,3,39,Female,No,3,1,0.07692307692307693
+Bachelors,2012,Bangalore,3,39,Male,No,0,0,0.0
+Bachelors,2013,Bangalore,3,35,Female,No,0,0,0.0
+Bachelors,2013,Bangalore,3,35,Male,No,5,0,0.14285714285714285
+Masters,2017,Bangalore,3,34,Female,No,4,0,0.11764705882352941
+Bachelors,2014,Bangalore,3,41,Male,No,4,0,0.0975609756097561
+Bachelors,2013,Bangalore,3,40,Male,No,1,0,0.025
+Masters,2017,Pune,3,31,Male,No,3,1,0.0967741935483871
+Masters,2014,New Delhi,3,33,Male,No,3,0,0.09090909090909091
+Bachelors,2017,Pune,2,33,Female,No,2,1,0.06060606060606061
+Bachelors,2016,Bangalore,3,39,Female,No,5,0,0.1282051282051282
+Bachelors,2016,Bangalore,3,41,Male,No,1,1,0.024390243902439025
+Bachelors,2017,Bangalore,3,32,Male,No,5,0,0.15625
+Bachelors,2014,Pune,2,39,Female,No,5,1,0.1282051282051282
+Bachelors,2014,Bangalore,3,31,Male,No,1,0,0.03225806451612903
+Bachelors,2012,Bangalore,3,40,Male,No,3,0,0.075
+Masters,2018,New Delhi,3,34,Male,No,2,1,0.058823529411764705
+Bachelors,2018,New Delhi,3,37,Male,No,4,1,0.10810810810810811
+Bachelors,2015,Bangalore,2,39,Female,No,0,1,0.0
+Bachelors,2014,Pune,3,37,Male,No,1,0,0.02702702702702703
+Masters,2014,New Delhi,3,37,Male,No,2,0,0.05405405405405406
+Masters,2017,New Delhi,3,32,Male,No,2,0,0.0625
+Bachelors,2014,New Delhi,3,37,Male,No,3,0,0.08108108108108109
+Bachelors,2017,Bangalore,3,36,Female,No,3,0,0.08333333333333333
+Bachelors,2015,Pune,2,40,Female,No,2,1,0.05
+Bachelors,2014,Bangalore,3,40,Male,No,0,0,0.0
+Bachelors,2012,Pune,3,32,Male,No,3,0,0.09375
+Bachelors,2012,Bangalore,3,37,Male,No,3,1,0.08108108108108109
+Bachelors,2017,Pune,3,40,Female,No,1,1,0.025
+Bachelors,2017,Bangalore,3,34,Female,Yes,0,0,0.0
+Bachelors,2012,Bangalore,3,37,Male,No,3,0,0.08108108108108109
+Bachelors,2017,Bangalore,3,35,Male,No,3,0,0.08571428571428572
+Bachelors,2017,Pune,3,37,Female,No,2,0,0.05405405405405406
+Bachelors,2012,New Delhi,3,35,Female,No,2,0,0.05714285714285714
+Bachelors,2014,Bangalore,3,31,Male,No,0,1,0.0
+Bachelors,2016,Bangalore,3,41,Male,No,4,0,0.0975609756097561
+Masters,2017,New Delhi,3,37,Female,No,3,0,0.08108108108108109
+Bachelors,2018,Pune,3,40,Male,No,0,1,0.0
+Bachelors,2018,Bangalore,1,36,Male,Yes,1,0,0.027777777777777776
+PHD,2018,New Delhi,3,37,Female,No,2,1,0.05405405405405406
+Bachelors,2018,Pune,3,37,Male,No,5,1,0.13513513513513514
+Bachelors,2016,Pune,3,38,Male,No,0,0,0.0
+Bachelors,2017,Bangalore,2,37,Male,No,2,1,0.05405405405405406
+Bachelors,2016,Pune,3,32,Male,No,1,1,0.03125
+Bachelors,2016,Bangalore,3,31,Male,No,3,0,0.0967741935483871
+Bachelors,2013,Bangalore,1,40,Male,No,2,0,0.05
+Bachelors,2015,Bangalore,3,31,Male,No,1,0,0.03225806451612903
+Masters,2017,Pune,2,36,Male,No,2,0,0.05555555555555555
+Bachelors,2017,Bangalore,3,38,Male,Yes,2,0,0.05263157894736842
+Bachelors,2014,Pune,3,37,Female,No,5,1,0.13513513513513514
+Bachelors,2014,Pune,3,34,Female,No,2,1,0.058823529411764705
+Bachelors,2013,Bangalore,3,41,Male,Yes,2,1,0.04878048780487805
+Bachelors,2015,Pune,2,32,Female,No,3,1,0.09375
+Bachelors,2015,Pune,3,34,Male,No,5,0,0.14705882352941177
+PHD,2013,Bangalore,3,39,Male,No,2,1,0.05128205128205128
+Masters,2013,New Delhi,2,32,Male,No,2,1,0.0625
+Bachelors,2012,Bangalore,3,31,Female,No,3,0,0.0967741935483871
+PHD,2016,New Delhi,3,40,Male,No,1,0,0.025
+Bachelors,2015,Bangalore,3,37,Female,No,0,0,0.0
+Masters,2017,New Delhi,3,40,Female,No,0,0,0.0
+Bachelors,2013,Bangalore,3,31,Male,No,1,0,0.03225806451612903
+Bachelors,2017,Bangalore,3,32,Male,No,2,0,0.0625
+Bachelors,2017,Bangalore,3,34,Female,Yes,1,0,0.029411764705882353
+Masters,2013,Pune,2,41,Male,No,2,1,0.04878048780487805
+Masters,2015,New Delhi,3,37,Male,No,2,0,0.05405405405405406
+Bachelors,2015,Bangalore,3,40,Female,No,1,0,0.025
+Masters,2017,Pune,2,35,Male,No,2,0,0.05714285714285714
+Bachelors,2012,Bangalore,3,39,Male,No,3,0,0.07692307692307693
+Bachelors,2017,Pune,3,41,Male,No,4,0,0.0975609756097561
+Bachelors,2015,Bangalore,3,36,Male,No,4,0,0.1111111111111111
+Bachelors,2014,Bangalore,3,32,Male,No,5,0,0.15625
+Bachelors,2013,Bangalore,3,32,Male,No,0,0,0.0
+Bachelors,2017,Bangalore,3,36,Male,No,2,0,0.05555555555555555
+Bachelors,2013,Bangalore,3,40,Male,No,4,0,0.1
+Bachelors,2018,Bangalore,3,32,Male,Yes,1,1,0.03125
+Bachelors,2016,Bangalore,3,38,Male,No,1,0,0.02631578947368421
+Bachelors,2018,Bangalore,3,41,Male,No,4,1,0.0975609756097561
+Masters,2017,Pune,2,35,Male,No,3,1,0.08571428571428572
+Bachelors,2016,Bangalore,3,36,Female,No,1,0,0.027777777777777776
+Bachelors,2014,Bangalore,3,35,Female,No,4,0,0.11428571428571428
+Bachelors,2016,Bangalore,3,31,Male,No,2,0,0.06451612903225806
+PHD,2015,Pune,3,37,Male,No,2,0,0.05405405405405406
+Bachelors,2013,Bangalore,3,41,Female,No,4,0,0.0975609756097561
+Bachelors,2013,Bangalore,3,31,Male,No,0,0,0.0
+Bachelors,2015,New Delhi,3,32,Male,No,1,0,0.03125
+Bachelors,2014,Bangalore,3,33,Male,No,1,1,0.030303030303030304
+Bachelors,2016,Bangalore,1,34,Male,Yes,2,1,0.058823529411764705
+Bachelors,2017,Pune,2,33,Male,No,1,0,0.030303030303030304
+Bachelors,2012,Bangalore,3,38,Female,No,4,1,0.10526315789473684
+Bachelors,2013,Bangalore,3,35,Male,No,3,1,0.08571428571428572
+Bachelors,2017,Pune,3,31,Male,No,1,0,0.03225806451612903
+Bachelors,2013,Pune,3,37,Male,No,2,0,0.05405405405405406
+Bachelors,2012,Bangalore,3,32,Female,No,2,1,0.0625
+Bachelors,2013,Pune,3,34,Male,Yes,5,0,0.14705882352941177
+PHD,2013,Bangalore,2,41,Male,No,2,1,0.04878048780487805
+Masters,2015,New Delhi,3,32,Male,No,0,1,0.0
+Bachelors,2013,Bangalore,3,39,Male,No,2,0,0.05128205128205128
+Bachelors,2012,Bangalore,3,31,Male,Yes,0,1,0.0
+Bachelors,2017,New Delhi,2,41,Male,No,1,0,0.024390243902439025
+Bachelors,2016,Bangalore,3,36,Male,No,2,0,0.05555555555555555
+Bachelors,2017,Bangalore,2,38,Female,No,5,1,0.13157894736842105
+Bachelors,2012,Bangalore,3,32,Male,No,5,0,0.15625
+Bachelors,2018,Pune,3,35,Female,No,3,1,0.08571428571428572
+Bachelors,2017,Bangalore,3,39,Male,No,2,0,0.05128205128205128
+Bachelors,2013,Pune,3,33,Male,No,4,0,0.12121212121212122
+Bachelors,2013,Pune,3,32,Male,Yes,5,0,0.15625
+Bachelors,2017,Bangalore,3,35,Male,No,1,1,0.02857142857142857
+Masters,2014,Pune,3,39,Male,No,4,0,0.10256410256410256
+Bachelors,2016,Bangalore,3,40,Male,No,0,1,0.0
+Masters,2015,Pune,1,38,Female,No,0,0,0.0
+Bachelors,2017,New Delhi,3,40,Male,No,1,0,0.025
+Bachelors,2013,Bangalore,3,34,Female,No,2,0,0.058823529411764705
+Bachelors,2013,Bangalore,3,31,Male,Yes,4,0,0.12903225806451613
+Bachelors,2014,New Delhi,3,40,Female,No,3,1,0.075
+Bachelors,2013,Bangalore,3,37,Male,No,2,0,0.05405405405405406
+Bachelors,2012,New Delhi,3,33,Male,No,3,0,0.09090909090909091
+Bachelors,2015,Bangalore,3,36,Male,Yes,4,0,0.1111111111111111
+Bachelors,2014,Bangalore,3,34,Male,No,5,0,0.14705882352941177
+Bachelors,2013,Bangalore,3,35,Male,No,0,1,0.0
+Masters,2014,New Delhi,3,39,Male,No,2,0,0.05128205128205128
+Masters,2014,New Delhi,3,34,Male,No,5,0,0.14705882352941177
+Bachelors,2017,Pune,2,32,Female,No,2,1,0.0625
+Bachelors,2015,New Delhi,3,32,Female,No,2,0,0.0625
+Bachelors,2014,Bangalore,3,33,Male,No,5,1,0.15151515151515152
+Masters,2017,New Delhi,2,34,Male,No,2,1,0.058823529411764705
+Masters,2016,Bangalore,3,35,Female,No,1,1,0.02857142857142857
+Masters,2017,New Delhi,3,35,Male,Yes,2,0,0.05714285714285714
+Bachelors,2014,Pune,2,38,Female,No,3,1,0.07894736842105263
+Bachelors,2016,Bangalore,3,37,Male,No,0,0,0.0
+Bachelors,2015,Bangalore,3,41,Male,No,0,0,0.0
+Masters,2017,Bangalore,3,40,Male,No,4,1,0.1
+Bachelors,2017,Bangalore,3,39,Female,No,3,0,0.07692307692307693
+Bachelors,2017,Pune,2,32,Male,No,2,0,0.0625
+Bachelors,2018,New Delhi,3,40,Male,Yes,4,1,0.1
+Bachelors,2016,Bangalore,3,40,Male,No,0,0,0.0
+Bachelors,2016,Bangalore,3,41,Female,No,1,1,0.024390243902439025
+Masters,2017,Pune,1,38,Male,No,0,1,0.0
+Bachelors,2018,Bangalore,3,41,Female,No,2,1,0.04878048780487805
+Bachelors,2015,New Delhi,2,33,Female,No,4,1,0.12121212121212122
+Bachelors,2012,Bangalore,3,41,Male,Yes,0,0,0.0
+Bachelors,2017,New Delhi,2,35,Female,No,5,0,0.14285714285714285
+Bachelors,2013,Bangalore,3,36,Male,No,5,0,0.1388888888888889
+Bachelors,2013,Pune,3,37,Male,No,1,0,0.02702702702702703
+Bachelors,2013,New Delhi,1,37,Female,No,1,0,0.02702702702702703
+Bachelors,2017,Bangalore,3,38,Female,No,2,0,0.05263157894736842
+Bachelors,2013,Pune,2,34,Female,No,1,1,0.029411764705882353
+Bachelors,2017,Pune,2,33,Female,No,4,1,0.12121212121212122
+Bachelors,2013,Bangalore,3,32,Female,No,1,0,0.03125
+Masters,2014,Bangalore,3,38,Female,No,4,1,0.10526315789473684
+Masters,2016,New Delhi,3,41,Male,No,5,1,0.12195121951219512
+Masters,2014,Pune,3,36,Female,No,2,0,0.05555555555555555
+Bachelors,2017,New Delhi,3,34,Female,No,2,1,0.058823529411764705
+Bachelors,2017,Bangalore,3,34,Male,Yes,0,0,0.0
+Bachelors,2016,Bangalore,3,35,Male,No,4,0,0.11428571428571428
+Masters,2015,New Delhi,3,38,Male,No,1,0,0.02631578947368421
+Bachelors,2016,Bangalore,3,32,Male,Yes,5,0,0.15625
+Bachelors,2015,Pune,3,37,Female,No,2,1,0.05405405405405406
+Bachelors,2017,Bangalore,2,32,Female,No,2,1,0.0625
+Masters,2017,New Delhi,2,36,Male,No,3,0,0.08333333333333333
+Bachelors,2017,Pune,3,37,Female,No,5,0,0.13513513513513514
+Bachelors,2018,Bangalore,3,34,Female,No,3,1,0.08823529411764706
+Bachelors,2016,Pune,3,31,Male,No,0,1,0.0
+Bachelors,2015,New Delhi,3,35,Female,No,3,0,0.08571428571428572
+Bachelors,2015,Bangalore,3,37,Female,No,5,0,0.13513513513513514
+Masters,2017,Bangalore,2,40,Female,Yes,2,0,0.05
+Bachelors,2015,Bangalore,3,39,Male,No,5,1,0.1282051282051282
+Bachelors,2015,Pune,2,36,Female,Yes,1,1,0.027777777777777776
+Bachelors,2014,Bangalore,3,35,Female,No,2,0,0.05714285714285714
+Masters,2013,Bangalore,3,37,Female,No,3,1,0.08108108108108109
+Bachelors,2013,New Delhi,3,41,Female,No,1,0,0.024390243902439025
+Masters,2017,New Delhi,2,40,Male,No,2,0,0.05
+Masters,2013,New Delhi,3,40,Female,No,2,1,0.05
+Bachelors,2015,Bangalore,3,39,Male,No,5,0,0.1282051282051282
+Masters,2015,Pune,2,33,Female,No,4,0,0.12121212121212122
+Bachelors,2012,Bangalore,3,36,Male,No,1,1,0.027777777777777776
+Bachelors,2012,Bangalore,3,36,Male,No,5,0,0.1388888888888889
+Bachelors,2015,Bangalore,3,38,Male,No,3,0,0.07894736842105263
+Bachelors,2017,New Delhi,2,37,Female,No,5,0,0.13513513513513514
+Masters,2017,New Delhi,3,34,Female,No,2,0,0.058823529411764705
+Bachelors,2013,Bangalore,3,31,Male,No,2,1,0.06451612903225806
+Bachelors,2013,Bangalore,3,38,Male,No,5,0,0.13157894736842105
+Bachelors,2017,Bangalore,3,36,Male,No,3,0,0.08333333333333333
+Bachelors,2012,Bangalore,3,40,Male,No,1,0,0.025
+Bachelors,2017,Bangalore,3,41,Male,No,5,1,0.12195121951219512
+Bachelors,2015,Bangalore,3,31,Female,No,4,0,0.12903225806451613
+Bachelors,2017,New Delhi,3,41,Male,No,2,0,0.04878048780487805
+Bachelors,2015,New Delhi,3,31,Female,No,3,0,0.0967741935483871
+Bachelors,2017,Pune,3,31,Female,No,0,1,0.0
+Bachelors,2017,New Delhi,2,37,Male,No,0,0,0.0
+Bachelors,2012,Pune,3,39,Male,No,0,0,0.0
+Bachelors,2014,Bangalore,3,38,Male,No,3,0,0.07894736842105263
+Bachelors,2013,Pune,3,40,Female,No,2,1,0.05
+Bachelors,2013,Pune,3,36,Male,No,1,0,0.027777777777777776
+Bachelors,2016,Bangalore,3,41,Male,No,3,0,0.07317073170731707
+Bachelors,2018,Bangalore,3,32,Female,No,2,1,0.0625
+Masters,2018,Bangalore,3,40,Female,No,3,1,0.075
+Bachelors,2014,New Delhi,3,33,Male,No,3,0,0.09090909090909091
+Bachelors,2012,Bangalore,3,32,Male,No,4,0,0.125
+Bachelors,2018,Bangalore,3,41,Male,No,5,1,0.12195121951219512
+Bachelors,2016,Bangalore,3,31,Male,No,0,0,0.0
+Masters,2018,Pune,3,31,Male,No,2,1,0.06451612903225806
+Bachelors,2017,New Delhi,3,35,Female,No,5,0,0.14285714285714285
+Bachelors,2015,Pune,1,32,Female,No,5,1,0.15625
+Masters,2017,New Delhi,3,41,Female,No,2,0,0.04878048780487805
+Masters,2017,New Delhi,2,36,Female,No,1,0,0.027777777777777776
+Masters,2017,Pune,3,35,Male,No,1,0,0.02857142857142857
+Masters,2017,New Delhi,3,35,Male,No,1,1,0.02857142857142857
+Bachelors,2015,New Delhi,3,33,Male,No,1,0,0.030303030303030304
+Bachelors,2014,Bangalore,3,38,Female,No,4,0,0.10526315789473684
+Bachelors,2015,New Delhi,2,33,Female,No,3,1,0.09090909090909091
+Masters,2018,New Delhi,3,31,Female,Yes,2,1,0.06451612903225806
+PHD,2015,Bangalore,3,31,Male,No,3,0,0.0967741935483871
+Bachelors,2013,Bangalore,3,37,Male,No,5,0,0.13513513513513514
+Bachelors,2014,Bangalore,3,32,Male,No,1,0,0.03125
+Bachelors,2017,Bangalore,3,33,Male,No,3,0,0.09090909090909091
+Bachelors,2014,Bangalore,3,37,Male,No,5,0,0.13513513513513514
+Bachelors,2012,Bangalore,3,32,Male,No,3,0,0.09375
+Bachelors,2015,Pune,3,40,Female,Yes,2,1,0.05
+Bachelors,2014,Pune,1,40,Female,No,1,1,0.025
+Masters,2017,Bangalore,2,39,Female,No,2,1,0.05128205128205128
+PHD,2016,New Delhi,3,41,Male,No,1,0,0.024390243902439025
+PHD,2014,New Delhi,3,32,Female,No,0,0,0.0
+Bachelors,2017,Bangalore,3,38,Male,No,0,1,0.0
+Masters,2017,New Delhi,2,31,Female,Yes,2,0,0.06451612903225806
+Bachelors,2018,Bangalore,3,38,Male,Yes,3,1,0.07894736842105263
+Bachelors,2016,Bangalore,3,32,Male,No,4,0,0.125
+Bachelors,2017,Pune,2,35,Female,No,5,1,0.14285714285714285
+Bachelors,2013,Bangalore,3,34,Male,No,5,0,0.14705882352941177
+Bachelors,2018,Bangalore,3,38,Male,Yes,1,1,0.02631578947368421
+Bachelors,2014,Pune,1,36,Female,No,1,1,0.027777777777777776
+Bachelors,2015,Bangalore,3,34,Female,Yes,2,0,0.058823529411764705
+Masters,2015,New Delhi,3,39,Female,No,2,0,0.05128205128205128
+Masters,2017,New Delhi,1,40,Female,No,0,0,0.0
+Bachelors,2016,Bangalore,3,38,Male,Yes,1,0,0.02631578947368421
+Bachelors,2015,Pune,3,35,Male,No,3,0,0.08571428571428572
+Bachelors,2014,Pune,2,31,Male,No,3,1,0.0967741935483871
+Bachelors,2017,Pune,3,41,Male,No,2,0,0.04878048780487805
+Bachelors,2018,Bangalore,3,33,Male,No,5,1,0.15151515151515152
+Bachelors,2017,New Delhi,2,33,Male,No,5,0,0.15151515151515152
+Bachelors,2016,New Delhi,3,31,Female,Yes,4,0,0.12903225806451613
+Masters,2013,New Delhi,3,35,Male,No,4,0,0.11428571428571428
+Bachelors,2016,Bangalore,3,37,Female,No,1,0,0.02702702702702703
+Bachelors,2015,Bangalore,3,31,Male,No,5,0,0.16129032258064516
+Bachelors,2012,Bangalore,3,35,Male,No,1,1,0.02857142857142857
+Bachelors,2014,Bangalore,3,32,Male,No,3,0,0.09375
+Bachelors,2015,Bangalore,3,32,Female,No,0,0,0.0
+Bachelors,2017,Bangalore,3,40,Female,No,5,0,0.125
+Bachelors,2012,Bangalore,3,34,Male,No,5,0,0.14705882352941177
+Bachelors,2014,Pune,3,37,Male,No,4,0,0.10810810810810811
+PHD,2015,Bangalore,3,40,Male,No,3,0,0.075
+Bachelors,2013,Bangalore,3,33,Male,No,1,0,0.030303030303030304
+Masters,2017,New Delhi,2,41,Male,No,3,1,0.07317073170731707
+Masters,2017,New Delhi,1,36,Female,No,0,0,0.0
+Bachelors,2016,Bangalore,3,33,Male,No,1,0,0.030303030303030304
+Bachelors,2014,Pune,3,31,Male,No,5,0,0.16129032258064516
+Bachelors,2013,Pune,2,34,Female,No,3,1,0.08823529411764706
+Bachelors,2017,Bangalore,3,31,Male,No,1,0,0.03225806451612903
+Bachelors,2016,New Delhi,2,36,Female,No,4,1,0.1111111111111111
+Bachelors,2015,Pune,2,39,Female,Yes,1,1,0.02564102564102564
+Bachelors,2014,Pune,3,31,Male,No,3,0,0.0967741935483871
+Bachelors,2015,New Delhi,3,40,Male,No,3,1,0.075
+Bachelors,2015,Bangalore,3,32,Female,No,4,0,0.125
+Bachelors,2014,Bangalore,3,34,Male,No,1,0,0.029411764705882353
+Bachelors,2014,Bangalore,1,39,Male,No,2,0,0.05128205128205128
+Bachelors,2018,Pune,2,34,Female,No,4,1,0.11764705882352941
+Bachelors,2017,Pune,3,38,Male,Yes,1,0,0.02631578947368421
+Masters,2017,New Delhi,2,33,Male,No,2,0,0.06060606060606061
+Bachelors,2014,Bangalore,3,41,Male,No,5,0,0.12195121951219512
+Masters,2017,Pune,1,39,Male,No,0,0,0.0
+Masters,2013,Pune,3,39,Male,No,2,0,0.05128205128205128
+Bachelors,2012,Bangalore,3,40,Male,No,4,0,0.1
+Bachelors,2015,Bangalore,3,34,Male,No,0,0,0.0
+Bachelors,2013,Bangalore,3,32,Male,No,5,1,0.15625
+Bachelors,2015,Bangalore,3,31,Male,No,4,0,0.12903225806451613
+Bachelors,2012,Bangalore,3,36,Male,Yes,0,0,0.0
+Masters,2017,Pune,2,35,Male,No,1,1,0.02857142857142857
+Bachelors,2017,Pune,3,33,Male,Yes,5,0,0.15151515151515152
+Bachelors,2016,Bangalore,3,34,Male,No,2,0,0.058823529411764705
+Bachelors,2017,Bangalore,3,39,Male,No,3,0,0.07692307692307693
+Bachelors,2018,Bangalore,3,38,Male,No,0,1,0.0
+Bachelors,2012,Pune,2,35,Female,No,1,1,0.02857142857142857
+Bachelors,2015,Pune,2,40,Female,Yes,5,1,0.125
+Bachelors,2017,Pune,3,41,Male,No,3,0,0.07317073170731707
+Bachelors,2016,Bangalore,1,33,Female,Yes,3,0,0.09090909090909091
+Masters,2017,New Delhi,1,40,Male,No,0,0,0.0
+Bachelors,2018,Bangalore,3,33,Female,No,3,1,0.09090909090909091
+Bachelors,2015,Bangalore,3,38,Male,No,1,1,0.02631578947368421
+Masters,2017,Bangalore,2,32,Male,No,2,0,0.0625
+Bachelors,2014,Pune,3,32,Male,Yes,2,0,0.0625
+Bachelors,2016,Pune,2,37,Female,No,2,1,0.05405405405405406
+Bachelors,2015,Bangalore,3,40,Male,No,5,0,0.125
+PHD,2018,New Delhi,3,33,Female,No,4,1,0.12121212121212122
+Masters,2017,New Delhi,2,40,Male,No,4,0,0.1
+Masters,2017,New Delhi,2,35,Male,No,2,0,0.05714285714285714
+Bachelors,2016,Bangalore,3,33,Male,No,3,0,0.09090909090909091
+Bachelors,2017,Bangalore,3,37,Male,No,4,0,0.10810810810810811
+Bachelors,2013,Bangalore,3,38,Male,No,0,0,0.0
+Bachelors,2018,Bangalore,3,32,Male,No,2,1,0.0625
+Bachelors,2017,Bangalore,3,40,Female,No,2,0,0.05
+Bachelors,2015,New Delhi,3,33,Female,No,2,0,0.06060606060606061
+Bachelors,2016,Bangalore,3,38,Male,No,2,1,0.05263157894736842
+Bachelors,2017,New Delhi,3,38,Female,No,4,0,0.10526315789473684
+Bachelors,2018,Pune,2,31,Female,No,3,1,0.0967741935483871
+Bachelors,2014,Pune,3,32,Female,No,4,0,0.125
+Bachelors,2013,Bangalore,3,35,Male,Yes,1,0,0.02857142857142857
+Bachelors,2014,Bangalore,3,35,Male,No,0,1,0.0
+Bachelors,2012,Bangalore,3,33,Female,No,4,0,0.12121212121212122
+Bachelors,2012,New Delhi,3,41,Female,No,0,0,0.0
+Bachelors,2015,Pune,1,31,Female,No,3,1,0.0967741935483871
+Bachelors,2016,Bangalore,3,34,Male,No,3,0,0.08823529411764706
+Masters,2017,New Delhi,2,40,Female,No,2,0,0.05
+Masters,2016,Bangalore,3,32,Male,No,1,1,0.03125
+Bachelors,2014,Pune,2,40,Female,No,3,1,0.075
+Bachelors,2012,Pune,3,31,Male,No,3,0,0.0967741935483871
+Bachelors,2014,Bangalore,1,34,Female,No,5,0,0.14705882352941177
+Masters,2013,New Delhi,3,41,Female,Yes,2,1,0.04878048780487805
+Masters,2017,New Delhi,2,32,Male,No,2,0,0.0625
+Bachelors,2016,Bangalore,3,41,Male,No,2,0,0.04878048780487805
+Bachelors,2013,Bangalore,3,33,Female,No,0,1,0.0
+Bachelors,2013,Pune,3,39,Female,No,2,0,0.05128205128205128
+Masters,2018,Pune,3,40,Male,No,2,1,0.05
+Bachelors,2017,New Delhi,3,34,Male,No,3,0,0.08823529411764706
+Bachelors,2016,Pune,3,41,Male,Yes,5,0,0.12195121951219512
+Bachelors,2015,Pune,3,37,Male,No,5,1,0.13513513513513514
+Masters,2017,Bangalore,3,32,Female,No,4,1,0.125
+Bachelors,2017,Bangalore,3,41,Male,No,3,0,0.07317073170731707
+Bachelors,2018,Bangalore,3,34,Female,Yes,2,1,0.058823529411764705
+Masters,2017,Bangalore,3,38,Male,No,5,1,0.13157894736842105
+Bachelors,2017,Bangalore,3,40,Female,No,3,0,0.075
+Masters,2017,Pune,3,35,Male,No,2,0,0.05714285714285714
+Bachelors,2015,Pune,3,31,Male,No,1,0,0.03225806451612903
+Bachelors,2016,Pune,3,39,Male,No,4,0,0.10256410256410256
+Bachelors,2018,Bangalore,3,39,Male,No,1,1,0.02564102564102564
+Bachelors,2018,Bangalore,3,32,Male,No,3,1,0.09375
+Bachelors,2015,Bangalore,3,38,Male,No,5,0,0.13157894736842105
+Bachelors,2015,Bangalore,3,35,Male,No,3,0,0.08571428571428572
+Bachelors,2013,Bangalore,1,38,Male,No,4,0,0.10526315789473684
+Bachelors,2012,New Delhi,3,32,Male,No,1,1,0.03125
+Bachelors,2014,Pune,2,37,Female,No,5,1,0.13513513513513514
+Bachelors,2015,Pune,3,35,Male,No,0,0,0.0
+Bachelors,2017,Pune,3,41,Female,No,4,1,0.0975609756097561
+Masters,2015,Bangalore,3,36,Male,No,0,0,0.0
+Bachelors,2017,Bangalore,3,35,Male,No,2,0,0.05714285714285714
+Masters,2017,New Delhi,2,36,Male,No,2,1,0.05555555555555555
+Masters,2017,Bangalore,1,34,Male,No,1,0,0.029411764705882353
+Bachelors,2015,Bangalore,3,36,Male,No,3,0,0.08333333333333333
+Bachelors,2017,Pune,2,33,Male,No,3,0,0.09090909090909091
+PHD,2013,New Delhi,3,35,Female,Yes,3,1,0.08571428571428572
+Bachelors,2015,New Delhi,2,37,Female,No,3,1,0.08108108108108109
+Bachelors,2017,Pune,2,40,Female,No,2,1,0.05
+Bachelors,2015,Pune,3,32,Female,No,3,1,0.09375
+Bachelors,2015,Bangalore,3,35,Male,Yes,2,0,0.05714285714285714
+Bachelors,2012,Bangalore,3,38,Male,Yes,0,0,0.0
+Masters,2015,Pune,3,36,Male,No,3,0,0.08333333333333333
+Masters,2014,New Delhi,3,32,Female,No,5,0,0.15625
+Bachelors,2018,Pune,2,37,Female,No,0,1,0.0
+Bachelors,2018,Pune,3,35,Female,No,0,1,0.0
+Bachelors,2015,Pune,1,36,Female,No,4,1,0.1111111111111111
+Bachelors,2015,New Delhi,2,34,Female,No,5,1,0.14705882352941177
+Masters,2017,New Delhi,2,35,Female,No,0,0,0.0
+Masters,2017,New Delhi,2,38,Female,No,5,0,0.13157894736842105
+Bachelors,2015,Pune,2,39,Female,No,5,1,0.1282051282051282
+Bachelors,2012,Pune,2,32,Female,No,5,1,0.15625
+Bachelors,2015,Bangalore,3,39,Male,No,2,0,0.05128205128205128
+Bachelors,2015,Bangalore,3,39,Male,No,2,1,0.05128205128205128
+Bachelors,2015,Bangalore,3,32,Female,No,5,0,0.15625
+Bachelors,2017,New Delhi,2,38,Male,No,0,0,0.0
+Bachelors,2012,Pune,2,36,Female,No,5,1,0.1388888888888889
+Masters,2016,Bangalore,1,37,Male,No,2,1,0.05405405405405406
+Bachelors,2017,Pune,3,32,Male,No,4,0,0.125
+Masters,2017,New Delhi,3,37,Male,No,2,0,0.05405405405405406
+Bachelors,2016,New Delhi,3,33,Male,No,2,0,0.06060606060606061
+Bachelors,2016,Bangalore,3,39,Male,No,4,0,0.10256410256410256
+Masters,2015,Pune,3,39,Male,No,5,0,0.1282051282051282
+Masters,2017,New Delhi,2,33,Male,No,4,0,0.12121212121212122
+Bachelors,2012,Bangalore,3,33,Male,No,1,0,0.030303030303030304
+Bachelors,2015,New Delhi,3,31,Male,No,0,0,0.0
+PHD,2016,Pune,3,31,Female,No,4,0,0.12903225806451613
+Bachelors,2015,Bangalore,3,37,Female,No,4,0,0.10810810810810811
+Bachelors,2012,Bangalore,3,33,Male,No,0,0,0.0
+Bachelors,2017,Pune,3,31,Male,No,0,0,0.0
+Bachelors,2017,Bangalore,3,41,Female,No,2,0,0.04878048780487805
+Masters,2017,Pune,2,39,Male,No,2,0,0.05128205128205128
+Masters,2013,New Delhi,3,32,Male,No,2,0,0.0625
+Bachelors,2016,Pune,3,37,Male,No,3,0,0.08108108108108109
+Bachelors,2014,Bangalore,3,37,Male,No,1,0,0.02702702702702703
+Bachelors,2017,Pune,2,34,Female,No,3,1,0.08823529411764706
+Bachelors,2017,New Delhi,2,31,Male,No,2,0,0.06451612903225806
+Bachelors,2014,Pune,2,34,Female,Yes,1,1,0.029411764705882353
+Bachelors,2013,Bangalore,3,37,Female,No,1,0,0.02702702702702703
+Bachelors,2015,Pune,1,34,Female,No,3,1,0.08823529411764706
+Bachelors,2015,Bangalore,3,33,Male,No,2,0,0.06060606060606061
+Bachelors,2016,Bangalore,3,37,Male,No,4,0,0.10810810810810811
+Bachelors,2012,Bangalore,1,38,Female,No,1,0,0.02631578947368421
+Bachelors,2016,Pune,3,40,Male,No,5,0,0.125
+Bachelors,2017,New Delhi,3,33,Female,No,1,1,0.030303030303030304
+Bachelors,2016,New Delhi,3,33,Male,No,1,0,0.030303030303030304
+Masters,2013,New Delhi,3,37,Male,Yes,2,0,0.05405405405405406
+Bachelors,2017,New Delhi,2,36,Female,No,2,0,0.05555555555555555
+Bachelors,2012,Bangalore,3,36,Female,No,5,0,0.1388888888888889
+Bachelors,2015,Bangalore,3,41,Male,No,1,0,0.024390243902439025
+Masters,2014,New Delhi,3,40,Male,No,5,0,0.125
+Masters,2017,Bangalore,2,41,Male,Yes,2,1,0.04878048780487805
+Bachelors,2015,Pune,3,33,Male,No,5,0,0.15151515151515152
+Masters,2017,New Delhi,2,37,Female,No,2,0,0.05405405405405406
+Bachelors,2017,New Delhi,2,33,Male,No,0,0,0.0
+Masters,2018,New Delhi,3,36,Male,No,2,1,0.05555555555555555
+Bachelors,2018,Bangalore,3,40,Male,Yes,3,1,0.075
+Masters,2018,Bangalore,3,40,Male,No,2,1,0.05
+Bachelors,2014,Bangalore,3,34,Male,No,3,0,0.08823529411764706
+Bachelors,2012,Pune,3,39,Male,No,5,0,0.1282051282051282
+Bachelors,2017,Pune,2,33,Male,No,1,1,0.030303030303030304
+Bachelors,2012,New Delhi,3,40,Male,No,3,0,0.075
+Bachelors,2018,Bangalore,3,38,Male,No,1,1,0.02631578947368421
+Bachelors,2016,Bangalore,3,40,Male,Yes,1,0,0.025
+Bachelors,2014,New Delhi,3,38,Female,No,0,0,0.0
+Bachelors,2016,Bangalore,3,34,Male,Yes,1,0,0.029411764705882353
+Masters,2016,New Delhi,3,37,Female,No,3,1,0.08108108108108109
+Bachelors,2015,New Delhi,3,40,Female,No,1,0,0.025
+Masters,2016,Bangalore,3,37,Male,No,2,1,0.05405405405405406
+Bachelors,2016,Pune,2,37,Female,No,3,1,0.08108108108108109
+Bachelors,2013,Pune,3,32,Male,No,1,0,0.03125
+Masters,2017,New Delhi,1,35,Male,No,5,0,0.14285714285714285
+Bachelors,2016,Bangalore,1,38,Male,No,3,0,0.07894736842105263
+Bachelors,2017,Pune,3,34,Female,No,1,0,0.029411764705882353
+Bachelors,2014,Bangalore,3,32,Male,No,2,1,0.0625
+Bachelors,2017,New Delhi,2,37,Male,No,4,0,0.10810810810810811
+Bachelors,2014,Bangalore,3,35,Male,No,2,0,0.05714285714285714
+Bachelors,2012,Bangalore,3,40,Male,Yes,2,0,0.05
+Masters,2013,New Delhi,3,41,Female,No,2,0,0.04878048780487805
+Bachelors,2015,Bangalore,3,34,Female,No,4,0,0.11764705882352941
+Bachelors,2012,New Delhi,3,34,Female,No,4,0,0.11764705882352941
+Bachelors,2013,Pune,2,36,Male,No,2,1,0.05555555555555555
+Masters,2016,New Delhi,3,39,Female,No,1,0,0.02564102564102564
+Bachelors,2014,New Delhi,3,41,Male,No,5,0,0.12195121951219512
+Bachelors,2015,Bangalore,3,40,Male,No,0,0,0.0
+Bachelors,2017,Bangalore,3,34,Female,No,5,0,0.14705882352941177
+Bachelors,2012,Pune,3,40,Male,No,3,0,0.075
+Bachelors,2013,Pune,3,32,Male,No,5,0,0.15625
+Bachelors,2018,Pune,3,38,Male,No,3,1,0.07894736842105263
+Bachelors,2016,Bangalore,3,40,Male,No,3,0,0.075
+PHD,2013,Bangalore,3,41,Male,No,4,0,0.0975609756097561
+Bachelors,2014,Bangalore,3,36,Female,No,0,0,0.0
+Bachelors,2015,Pune,2,33,Female,Yes,3,1,0.09090909090909091
+Bachelors,2016,New Delhi,3,37,Male,No,3,0,0.08108108108108109
+Bachelors,2015,Pune,3,38,Male,No,4,0,0.10526315789473684
+Bachelors,2017,Bangalore,3,32,Male,No,4,0,0.125
+Bachelors,2017,Pune,3,33,Male,No,1,0,0.030303030303030304
+Bachelors,2015,Pune,3,40,Female,No,5,1,0.125
+Bachelors,2014,Bangalore,3,35,Male,Yes,0,0,0.0
+Masters,2016,New Delhi,3,37,Female,No,5,0,0.13513513513513514
+Bachelors,2016,Bangalore,3,37,Male,Yes,2,0,0.05405405405405406
+Bachelors,2015,Bangalore,3,36,Male,No,2,0,0.05555555555555555
+Bachelors,2017,Bangalore,3,33,Female,No,4,1,0.12121212121212122
+Bachelors,2016,Pune,3,32,Male,No,3,0,0.09375
+Bachelors,2017,Bangalore,3,35,Female,No,1,1,0.02857142857142857
+Bachelors,2014,Pune,2,34,Female,No,2,1,0.058823529411764705
+Masters,2017,Pune,2,40,Male,No,5,0,0.125
+Bachelors,2016,Bangalore,3,37,Female,No,4,0,0.10810810810810811
+Bachelors,2015,Bangalore,1,36,Male,No,1,0,0.027777777777777776
+Bachelors,2012,Pune,3,41,Female,No,1,0,0.024390243902439025
+Bachelors,2016,Pune,3,36,Male,No,0,0,0.0
+Bachelors,2017,Bangalore,3,31,Female,No,2,0,0.06451612903225806
+Bachelors,2017,Pune,3,31,Male,No,3,0,0.0967741935483871
+Bachelors,2014,Pune,3,33,Male,No,2,0,0.06060606060606061
+Bachelors,2017,Bangalore,3,35,Male,Yes,0,0,0.0
+PHD,2016,New Delhi,3,34,Male,No,1,0,0.029411764705882353
+Bachelors,2014,Bangalore,3,39,Female,No,4,0,0.10256410256410256
+Masters,2015,Bangalore,3,31,Male,No,1,1,0.03225806451612903
+Bachelors,2015,Pune,3,32,Female,No,0,1,0.0
+Bachelors,2017,Bangalore,3,33,Male,No,0,1,0.0
+Bachelors,2014,Bangalore,3,34,Male,Yes,1,0,0.029411764705882353
+Masters,2014,Pune,3,39,Male,No,2,0,0.05128205128205128
+Bachelors,2017,New Delhi,2,41,Female,No,2,1,0.04878048780487805
+Bachelors,2017,New Delhi,2,34,Male,No,2,0,0.058823529411764705
+Bachelors,2013,Bangalore,3,36,Female,No,5,0,0.1388888888888889
+Bachelors,2012,Pune,3,37,Male,No,5,0,0.13513513513513514
+Bachelors,2016,Bangalore,3,36,Male,No,4,0,0.1111111111111111
+Bachelors,2014,New Delhi,3,38,Female,No,1,0,0.02631578947368421
+Bachelors,2017,Bangalore,3,38,Female,No,3,0,0.07894736842105263
+Masters,2016,New Delhi,3,37,Female,No,2,1,0.05405405405405406
+Bachelors,2012,Bangalore,3,34,Male,No,2,0,0.058823529411764705
+Bachelors,2015,Bangalore,3,31,Male,No,2,0,0.06451612903225806
+Bachelors,2015,Pune,2,32,Female,No,2,1,0.0625
+Masters,2018,New Delhi,3,35,Male,No,2,1,0.05714285714285714
+Bachelors,2017,Bangalore,3,31,Male,Yes,2,0,0.06451612903225806
+Bachelors,2015,Bangalore,1,32,Male,Yes,0,1,0.0
+Bachelors,2015,Bangalore,3,31,Female,No,5,0,0.16129032258064516
+Bachelors,2018,Bangalore,3,37,Male,No,5,1,0.13513513513513514
+PHD,2018,New Delhi,3,40,Male,No,3,1,0.075
+Bachelors,2015,Bangalore,1,41,Male,No,1,0,0.024390243902439025
+Bachelors,2017,Pune,3,34,Male,No,5,0,0.14705882352941177
+Bachelors,2014,Bangalore,3,36,Male,Yes,3,0,0.08333333333333333
+Bachelors,2013,Pune,3,35,Male,No,1,0,0.02857142857142857
+Masters,2017,New Delhi,3,38,Female,No,3,0,0.07894736842105263
+Bachelors,2017,Bangalore,3,33,Male,No,1,0,0.030303030303030304
+Bachelors,2014,Bangalore,3,38,Female,No,2,0,0.05263157894736842
+Bachelors,2017,Pune,2,40,Male,No,4,0,0.1
+Bachelors,2013,New Delhi,3,39,Male,No,5,0,0.1282051282051282
+Bachelors,2014,New Delhi,3,33,Female,No,4,0,0.12121212121212122
+Bachelors,2015,Bangalore,3,38,Female,No,4,0,0.10526315789473684
+Bachelors,2013,Bangalore,3,38,Male,No,2,0,0.05263157894736842
+Bachelors,2017,Bangalore,3,35,Male,No,0,0,0.0
+Bachelors,2013,New Delhi,3,38,Female,No,4,1,0.10526315789473684
+Bachelors,2018,Bangalore,3,36,Female,No,2,1,0.05555555555555555
+PHD,2013,New Delhi,3,36,Male,No,3,1,0.08333333333333333
+Bachelors,2014,Pune,3,41,Male,No,4,0,0.0975609756097561
+Bachelors,2014,Bangalore,3,35,Male,Yes,1,0,0.02857142857142857
+Bachelors,2017,Bangalore,3,38,Male,No,5,0,0.13157894736842105
+Bachelors,2017,New Delhi,2,41,Female,No,0,0,0.0
+Bachelors,2012,Bangalore,1,34,Male,No,0,0,0.0
+Bachelors,2016,Bangalore,3,39,Female,No,3,1,0.07692307692307693
+Bachelors,2015,Pune,2,39,Female,Yes,0,1,0.0
+Masters,2012,New Delhi,3,34,Female,No,3,0,0.08823529411764706
+Bachelors,2015,Bangalore,3,39,Male,No,1,0,0.02564102564102564
+Bachelors,2016,Bangalore,3,31,Female,No,2,0,0.06451612903225806
+Bachelors,2016,Bangalore,3,39,Female,No,0,0,0.0
+Bachelors,2013,Bangalore,3,31,Female,No,1,0,0.03225806451612903
+Bachelors,2012,Bangalore,3,36,Male,No,1,0,0.027777777777777776
+Bachelors,2017,New Delhi,3,37,Male,No,0,0,0.0
+Bachelors,2015,Pune,1,38,Female,No,1,1,0.02631578947368421
+PHD,2017,Pune,3,41,Male,No,2,0,0.04878048780487805
+Bachelors,2018,Bangalore,3,32,Male,No,4,1,0.125
+Bachelors,2018,Pune,3,35,Male,No,0,1,0.0
+Bachelors,2017,Bangalore,3,35,Male,No,1,0,0.02857142857142857
+Bachelors,2015,Bangalore,3,31,Male,No,1,1,0.03225806451612903
+Bachelors,2015,Bangalore,3,41,Male,No,4,0,0.0975609756097561
+Bachelors,2012,Bangalore,3,33,Male,Yes,0,0,0.0
+Bachelors,2012,New Delhi,2,38,Female,No,1,1,0.02631578947368421
+Masters,2012,Bangalore,3,39,Female,No,3,1,0.07692307692307693
+Bachelors,2015,Bangalore,1,36,Female,No,2,0,0.05555555555555555
+Masters,2017,Bangalore,2,31,Male,No,5,0,0.16129032258064516
+Masters,2017,New Delhi,2,39,Female,No,2,1,0.05128205128205128
+Masters,2017,New Delhi,3,41,Male,No,3,1,0.07317073170731707
+PHD,2018,New Delhi,3,33,Female,No,0,1,0.0
+Bachelors,2015,Bangalore,3,38,Male,No,1,0,0.02631578947368421
+Bachelors,2017,Pune,2,31,Male,No,0,0,0.0
+Bachelors,2014,Bangalore,3,34,Male,No,4,0,0.11764705882352941
+Bachelors,2017,Bangalore,3,40,Male,No,2,0,0.05
+Bachelors,2015,Bangalore,3,36,Female,No,2,0,0.05555555555555555
+Bachelors,2017,New Delhi,2,41,Female,No,4,0,0.0975609756097561
+Bachelors,2017,Bangalore,3,37,Male,No,3,0,0.08108108108108109
+Bachelors,2017,New Delhi,3,33,Male,No,5,0,0.15151515151515152
+Bachelors,2017,New Delhi,3,41,Female,No,4,0,0.0975609756097561
+Bachelors,2017,Bangalore,3,37,Female,No,2,0,0.05405405405405406
+Bachelors,2017,Pune,3,38,Male,Yes,5,0,0.13157894736842105
+Bachelors,2015,Bangalore,3,34,Male,No,2,1,0.058823529411764705
+Bachelors,2017,Pune,3,37,Female,No,0,0,0.0
+Bachelors,2014,Bangalore,3,34,Male,No,0,1,0.0
+Bachelors,2012,Pune,3,32,Male,No,1,0,0.03125
+Masters,2012,New Delhi,3,35,Female,No,4,1,0.11428571428571428
+Bachelors,2013,Pune,3,36,Male,No,3,0,0.08333333333333333
+Bachelors,2015,Bangalore,3,34,Female,No,2,0,0.058823529411764705
+Bachelors,2014,Bangalore,3,37,Female,No,3,0,0.08108108108108109
+Bachelors,2016,Bangalore,3,40,Female,Yes,4,0,0.1
+Bachelors,2014,Pune,3,33,Male,No,4,0,0.12121212121212122
+Bachelors,2016,Bangalore,3,39,Female,No,4,0,0.10256410256410256
+Bachelors,2013,Bangalore,1,34,Male,No,4,1,0.11764705882352941
+PHD,2013,Bangalore,3,32,Male,No,5,0,0.15625
+Bachelors,2017,New Delhi,1,31,Female,No,4,1,0.12903225806451613
+Masters,2016,New Delhi,3,41,Female,No,4,0,0.0975609756097561
+Bachelors,2016,Bangalore,3,39,Male,No,7,0,0.1794871794871795
+Bachelors,2014,Bangalore,3,35,Male,No,5,0,0.14285714285714285
+Bachelors,2016,Pune,3,38,Female,No,7,0,0.18421052631578946
+Bachelors,2016,Bangalore,3,33,Male,No,6,0,0.18181818181818182
+Bachelors,2014,Pune,3,33,Male,No,6,0,0.18181818181818182
+Bachelors,2012,Bangalore,3,35,Male,No,5,0,0.14285714285714285
+PHD,2013,New Delhi,3,40,Male,No,5,0,0.125
+Bachelors,2012,Bangalore,3,40,Female,No,5,0,0.125
+Bachelors,2017,Bangalore,3,39,Male,No,5,0,0.1282051282051282
+Bachelors,2017,Bangalore,3,33,Female,No,6,0,0.18181818181818182
+Bachelors,2014,Bangalore,3,32,Female,No,5,0,0.15625
+Masters,2014,Bangalore,3,40,Female,No,7,1,0.175
+Bachelors,2017,New Delhi,2,33,Male,No,6,0,0.18181818181818182
+Masters,2016,New Delhi,1,31,Female,No,5,1,0.16129032258064516
+Bachelors,2013,Bangalore,3,35,Female,No,5,0,0.14285714285714285
+Bachelors,2014,Bangalore,3,39,Male,No,7,1,0.1794871794871795
+Masters,2018,Bangalore,3,39,Female,No,6,1,0.15384615384615385
+Masters,2017,Pune,2,38,Female,No,2,0,0.05263157894736842
+Bachelors,2012,Bangalore,3,38,Male,No,7,1,0.18421052631578946
+Masters,2017,New Delhi,2,40,Female,Yes,2,0,0.05
+Bachelors,2018,Bangalore,3,38,Male,No,6,1,0.15789473684210525
+Bachelors,2013,Bangalore,3,34,Male,No,6,0,0.17647058823529413
+Bachelors,2012,Bangalore,1,35,Male,No,7,0,0.2
+Masters,2013,New Delhi,1,41,Male,No,5,0,0.12195121951219512
+PHD,2014,New Delhi,2,37,Female,No,5,0,0.13513513513513514
+Bachelors,2015,Pune,3,34,Male,Yes,7,0,0.20588235294117646
+Bachelors,2014,Bangalore,3,35,Male,Yes,5,0,0.14285714285714285
+Bachelors,2013,Bangalore,1,38,Male,No,6,0,0.15789473684210525
+Bachelors,2016,Bangalore,3,38,Female,No,7,0,0.18421052631578946
+Bachelors,2015,Pune,2,41,Female,No,7,0,0.17073170731707318
+Bachelors,2018,Bangalore,3,34,Male,No,5,1,0.14705882352941177
+Bachelors,2017,Pune,2,22,Male,No,0,0,0.0
+Bachelors,2018,Bangalore,2,26,Female,No,4,1,0.15384615384615385
+Bachelors,2012,Bangalore,3,22,Male,No,0,0,0.0
+Bachelors,2016,Bangalore,3,29,Male,No,0,0,0.0
+Bachelors,2017,New Delhi,3,36,Female,No,0,0,0.0
+Bachelors,2014,Bangalore,3,37,Female,No,1,0,0.02702702702702703
+Bachelors,2013,New Delhi,2,34,Female,No,4,1,0.11764705882352941
+Bachelors,2012,Pune,3,34,Female,No,2,1,0.058823529411764705
+Bachelors,2012,Bangalore,3,25,Female,No,3,1,0.12
+Bachelors,2012,Bangalore,3,31,Male,No,0,0,0.0
+Bachelors,2015,New Delhi,3,36,Female,No,2,0,0.05555555555555555
+Bachelors,2016,Bangalore,3,31,Male,Yes,5,0,0.16129032258064516
+Bachelors,2015,Bangalore,3,34,Male,No,4,0,0.11764705882352941
+Masters,2014,New Delhi,3,28,Male,Yes,2,1,0.07142857142857142
+Bachelors,2012,Bangalore,1,28,Female,Yes,1,0,0.03571428571428571
+Bachelors,2013,Bangalore,3,23,Male,Yes,1,1,0.043478260869565216
+Masters,2017,New Delhi,2,31,Female,No,2,0,0.06451612903225806
+PHD,2018,New Delhi,3,34,Male,No,0,1,0.0
+Bachelors,2016,Bangalore,3,36,Female,No,2,0,0.05555555555555555
+PHD,2017,New Delhi,3,40,Male,No,3,0,0.075
+Masters,2012,New Delhi,3,34,Female,No,2,0,0.058823529411764705
+Bachelors,2018,Bangalore,3,37,Male,No,2,1,0.05405405405405406
+Bachelors,2012,Bangalore,3,38,Male,No,3,0,0.07894736842105263
+Bachelors,2017,New Delhi,2,22,Female,No,0,0,0.0
+Bachelors,2016,Pune,2,36,Female,No,0,1,0.0
+Bachelors,2013,New Delhi,2,35,Female,No,1,1,0.02857142857142857
+Bachelors,2012,New Delhi,3,22,Female,No,0,0,0.0
+Bachelors,2017,Bangalore,2,23,Male,No,1,0,0.043478260869565216
+Bachelors,2014,Pune,2,32,Male,No,3,1,0.09375
+Masters,2017,Bangalore,3,38,Male,No,2,0,0.05263157894736842
+Bachelors,2018,Pune,2,36,Female,No,5,1,0.1388888888888889
+Bachelors,2018,Pune,2,39,Female,No,4,1,0.10256410256410256
+Masters,2018,Pune,3,39,Male,No,2,1,0.05128205128205128
+Masters,2018,New Delhi,3,39,Female,No,2,1,0.05128205128205128
+Bachelors,2013,Bangalore,3,36,Male,No,5,1,0.1388888888888889
+Bachelors,2017,Bangalore,3,28,Female,No,3,0,0.10714285714285714
+Bachelors,2017,New Delhi,3,23,Male,No,1,0,0.043478260869565216
+Bachelors,2014,Bangalore,3,22,Male,No,0,0,0.0
+Masters,2014,Pune,1,33,Female,No,1,0,0.030303030303030304
+Bachelors,2013,Pune,3,25,Female,Yes,3,1,0.12
+Masters,2017,New Delhi,2,23,Male,No,1,1,0.043478260869565216
+Bachelors,2014,Bangalore,3,33,Male,No,5,0,0.15151515151515152
+Masters,2018,Bangalore,3,30,Male,Yes,2,1,0.06666666666666667
+Bachelors,2012,Pune,2,31,Female,No,5,1,0.16129032258064516
+Masters,2018,New Delhi,3,23,Female,No,1,1,0.043478260869565216
+Bachelors,2013,New Delhi,3,26,Female,Yes,4,0,0.15384615384615385
+Bachelors,2016,Bangalore,1,30,Male,No,4,1,0.13333333333333333
+Bachelors,2012,Bangalore,3,37,Male,No,4,1,0.10810810810810811
+Bachelors,2017,Bangalore,1,34,Male,Yes,0,0,0.0
+Bachelors,2012,Bangalore,3,38,Female,No,0,0,0.0
+Masters,2013,New Delhi,2,22,Male,Yes,0,1,0.0
+Bachelors,2015,Pune,1,22,Female,No,0,1,0.0
+Masters,2015,Pune,2,33,Female,No,2,1,0.06060606060606061
+Bachelors,2015,Bangalore,3,32,Male,No,1,0,0.03125
+Masters,2015,Pune,2,34,Female,No,2,0,0.058823529411764705
+Bachelors,2017,Bangalore,3,36,Female,No,1,0,0.027777777777777776
+Masters,2013,Pune,3,22,Female,Yes,0,1,0.0
+Bachelors,2013,Bangalore,3,34,Female,Yes,2,0,0.058823529411764705
+Masters,2017,Pune,2,23,Male,No,1,1,0.043478260869565216
+Bachelors,2012,Pune,3,36,Male,No,4,0,0.1111111111111111
+PHD,2018,New Delhi,3,28,Male,No,4,1,0.14285714285714285
+PHD,2013,Bangalore,3,28,Male,No,4,0,0.14285714285714285
+Bachelors,2016,Bangalore,3,33,Female,No,4,0,0.12121212121212122
+Bachelors,2013,Bangalore,3,39,Male,No,3,0,0.07692307692307693
+Bachelors,2015,New Delhi,3,25,Female,Yes,3,0,0.12
+Bachelors,2014,Pune,3,32,Male,No,2,0,0.0625
+Bachelors,2015,Pune,3,23,Female,No,1,1,0.043478260869565216
+Bachelors,2013,Pune,2,24,Male,No,2,1,0.08333333333333333
+Bachelors,2012,Bangalore,3,36,Female,No,2,1,0.05555555555555555
+Bachelors,2018,Bangalore,3,40,Male,No,4,1,0.1
+Bachelors,2012,New Delhi,3,38,Female,No,1,0,0.02631578947368421
+Bachelors,2012,Bangalore,3,37,Male,No,5,0,0.13513513513513514
+Bachelors,2018,Pune,3,40,Male,No,3,1,0.075
+Bachelors,2018,Bangalore,3,32,Male,Yes,0,1,0.0
+Bachelors,2012,New Delhi,3,28,Female,No,1,0,0.03571428571428571
+Bachelors,2016,Pune,3,29,Male,Yes,5,0,0.1724137931034483
+PHD,2013,Bangalore,3,35,Male,No,3,1,0.08571428571428572
+Bachelors,2012,Pune,1,35,Male,No,1,0,0.02857142857142857
+Bachelors,2017,Bangalore,3,37,Male,No,2,0,0.05405405405405406
+Masters,2018,Pune,3,40,Female,No,2,1,0.05
+Bachelors,2018,Bangalore,3,23,Male,No,1,1,0.043478260869565216
+PHD,2018,New Delhi,3,37,Male,No,3,1,0.08108108108108109
+Bachelors,2015,Bangalore,3,23,Female,No,1,0,0.043478260869565216
+Bachelors,2017,Bangalore,3,36,Female,No,3,1,0.08333333333333333
+Bachelors,2013,Bangalore,3,40,Female,No,3,0,0.075
+Bachelors,2015,Bangalore,3,35,Female,No,1,1,0.02857142857142857
+Bachelors,2014,New Delhi,3,33,Female,Yes,4,0,0.12121212121212122
+Bachelors,2014,New Delhi,3,40,Female,No,3,0,0.075
+Bachelors,2017,Pune,2,34,Male,No,2,0,0.058823529411764705
+Bachelors,2013,Pune,3,33,Male,No,5,0,0.15151515151515152
+Bachelors,2016,Bangalore,3,22,Female,No,0,0,0.0
+Bachelors,2012,Bangalore,3,38,Male,No,2,1,0.05263157894736842
+Bachelors,2013,Pune,3,25,Female,No,3,0,0.12
+Bachelors,2017,Bangalore,3,37,Male,No,3,1,0.08108108108108109
+Bachelors,2015,Pune,2,40,Female,Yes,0,1,0.0
+Masters,2015,Pune,1,23,Female,No,1,0,0.043478260869565216
+Bachelors,2014,Bangalore,3,22,Male,No,0,1,0.0
+Masters,2017,New Delhi,2,34,Male,Yes,2,0,0.058823529411764705
+Masters,2017,New Delhi,3,35,Female,No,2,0,0.05714285714285714
+Bachelors,2014,Pune,3,23,Male,No,1,0,0.043478260869565216
+Bachelors,2015,Pune,3,32,Female,No,1,0,0.03125
+Bachelors,2017,Bangalore,3,33,Male,No,4,0,0.12121212121212122
+PHD,2016,New Delhi,3,22,Male,No,0,0,0.0
+Masters,2015,Pune,2,39,Female,No,2,0,0.05128205128205128
+Masters,2018,New Delhi,3,30,Female,Yes,2,1,0.06666666666666667
+Bachelors,2014,Bangalore,3,38,Female,No,5,1,0.13157894736842105
+Bachelors,2012,New Delhi,3,36,Female,No,4,0,0.1111111111111111
+Bachelors,2012,Pune,2,38,Male,No,5,0,0.13157894736842105
+Bachelors,2015,Bangalore,3,35,Female,No,0,1,0.0
+Bachelors,2013,New Delhi,3,23,Female,No,1,0,0.043478260869565216
+Masters,2017,New Delhi,2,23,Female,No,1,1,0.043478260869565216
+Bachelors,2014,Pune,3,33,Male,Yes,4,0,0.12121212121212122
+Bachelors,2015,Bangalore,3,38,Female,No,5,0,0.13157894736842105
+Bachelors,2015,Pune,3,40,Male,Yes,0,0,0.0
+Bachelors,2016,Pune,3,24,Female,No,2,0,0.08333333333333333
+Bachelors,2018,Bangalore,3,35,Male,Yes,5,1,0.14285714285714285
+Masters,2013,New Delhi,3,30,Female,No,3,0,0.1
+Bachelors,2017,Bangalore,3,40,Male,No,0,0,0.0
+Masters,2017,Pune,2,27,Female,No,5,1,0.18518518518518517
+Bachelors,2016,Pune,3,38,Male,Yes,0,0,0.0
+Bachelors,2014,New Delhi,3,34,Female,No,5,0,0.14705882352941177
+Bachelors,2016,Bangalore,3,38,Male,No,4,0,0.10526315789473684
+Bachelors,2014,Pune,1,37,Male,No,1,0,0.02702702702702703
+Bachelors,2015,Bangalore,3,22,Male,No,0,0,0.0
+Bachelors,2014,New Delhi,3,29,Female,No,2,1,0.06896551724137931
+Bachelors,2014,Pune,1,37,Female,No,4,1,0.10810810810810811
+Bachelors,2012,New Delhi,3,34,Female,No,2,0,0.058823529411764705
+Masters,2017,Bangalore,2,35,Female,No,0,0,0.0
+Bachelors,2018,Bangalore,3,33,Male,No,4,1,0.12121212121212122
+Bachelors,2014,Pune,3,36,Female,No,5,0,0.1388888888888889
+Bachelors,2012,Bangalore,1,35,Male,No,4,0,0.11428571428571428
+PHD,2012,New Delhi,3,25,Male,No,3,0,0.12
+Masters,2013,Bangalore,2,29,Male,No,1,1,0.034482758620689655
+Bachelors,2012,Bangalore,3,36,Female,No,3,0,0.08333333333333333
+Bachelors,2017,Pune,2,37,Female,No,4,1,0.10810810810810811
+Bachelors,2018,Pune,3,34,Male,No,0,1,0.0
+Bachelors,2012,Bangalore,3,23,Female,No,1,1,0.043478260869565216
+Bachelors,2017,Pune,3,23,Male,No,1,0,0.043478260869565216
+Bachelors,2012,New Delhi,1,31,Female,No,3,0,0.0967741935483871
+PHD,2015,New Delhi,2,39,Female,No,5,0,0.1282051282051282
+Bachelors,2016,Bangalore,3,33,Female,No,1,1,0.030303030303030304
+Bachelors,2013,Bangalore,3,23,Male,No,1,0,0.043478260869565216
+Masters,2017,New Delhi,2,34,Female,No,4,0,0.11764705882352941
+Bachelors,2015,Pune,2,37,Female,No,1,1,0.02702702702702703
+Bachelors,2012,Bangalore,3,23,Male,No,1,0,0.043478260869565216
+Masters,2015,Pune,2,26,Female,No,4,1,0.15384615384615385
+Bachelors,2016,Bangalore,3,33,Female,No,3,0,0.09090909090909091
+Bachelors,2014,Bangalore,3,31,Male,No,0,0,0.0
+Bachelors,2017,Pune,3,33,Male,No,4,0,0.12121212121212122
+Bachelors,2015,New Delhi,3,30,Male,No,5,0,0.16666666666666666
+Bachelors,2015,New Delhi,3,33,Female,No,5,1,0.15151515151515152
+Masters,2017,New Delhi,3,33,Female,No,0,1,0.0
+Bachelors,2016,Pune,3,22,Male,No,0,0,0.0
+Bachelors,2017,New Delhi,2,36,Female,No,1,0,0.027777777777777776
+Bachelors,2014,Pune,3,31,Female,No,2,0,0.06451612903225806
+Bachelors,2013,Bangalore,2,25,Male,No,3,1,0.12
+Bachelors,2012,Pune,1,31,Male,No,4,0,0.12903225806451613
+Masters,2015,Pune,2,39,Female,No,0,0,0.0
+Bachelors,2017,Bangalore,2,25,Female,No,3,1,0.12
+Bachelors,2013,New Delhi,3,35,Female,No,0,0,0.0
+Bachelors,2013,Pune,2,28,Male,No,5,0,0.17857142857142858
+Bachelors,2012,Bangalore,3,32,Female,No,0,0,0.0
+Masters,2017,New Delhi,2,22,Male,No,0,1,0.0
+Bachelors,2014,Pune,3,36,Female,No,5,1,0.1388888888888889
+Bachelors,2014,Bangalore,3,39,Female,No,1,0,0.02564102564102564
+Masters,2014,Pune,3,38,Male,Yes,2,0,0.05263157894736842
+Bachelors,2013,Bangalore,3,33,Male,No,2,0,0.06060606060606061
+Bachelors,2018,Pune,3,28,Male,Yes,0,1,0.0
+Masters,2017,Pune,3,32,Male,Yes,2,0,0.0625
+PHD,2016,New Delhi,3,33,Male,No,0,1,0.0
+Bachelors,2014,New Delhi,3,32,Male,No,5,0,0.15625
+Bachelors,2012,Pune,2,35,Female,No,2,1,0.05714285714285714
+PHD,2013,Bangalore,3,40,Male,No,1,0,0.025
+Bachelors,2017,New Delhi,2,34,Female,No,4,0,0.11764705882352941
+Bachelors,2016,New Delhi,3,39,Female,No,0,0,0.0
+Bachelors,2013,Bangalore,3,29,Male,No,4,0,0.13793103448275862
+Bachelors,2015,Pune,2,23,Female,Yes,1,1,0.043478260869565216
+Bachelors,2015,Pune,3,32,Male,No,0,0,0.0
+Bachelors,2014,Pune,3,28,Male,Yes,4,0,0.14285714285714285
+Masters,2013,New Delhi,2,32,Male,Yes,2,1,0.0625
+Bachelors,2012,New Delhi,3,32,Female,No,0,0,0.0
+PHD,2017,Pune,3,30,Male,No,5,0,0.16666666666666666
+PHD,2015,New Delhi,3,31,Male,No,3,0,0.0967741935483871
+Bachelors,2013,Bangalore,3,37,Female,No,4,0,0.10810810810810811
+Bachelors,2015,Pune,2,22,Female,No,0,1,0.0
+PHD,2015,New Delhi,1,38,Male,No,5,0,0.13157894736842105
+Bachelors,2016,New Delhi,2,26,Female,No,4,1,0.15384615384615385
+Masters,2017,New Delhi,2,31,Male,No,4,0,0.12903225806451613
+Masters,2014,New Delhi,3,28,Male,No,5,0,0.17857142857142858
+PHD,2017,New Delhi,3,34,Female,No,3,0,0.08823529411764706
+Masters,2013,Bangalore,3,31,Male,No,2,0,0.06451612903225806
+Bachelors,2013,Pune,3,40,Female,No,1,1,0.025
+Bachelors,2018,Pune,3,32,Female,No,1,1,0.03125
+Masters,2013,New Delhi,3,31,Male,No,2,1,0.06451612903225806
+Bachelors,2014,Bangalore,3,31,Male,No,5,0,0.16129032258064516
+Bachelors,2015,Pune,3,22,Male,No,0,0,0.0
+PHD,2018,New Delhi,3,38,Female,No,5,1,0.13157894736842105
+Bachelors,2015,Bangalore,3,23,Male,Yes,1,0,0.043478260869565216
+Bachelors,2016,Bangalore,3,34,Male,No,1,0,0.029411764705882353
+Bachelors,2015,Pune,3,37,Female,No,1,1,0.02702702702702703
+PHD,2013,New Delhi,3,23,Male,No,1,0,0.043478260869565216
+Bachelors,2014,New Delhi,3,23,Male,No,1,0,0.043478260869565216
+Bachelors,2018,Pune,2,28,Female,No,4,1,0.14285714285714285
+Bachelors,2014,Pune,3,33,Male,No,3,0,0.09090909090909091
+Bachelors,2018,Bangalore,3,35,Female,No,2,1,0.05714285714285714
+Bachelors,2012,New Delhi,3,30,Female,Yes,1,0,0.03333333333333333
+Bachelors,2015,Bangalore,3,22,Male,Yes,0,0,0.0
+Bachelors,2014,Pune,3,39,Male,No,4,0,0.10256410256410256
+PHD,2012,Bangalore,1,38,Male,No,5,0,0.13157894736842105
+Bachelors,2014,Bangalore,3,22,Female,No,0,1,0.0
+Bachelors,2014,New Delhi,3,36,Female,No,5,0,0.1388888888888889
+Bachelors,2016,Pune,1,32,Male,No,2,0,0.0625
+Bachelors,2017,New Delhi,2,39,Female,No,2,0,0.05128205128205128
+Bachelors,2015,Pune,2,36,Male,No,5,0,0.1388888888888889
+Bachelors,2018,Bangalore,3,34,Male,Yes,5,1,0.14705882352941177
+Bachelors,2018,Bangalore,3,36,Female,Yes,1,1,0.027777777777777776
+PHD,2015,New Delhi,3,22,Female,No,0,0,0.0
+Bachelors,2014,New Delhi,1,28,Female,No,5,0,0.17857142857142858
+Bachelors,2014,Bangalore,1,39,Female,No,4,0,0.10256410256410256
+Bachelors,2012,Bangalore,3,31,Male,No,3,0,0.0967741935483871
+Bachelors,2015,Pune,2,33,Female,No,2,1,0.06060606060606061
+Bachelors,2017,Pune,2,38,Female,No,1,1,0.02631578947368421
+Bachelors,2014,Pune,3,38,Male,No,2,0,0.05263157894736842
+Masters,2017,Pune,2,33,Female,No,2,0,0.06060606060606061
+Bachelors,2018,Pune,3,36,Male,Yes,1,1,0.027777777777777776
+Bachelors,2017,New Delhi,2,40,Female,No,5,0,0.125
+Masters,2012,Bangalore,3,31,Female,No,4,0,0.12903225806451613
+Bachelors,2017,New Delhi,3,28,Female,No,1,1,0.03571428571428571
+Bachelors,2014,Bangalore,3,38,Male,Yes,5,0,0.13157894736842105
+Masters,2015,Pune,3,31,Male,No,0,0,0.0
+Bachelors,2015,Pune,2,25,Male,No,3,1,0.12
+Bachelors,2017,Bangalore,3,40,Male,No,1,0,0.025
+Bachelors,2016,Bangalore,3,32,Male,No,0,0,0.0
+Bachelors,2015,Bangalore,3,33,Male,No,3,1,0.09090909090909091
+Bachelors,2012,New Delhi,3,36,Male,No,3,0,0.08333333333333333
+Bachelors,2013,Bangalore,3,30,Female,No,4,0,0.13333333333333333
+Bachelors,2012,Bangalore,3,23,Male,Yes,1,0,0.043478260869565216
+Masters,2015,Pune,2,31,Female,No,2,0,0.06451612903225806
+Bachelors,2013,Bangalore,3,22,Male,Yes,0,0,0.0
+Masters,2017,New Delhi,2,24,Female,No,2,1,0.08333333333333333
+Bachelors,2016,Bangalore,3,37,Female,Yes,4,0,0.10810810810810811
+Bachelors,2013,Bangalore,3,22,Male,No,0,1,0.0
+Bachelors,2012,Pune,3,35,Male,No,5,0,0.14285714285714285
+Bachelors,2014,New Delhi,3,30,Female,No,3,0,0.1
+Masters,2017,Bangalore,3,36,Male,No,4,1,0.1111111111111111
+Bachelors,2016,Pune,3,40,Male,No,2,0,0.05
+Bachelors,2017,Bangalore,3,38,Male,No,3,0,0.07894736842105263
+Bachelors,2014,Bangalore,3,31,Male,No,3,1,0.0967741935483871
+Bachelors,2014,Bangalore,3,22,Female,No,0,0,0.0
+Bachelors,2012,Pune,3,34,Male,No,0,0,0.0
+Bachelors,2015,New Delhi,3,31,Female,No,0,0,0.0
+Bachelors,2012,Bangalore,3,39,Female,No,3,0,0.07692307692307693
+Masters,2018,New Delhi,3,33,Female,No,2,1,0.06060606060606061
+Bachelors,2015,Bangalore,3,33,Male,No,4,0,0.12121212121212122
+Bachelors,2012,Bangalore,3,38,Male,No,4,0,0.10526315789473684
+Bachelors,2017,Pune,2,22,Female,No,0,1,0.0
+Bachelors,2014,Pune,2,32,Female,No,0,1,0.0
+Bachelors,2014,Pune,3,34,Male,No,5,0,0.14705882352941177
+Bachelors,2014,Bangalore,1,31,Female,No,5,0,0.16129032258064516
+Bachelors,2016,Bangalore,3,23,Male,No,1,0,0.043478260869565216
+Bachelors,2013,Pune,2,39,Female,No,1,1,0.02564102564102564
+Bachelors,2013,Pune,2,33,Female,Yes,4,1,0.12121212121212122
+PHD,2018,New Delhi,3,24,Male,No,2,1,0.08333333333333333
+Bachelors,2017,Bangalore,3,38,Male,No,1,0,0.02631578947368421
+Bachelors,2016,Bangalore,3,31,Male,No,5,0,0.16129032258064516
+Bachelors,2017,Bangalore,3,32,Female,No,3,0,0.09375
+Bachelors,2015,Pune,2,36,Female,No,3,1,0.08333333333333333
+Bachelors,2017,Bangalore,3,28,Male,No,0,0,0.0
+Bachelors,2017,New Delhi,2,31,Male,No,3,0,0.0967741935483871
+Masters,2017,New Delhi,2,36,Female,No,3,0,0.08333333333333333
+Bachelors,2017,Bangalore,3,28,Male,No,3,1,0.10714285714285714
+Bachelors,2015,Pune,3,39,Female,No,2,1,0.05128205128205128
+Bachelors,2013,Bangalore,3,23,Female,No,1,0,0.043478260869565216
+Masters,2013,New Delhi,3,33,Female,No,2,0,0.06060606060606061
+Bachelors,2017,New Delhi,3,39,Female,No,4,0,0.10256410256410256
+Bachelors,2016,Pune,3,33,Male,No,2,0,0.06060606060606061
+Bachelors,2016,Pune,2,29,Female,No,4,1,0.13793103448275862
+Masters,2017,Pune,3,24,Female,No,2,1,0.08333333333333333
+Masters,2013,New Delhi,2,35,Female,No,2,1,0.05714285714285714
+Bachelors,2013,Bangalore,3,39,Male,No,5,1,0.1282051282051282
+Bachelors,2014,Bangalore,3,36,Female,No,3,1,0.08333333333333333
+Bachelors,2017,New Delhi,2,40,Female,No,3,0,0.075
+Bachelors,2012,New Delhi,3,35,Female,No,5,0,0.14285714285714285
+Bachelors,2016,Bangalore,3,33,Male,No,4,0,0.12121212121212122
+PHD,2018,Bangalore,3,33,Male,No,2,1,0.06060606060606061
+Bachelors,2014,Bangalore,3,33,Male,No,3,0,0.09090909090909091
+Bachelors,2016,Bangalore,3,35,Male,No,3,0,0.08571428571428572
+Bachelors,2013,Bangalore,3,33,Male,No,3,1,0.09090909090909091
+Bachelors,2013,Pune,3,36,Female,No,0,1,0.0
+Bachelors,2014,Bangalore,3,39,Female,No,5,0,0.1282051282051282
+Bachelors,2012,Bangalore,3,36,Female,No,4,0,0.1111111111111111
+Bachelors,2016,Bangalore,3,33,Male,No,0,0,0.0
+Bachelors,2013,Pune,1,33,Female,No,0,1,0.0
+Masters,2017,Pune,2,30,Male,Yes,2,1,0.06666666666666667
+Masters,2012,New Delhi,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2015,Bangalore,3,33,Male,Yes,4,0,0.12121212121212122
+Bachelors,2016,Pune,2,35,Female,No,4,1,0.11428571428571428
+Bachelors,2014,Pune,2,40,Female,No,0,1,0.0
+Bachelors,2017,New Delhi,2,40,Male,No,5,0,0.125
+Bachelors,2014,Bangalore,3,29,Male,Yes,0,0,0.0
+Bachelors,2015,Bangalore,3,40,Male,No,4,0,0.1
+Bachelors,2016,Pune,2,39,Female,No,3,1,0.07692307692307693
+Bachelors,2017,New Delhi,2,22,Male,No,0,1,0.0
+PHD,2015,Pune,2,35,Female,No,0,0,0.0
+Bachelors,2014,New Delhi,2,25,Female,No,3,1,0.12
+Masters,2017,New Delhi,1,37,Male,No,0,0,0.0
+Masters,2018,New Delhi,3,27,Female,Yes,5,1,0.18518518518518517
+Bachelors,2016,Pune,3,35,Male,No,1,0,0.02857142857142857
+Masters,2017,New Delhi,3,34,Male,No,1,1,0.029411764705882353
+Bachelors,2018,Bangalore,3,40,Female,No,4,1,0.1
+Bachelors,2012,Pune,3,39,Male,No,4,0,0.10256410256410256
+Bachelors,2013,Pune,1,39,Female,Yes,0,1,0.0
+Bachelors,2015,Bangalore,3,22,Male,No,0,1,0.0
+Masters,2017,Pune,2,33,Male,Yes,2,0,0.06060606060606061
+Bachelors,2014,Bangalore,3,39,Male,No,0,0,0.0
+Bachelors,2014,Bangalore,3,38,Female,No,1,0,0.02631578947368421
+Bachelors,2018,New Delhi,3,36,Female,Yes,2,1,0.05555555555555555
+Bachelors,2013,Pune,2,37,Male,Yes,5,0,0.13513513513513514
+Bachelors,2013,Bangalore,3,37,Female,No,2,1,0.05405405405405406
+Bachelors,2013,Pune,3,34,Male,No,5,0,0.14705882352941177
+Bachelors,2018,Bangalore,3,31,Male,Yes,0,1,0.0
+Masters,2012,New Delhi,3,37,Male,No,4,0,0.10810810810810811
+Masters,2014,New Delhi,3,34,Female,No,1,1,0.029411764705882353
+Bachelors,2015,Pune,3,39,Male,No,1,0,0.02564102564102564
+Bachelors,2017,Pune,2,23,Female,No,1,1,0.043478260869565216
+Bachelors,2013,Bangalore,3,35,Female,No,4,0,0.11428571428571428
+Bachelors,2013,Pune,2,38,Male,No,0,1,0.0
+Masters,2017,New Delhi,1,23,Male,No,1,0,0.043478260869565216
+Bachelors,2015,Pune,2,37,Female,No,4,1,0.10810810810810811
+Bachelors,2013,Bangalore,3,23,Female,Yes,1,0,0.043478260869565216
+Bachelors,2013,Pune,3,31,Male,No,2,0,0.06451612903225806
+Bachelors,2017,Bangalore,3,24,Male,Yes,2,0,0.08333333333333333
+Bachelors,2012,Bangalore,3,36,Female,No,1,0,0.027777777777777776
+Bachelors,2015,Bangalore,3,28,Male,No,1,1,0.03571428571428571
+Bachelors,2017,New Delhi,2,30,Male,No,5,0,0.16666666666666666
+Bachelors,2013,Pune,2,36,Male,No,4,0,0.1111111111111111
+Bachelors,2015,Pune,3,36,Male,No,3,0,0.08333333333333333
+Bachelors,2012,Bangalore,3,22,Male,No,0,1,0.0
+Masters,2017,New Delhi,3,31,Male,No,2,0,0.06451612903225806
+PHD,2017,New Delhi,3,29,Male,No,3,0,0.10344827586206896
+Bachelors,2014,Pune,3,37,Female,No,4,1,0.10810810810810811
+Bachelors,2015,Bangalore,3,31,Male,No,2,1,0.06451612903225806
+Bachelors,2016,New Delhi,1,25,Female,Yes,3,0,0.12
+Bachelors,2013,Pune,1,23,Female,No,1,1,0.043478260869565216
+Bachelors,2015,Bangalore,3,38,Female,No,2,0,0.05263157894736842
+Bachelors,2017,New Delhi,3,37,Female,No,1,1,0.02702702702702703
+PHD,2012,New Delhi,3,30,Male,No,4,0,0.13333333333333333
+Bachelors,2012,Bangalore,3,35,Female,No,2,0,0.05714285714285714
+PHD,2014,Bangalore,3,23,Male,No,1,0,0.043478260869565216
+PHD,2013,Pune,1,32,Female,No,0,1,0.0
+Bachelors,2015,Pune,3,28,Female,No,1,1,0.03571428571428571
+Bachelors,2015,New Delhi,3,23,Female,No,1,0,0.043478260869565216
+PHD,2014,Bangalore,1,34,Female,No,3,0,0.08823529411764706
+Bachelors,2014,Bangalore,1,36,Female,No,1,0,0.027777777777777776
+Bachelors,2017,Bangalore,3,40,Male,No,5,0,0.125
+Bachelors,2017,Bangalore,3,23,Male,No,1,0,0.043478260869565216
+Bachelors,2015,Bangalore,1,35,Male,No,3,0,0.08571428571428572
+Masters,2017,New Delhi,2,39,Female,No,4,0,0.10256410256410256
+PHD,2017,New Delhi,3,31,Female,No,5,0,0.16129032258064516
+Bachelors,2014,Bangalore,3,32,Male,No,2,0,0.0625
+Bachelors,2017,New Delhi,2,37,Female,No,3,0,0.08108108108108109
+Bachelors,2013,Pune,3,24,Male,Yes,2,0,0.08333333333333333
+Masters,2017,New Delhi,3,40,Male,No,2,0,0.05
+Bachelors,2014,Bangalore,3,39,Male,No,3,0,0.07692307692307693
+Bachelors,2017,New Delhi,2,33,Male,No,3,0,0.09090909090909091
+Bachelors,2016,Pune,3,36,Male,Yes,3,0,0.08333333333333333
+Bachelors,2015,Pune,1,39,Male,No,1,1,0.02564102564102564
+Bachelors,2014,New Delhi,2,23,Female,No,1,1,0.043478260869565216
+Bachelors,2014,Pune,1,33,Female,No,2,1,0.06060606060606061
+Bachelors,2013,Bangalore,3,31,Male,No,3,0,0.0967741935483871
+Bachelors,2017,Bangalore,3,36,Male,No,4,1,0.1111111111111111
+Bachelors,2013,New Delhi,3,28,Female,No,0,1,0.0
+Bachelors,2013,Bangalore,3,36,Female,No,0,1,0.0
+Bachelors,2014,Bangalore,3,30,Male,No,1,1,0.03333333333333333
+Bachelors,2018,Bangalore,3,31,Male,No,0,1,0.0
+Bachelors,2013,Bangalore,3,36,Male,No,0,0,0.0
+Bachelors,2017,New Delhi,2,31,Male,No,1,0,0.03225806451612903
+Bachelors,2015,Pune,2,38,Male,No,2,1,0.05263157894736842
+Masters,2017,New Delhi,3,40,Female,No,1,0,0.025
+Masters,2015,Bangalore,3,38,Female,No,1,0,0.02631578947368421
+PHD,2014,New Delhi,3,23,Male,No,1,0,0.043478260869565216
+Bachelors,2014,Bangalore,3,30,Male,No,4,0,0.13333333333333333
+Bachelors,2016,New Delhi,3,25,Female,No,3,0,0.12
+Bachelors,2013,Bangalore,3,34,Male,No,4,0,0.11764705882352941
+Masters,2015,New Delhi,3,40,Female,No,5,0,0.125
+Bachelors,2012,Bangalore,3,39,Female,No,1,0,0.02564102564102564
+Masters,2017,New Delhi,3,38,Female,No,2,1,0.05263157894736842
+Bachelors,2016,Pune,3,38,Male,No,2,0,0.05263157894736842
+Bachelors,2015,Pune,2,38,Female,No,4,1,0.10526315789473684
+Bachelors,2017,Pune,1,30,Male,No,4,0,0.13333333333333333
+PHD,2013,Bangalore,3,24,Male,No,2,0,0.08333333333333333
+Bachelors,2013,Pune,3,37,Male,No,3,0,0.08108108108108109
+PHD,2012,Bangalore,3,30,Female,No,4,0,0.13333333333333333
+Bachelors,2013,Bangalore,3,39,Female,No,5,0,0.1282051282051282
+Bachelors,2017,Bangalore,2,35,Male,No,0,0,0.0
+Bachelors,2018,Bangalore,3,31,Female,No,2,1,0.06451612903225806
+Bachelors,2016,New Delhi,1,38,Female,No,2,1,0.05263157894736842
+Masters,2014,New Delhi,3,37,Female,No,0,1,0.0
+Bachelors,2018,Bangalore,3,32,Male,Yes,2,1,0.0625
+Bachelors,2017,Bangalore,3,28,Male,No,0,1,0.0
+Bachelors,2016,Bangalore,1,33,Female,No,0,1,0.0
+Bachelors,2013,Bangalore,3,31,Female,No,5,0,0.16129032258064516
+Bachelors,2015,Pune,3,32,Female,Yes,1,1,0.03125
+Masters,2017,Pune,2,31,Female,No,2,0,0.06451612903225806
+Bachelors,2016,Pune,3,30,Male,No,2,0,0.06666666666666667
+Masters,2013,Pune,2,37,Male,No,2,1,0.05405405405405406
+Masters,2018,New Delhi,3,27,Male,No,5,1,0.18518518518518517
+Bachelors,2012,Bangalore,3,30,Male,Yes,2,0,0.06666666666666667
